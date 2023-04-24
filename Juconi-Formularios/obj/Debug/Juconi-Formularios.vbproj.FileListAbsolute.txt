@@ -1,0 +1,400 @@
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Juconi-Formularios.dll.config
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Juconi-Formularios.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Juconi-Formularios.pdb
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\WebForms_Basic.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Net.Http.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi_Formularios.Resources.resources
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CopyComplete
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.dll
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\WebForms_Basic.xml
+C:\Users\lenovo\Desktop\Servicio Social\Juconi-Formularios\obj\Debug\Juconi-Formularios.pdb
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Juconi-Formularios.dll.config
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Juconi-Formularios.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Juconi-Formularios.pdb
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\WebForms_Basic.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csc.exe
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csc.exe.config
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csc.rsp
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csi.exe
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csi.exe.config
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\csi.rsp
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.AppContext.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Console.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.IO.Compression.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Net.Http.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.ValueTuple.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\vbc.exe
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\vbc.exe.config
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\vbc.rsp
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Antlr3.Runtime.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\System.Web.Optimization.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\WebGrease.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\System.Web.Optimization.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Newtonsoft.Json.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Antlr3.Runtime.pdb
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi_Formularios.Resources.resources
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CopyComplete
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.dll
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\WebForms_Basic.xml
+C:\Users\lenovo\Desktop\Juconi-Formularios\obj\Debug\Juconi-Formularios.pdb
+E:\Juconi-Formularios\bin\Juconi-Formularios.dll.config
+E:\Juconi-Formularios\bin\Juconi-Formularios.dll
+E:\Juconi-Formularios\bin\Juconi-Formularios.pdb
+E:\Juconi-Formularios\bin\WebForms_Basic.xml
+E:\Juconi-Formularios\bin\roslyn\csc.exe
+E:\Juconi-Formularios\bin\roslyn\csc.exe.config
+E:\Juconi-Formularios\bin\roslyn\csc.rsp
+E:\Juconi-Formularios\bin\roslyn\csi.exe
+E:\Juconi-Formularios\bin\roslyn\csi.exe.config
+E:\Juconi-Formularios\bin\roslyn\csi.rsp
+E:\Juconi-Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Juconi-Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Juconi-Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Juconi-Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Juconi-Formularios\bin\roslyn\System.AppContext.dll
+E:\Juconi-Formularios\bin\roslyn\System.Collections.Immutable.dll
+E:\Juconi-Formularios\bin\roslyn\System.Console.dll
+E:\Juconi-Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Juconi-Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Juconi-Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Juconi-Formularios\bin\roslyn\System.Globalization.Calendars.dll
+E:\Juconi-Formularios\bin\roslyn\System.IO.Compression.dll
+E:\Juconi-Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.dll
+E:\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Juconi-Formularios\bin\roslyn\System.Net.Http.dll
+E:\Juconi-Formularios\bin\roslyn\System.Net.Sockets.dll
+E:\Juconi-Formularios\bin\roslyn\System.Reflection.Metadata.dll
+E:\Juconi-Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Juconi-Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Juconi-Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Juconi-Formularios\bin\roslyn\System.ValueTuple.dll
+E:\Juconi-Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Juconi-Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Juconi-Formularios\bin\roslyn\System.Xml.XPath.dll
+E:\Juconi-Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Juconi-Formularios\bin\roslyn\vbc.exe
+E:\Juconi-Formularios\bin\roslyn\vbc.exe.config
+E:\Juconi-Formularios\bin\roslyn\vbc.rsp
+E:\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe
+E:\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe.config
+E:\Juconi-Formularios\bin\Antlr3.Runtime.dll
+E:\Juconi-Formularios\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Juconi-Formularios\bin\AspNet.ScriptManager.jQuery.dll
+E:\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Juconi-Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Juconi-Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Juconi-Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Juconi-Formularios\bin\Microsoft.Web.Infrastructure.dll
+E:\Juconi-Formularios\bin\Newtonsoft.Json.dll
+E:\Juconi-Formularios\bin\System.Web.Optimization.dll
+E:\Juconi-Formularios\bin\WebGrease.dll
+E:\Juconi-Formularios\bin\System.Web.Optimization.xml
+E:\Juconi-Formularios\bin\Newtonsoft.Json.xml
+E:\Juconi-Formularios\bin\Antlr3.Runtime.pdb
+E:\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Juconi-Formularios\bin\es\System.Web.Optimization.resources.dll
+E:\Juconi-Formularios\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.AssemblyReference.cache
+E:\Juconi-Formularios\obj\Debug\Juconi_Formularios.Resources.resources
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.GenerateResource.cache
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CoreCompileInputs.cache
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CopyComplete
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.dll
+E:\Juconi-Formularios\obj\Debug\WebForms_Basic.xml
+E:\Juconi-Formularios\obj\Debug\Juconi-Formularios.pdb
+D:\Juconi-Formularios\bin\Juconi-Formularios.dll.config
+D:\Juconi-Formularios\bin\Juconi-Formularios.dll
+D:\Juconi-Formularios\bin\Juconi-Formularios.pdb
+D:\Juconi-Formularios\bin\WebForms_Basic.xml
+D:\Juconi-Formularios\bin\roslyn\csc.exe
+D:\Juconi-Formularios\bin\roslyn\csc.exe.config
+D:\Juconi-Formularios\bin\roslyn\csc.rsp
+D:\Juconi-Formularios\bin\roslyn\csi.exe
+D:\Juconi-Formularios\bin\roslyn\csi.exe.config
+D:\Juconi-Formularios\bin\roslyn\csi.rsp
+D:\Juconi-Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Juconi-Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Juconi-Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Juconi-Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Juconi-Formularios\bin\roslyn\System.AppContext.dll
+D:\Juconi-Formularios\bin\roslyn\System.Collections.Immutable.dll
+D:\Juconi-Formularios\bin\roslyn\System.Console.dll
+D:\Juconi-Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Juconi-Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Juconi-Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Juconi-Formularios\bin\roslyn\System.Globalization.Calendars.dll
+D:\Juconi-Formularios\bin\roslyn\System.IO.Compression.dll
+D:\Juconi-Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.dll
+D:\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Juconi-Formularios\bin\roslyn\System.Net.Http.dll
+D:\Juconi-Formularios\bin\roslyn\System.Net.Sockets.dll
+D:\Juconi-Formularios\bin\roslyn\System.Reflection.Metadata.dll
+D:\Juconi-Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Juconi-Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Juconi-Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Juconi-Formularios\bin\roslyn\System.ValueTuple.dll
+D:\Juconi-Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Juconi-Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Juconi-Formularios\bin\roslyn\System.Xml.XPath.dll
+D:\Juconi-Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Juconi-Formularios\bin\roslyn\vbc.exe
+D:\Juconi-Formularios\bin\roslyn\vbc.exe.config
+D:\Juconi-Formularios\bin\roslyn\vbc.rsp
+D:\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe
+D:\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe.config
+D:\Juconi-Formularios\bin\Antlr3.Runtime.dll
+D:\Juconi-Formularios\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Juconi-Formularios\bin\AspNet.ScriptManager.jQuery.dll
+D:\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Juconi-Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Juconi-Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Juconi-Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Juconi-Formularios\bin\Microsoft.Web.Infrastructure.dll
+D:\Juconi-Formularios\bin\Newtonsoft.Json.dll
+D:\Juconi-Formularios\bin\System.Web.Optimization.dll
+D:\Juconi-Formularios\bin\WebGrease.dll
+D:\Juconi-Formularios\bin\System.Web.Optimization.xml
+D:\Juconi-Formularios\bin\Newtonsoft.Json.xml
+D:\Juconi-Formularios\bin\Antlr3.Runtime.pdb
+D:\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Juconi-Formularios\bin\es\System.Web.Optimization.resources.dll
+D:\Juconi-Formularios\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.AssemblyReference.cache
+D:\Juconi-Formularios\obj\Debug\Juconi_Formularios.Resources.resources
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.GenerateResource.cache
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CoreCompileInputs.cache
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CopyComplete
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.dll
+D:\Juconi-Formularios\obj\Debug\WebForms_Basic.xml
+D:\Juconi-Formularios\obj\Debug\Juconi-Formularios.pdb
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\vbc.exe
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Juconi-Formularios.dll.config
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Juconi-Formularios.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Juconi-Formularios.pdb
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\WebForms_Basic.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csc.exe
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csc.exe.config
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csc.rsp
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csi.exe
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csi.exe.config
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\csi.rsp
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.AppContext.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Console.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.IO.Compression.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Net.Http.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.ValueTuple.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\vbc.exe.config
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\vbc.rsp
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Antlr3.Runtime.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Newtonsoft.Json.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\System.Web.Optimization.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\WebGrease.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\System.Web.Optimization.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Newtonsoft.Json.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Antlr3.Runtime.pdb
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\es\System.Web.Optimization.resources.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.AssemblyReference.cache
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi_Formularios.Resources.resources
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.GenerateResource.cache
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.vbproj.CopyComplete
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.dll
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\WebForms_Basic.xml
+C:\Users\CAF_SUR_PC\Documents\Lucero\Formularios\Juconi-Formularios\obj\Debug\Juconi-Formularios.pdb
