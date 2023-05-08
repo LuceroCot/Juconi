@@ -3124,27 +3124,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputAp">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputFam">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputAm">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -3178,18 +3178,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputTera">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputAtt">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputAtencionFamiliar">
 <summary>
-Control inputAtt.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -3205,18 +3205,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputRol">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputResponsable">
+<member name="F:Juconi_Formularios.Mapa4Cuadrantes._inputAdultoResponsable">
 <summary>
-Control inputResponsable.
+Control inputAdultoResponsable.
 </summary>
 <remarks>
 Campo generado automáticamente.
