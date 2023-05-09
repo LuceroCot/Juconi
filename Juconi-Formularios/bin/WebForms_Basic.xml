@@ -2845,141 +2845,6 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputNru">
-<summary>
-Control inputNru.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputNombre">
-<summary>
-Control inputNombre.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputClave">
-<summary>
-Control inputClave.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputAp">
-<summary>
-Control inputAp.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputFam">
-<summary>
-Control inputFam.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputAm">
-<summary>
-Control inputAm.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputEdad">
-<summary>
-Control inputEdad.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputFechaReporte">
-<summary>
-Control inputFechaReporte.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputPrograma">
-<summary>
-Control inputPrograma.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputTera">
-<summary>
-Control inputTera.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputAtt">
-<summary>
-Control inputAtt.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._localAmbienteJuconi">
-<summary>
-Control localAmbienteJuconi.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputRol">
-<summary>
-Control inputRol.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputResponsable">
-<summary>
-Control inputResponsable.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._tutoriaLegal">
-<summary>
-Control tutoriaLegal.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox1">
 <summary>
 Control TextBox1.
@@ -3001,6 +2866,33 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox3">
 <summary>
 Control TextBox3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputApellidoPaterno">
+<summary>
+Control inputApellidoPaterno.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputFamilia">
+<summary>
+Control inputFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputApellidoMaterno">
+<summary>
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -3034,9 +2926,45 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputTerapeuta">
+<summary>
+Control inputTerapeuta.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputAtencionFamiliar">
+<summary>
+Control inputAtencionFamiliar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox7">
 <summary>
 Control TextBox7.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputRolFamilia">
+<summary>
+Control inputRolFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._inputAdultoResponsable">
+<summary>
+Control inputAdultoResponsable.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -3052,45 +2980,729 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox9">
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item1a">
 <summary>
-Control TextBox9.
+Control item1a.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox10">
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item3a">
 <summary>
-Control TextBox10.
+Control item3a.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox11">
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item4a">
 <summary>
-Control TextBox11.
+Control item4a.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox12">
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item5a">
 <summary>
-Control TextBox12.
+Control item5a.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._TextBox13">
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item11a">
 <summary>
-Control TextBox13.
+Control item11a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item12a">
+<summary>
+Control item12a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item14a">
+<summary>
+Control item14a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item28a">
+<summary>
+Control item28a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item39a">
+<summary>
+Control item39a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item40a">
+<summary>
+Control item40a.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma1">
+<summary>
+Control suma1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje1">
+<summary>
+Control puntaje1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item8b">
+<summary>
+Control item8b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item10b">
+<summary>
+Control item10b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item17b">
+<summary>
+Control item17b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item26b">
+<summary>
+Control item26b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item31b">
+<summary>
+Control item31b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item34b">
+<summary>
+Control item34b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item35b">
+<summary>
+Control item35b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item40b">
+<summary>
+Control item40b.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma2">
+<summary>
+Control suma2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje2">
+<summary>
+Control puntaje2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item16c">
+<summary>
+Control item16c.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item25c">
+<summary>
+Control item25c.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item26c">
+<summary>
+Control item26c.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item28c">
+<summary>
+Control item28c.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma3">
+<summary>
+Control suma3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje3">
+<summary>
+Control puntaje3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item22d">
+<summary>
+Control item22d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item23d">
+<summary>
+Control item23d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item24d">
+<summary>
+Control item24d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item27d">
+<summary>
+Control item27d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item31d">
+<summary>
+Control item31d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item32d">
+<summary>
+Control item32d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item33d">
+<summary>
+Control item33d.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma4">
+<summary>
+Control suma4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje4">
+<summary>
+Control puntaje4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item7e">
+<summary>
+Control item7e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item16e">
+<summary>
+Control item16e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item18e">
+<summary>
+Control item18e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item20e">
+<summary>
+Control item20e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item39e">
+<summary>
+Control item39e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item40e">
+<summary>
+Control item40e.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma5">
+<summary>
+Control suma5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje5">
+<summary>
+Control puntaje5.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item5f">
+<summary>
+Control item5f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item9f">
+<summary>
+Control item9f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item36f">
+<summary>
+Control item36f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item37f">
+<summary>
+Control item37f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item38f">
+<summary>
+Control item38f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item39f">
+<summary>
+Control item39f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item40f">
+<summary>
+Control item40f.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma6">
+<summary>
+Control suma6.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje6">
+<summary>
+Control puntaje6.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item4g">
+<summary>
+Control item4g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item10g">
+<summary>
+Control item10g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item15g">
+<summary>
+Control item15g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item18g">
+<summary>
+Control item18g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item19g">
+<summary>
+Control item19g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item21g">
+<summary>
+Control item21g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item22g">
+<summary>
+Control item22g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item36g">
+<summary>
+Control item36g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item38g">
+<summary>
+Control item38g.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma7">
+<summary>
+Control suma7.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje7">
+<summary>
+Control puntaje7.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item6h">
+<summary>
+Control item6h.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item15h">
+<summary>
+Control item15h.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item29h">
+<summary>
+Control item29h.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item34h">
+<summary>
+Control item34h.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma8">
+<summary>
+Control suma8.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje8">
+<summary>
+Control puntaje8.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item2i">
+<summary>
+Control item2i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item12i">
+<summary>
+Control item12i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item13i">
+<summary>
+Control item13i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item14i">
+<summary>
+Control item14i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item17i">
+<summary>
+Control item17i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._item40i">
+<summary>
+Control item40i.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._suma9">
+<summary>
+Control suma9.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._puntaje9">
+<summary>
+Control puntaje9.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._totalSuma">
+<summary>
+Control totalSuma.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Juconi_Formularios.InstrumentoViolenciaFamiliar._totalPuntaje">
+<summary>
+Control totalPuntaje.
 </summary>
 <remarks>
 Campo generado automáticamente.
