@@ -284,13 +284,13 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value26 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control value31_2.
+    '''Control value31.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents value31_2 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents value31 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value34.
@@ -320,22 +320,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value40_2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control suma1b.
+    '''Control suma2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents suma1b As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control suma2b.
+    '''Control total2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents suma2b As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value16.
@@ -383,22 +383,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value30 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox9.
+    '''Control suma3.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox9 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma3 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox10.
+    '''Control total3.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox10 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total3 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value22.
@@ -437,13 +437,13 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value27 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control value31.
+    '''Control value31_2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents value31 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents value31_2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value32.
@@ -464,22 +464,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value33 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox6.
+    '''Control suma4.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox6 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma4 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox7.
+    '''Control total4.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox7 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total4 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value7.
@@ -536,22 +536,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value40_3 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox12.
+    '''Control suma5.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox12 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma5 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox13.
+    '''Control total5.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox13 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total5 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value5_2.
@@ -617,22 +617,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value40_4 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox14.
+    '''Control suma6.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox14 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma6 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox15.
+    '''Control total6.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox15 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total6 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value4_2.
@@ -716,22 +716,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value38_2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox18.
+    '''Control suma7.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox18 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma7 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox19.
+    '''Control total7.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox19 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total7 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value6.
@@ -770,22 +770,22 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value34_2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox23.
+    '''Control suma8.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox23 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma8 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox1.
+    '''Control total8.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox1 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total8 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value2.
@@ -842,20 +842,38 @@ Partial Public Class EscFuncionamientoFamiliar
     Protected WithEvents value40_5 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox20.
+    '''Control suma9.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox20 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents suma9 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control TextBox21.
+    '''Control total9.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents TextBox21 As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents total9 As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control suma10.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents suma10 As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control total10.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents total10 As Global.System.Web.UI.WebControls.TextBox
 End Class
