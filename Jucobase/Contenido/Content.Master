@@ -62,19 +62,11 @@
                 padding-left: 40px;
             }
 
-            /*.child-tab{
-                border: 0;
-            }
-
-            .border-tab > :not(:first-child),
-            .border-param{
-                border: 1px solid #C0C0C0;
-                max-width:max-content;
-                color: black;
-            }*/
-
             .child-tab{
-                border: 1px solid #C0C0C0;
+                border-top: 1px solid #C0C0C0;
+                border-bottom: 1px solid #C0C0C0 !important;
+                border-right: 1px solid #C0C0C0;
+                border-left: 1px solid #C0C0C0;
                 max-width:max-content;
                 color: black;
             }

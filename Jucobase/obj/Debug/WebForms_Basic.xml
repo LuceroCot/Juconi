@@ -1720,126 +1720,135 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtClave">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputNru">
 <summary>
-Control txtClave.
+Control inputNru.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtFamilia">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputNombre">
 <summary>
-Control txtFamilia.
+Control inputNombre.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtNombre">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputClave">
 <summary>
-Control txtNombre.
+Control inputClave.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtApellidoPaterno">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputApellidoPaterno">
 <summary>
-Control txtApellidoPaterno.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtApellidoMaterno">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputFamilia">
 <summary>
-Control txtApellidoMaterno.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtEdad">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputApellidoMaterno">
 <summary>
-Control txtEdad.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtFechaReporte">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputEdad">
 <summary>
-Control txtFechaReporte.
+Control inputEdad.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtPrograma">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputFechaReporte">
 <summary>
-Control txtPrograma.
+Control inputFechaReporte.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtTerapeuta">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputPrograma">
 <summary>
-Control txtTerapeuta.
+Control inputPrograma.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._atencionFamiliar">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputTerapeuta">
 <summary>
-Control atencionFamiliar.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtLocalAmbienteJuconi">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputAtencionFamiliar">
 <summary>
-Control txtLocalAmbienteJuconi.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtRolEnFamilia">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._localAmbienteJuconi">
 <summary>
-Control txtRolEnFamilia.
+Control localAmbienteJuconi.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtAdultoResponsable">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputRolFamilia">
 <summary>
-Control txtAdultoResponsable.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.EscFuncionamientoFamiliar._txtTutoriaLegal">
+<member name="F:Jucobase.EscFuncionamientoFamiliar._inputAdultoResponsable">
 <summary>
-Control txtTutoriaLegal.
+Control inputAdultoResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.EscFuncionamientoFamiliar._tutoriaLegal">
+<summary>
+Control tutoriaLegal.
 </summary>
 <remarks>
 Campo generado automáticamente.

@@ -14,130 +14,139 @@ Option Explicit On
 Partial Public Class EscFuncionamientoFamiliar
 
     '''<summary>
-    '''Control txtClave.
+    '''Control inputNru.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtClave As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputNru As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtFamilia.
+    '''Control inputNombre.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtFamilia As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputNombre As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtNombre.
+    '''Control inputClave.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtNombre As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputClave As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtApellidoPaterno.
+    '''Control inputApellidoPaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtApellidoPaterno As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoPaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtApellidoMaterno.
+    '''Control inputFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtApellidoMaterno As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtEdad.
+    '''Control inputApellidoMaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtEdad As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoMaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtFechaReporte.
+    '''Control inputEdad.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtFechaReporte As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputEdad As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtPrograma.
+    '''Control inputFechaReporte.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtPrograma As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputFechaReporte As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtTerapeuta.
+    '''Control inputPrograma.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtTerapeuta As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputPrograma As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control atencionFamiliar.
+    '''Control inputTerapeuta.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents atencionFamiliar As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents inputTerapeuta As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtLocalAmbienteJuconi.
+    '''Control inputAtencionFamiliar.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtLocalAmbienteJuconi As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputAtencionFamiliar As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control txtRolEnFamilia.
+    '''Control localAmbienteJuconi.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtRolEnFamilia As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents localAmbienteJuconi As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtAdultoResponsable.
+    '''Control inputRolFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtAdultoResponsable As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputRolFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control txtTutoriaLegal.
+    '''Control inputAdultoResponsable.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents txtTutoriaLegal As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputAdultoResponsable As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control tutoriaLegal.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents tutoriaLegal As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control value1.
