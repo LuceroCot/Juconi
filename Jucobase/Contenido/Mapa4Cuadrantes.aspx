@@ -114,7 +114,7 @@
                             <div class="card-body mt-3">
                               <h5 class="card-title fw-bold ps-3">&nbsp Captura de Mapa de 4 Cuadrantes </h5>
 
-                                <div class="row d-inline-flex ps-3 mt-3">
+                                <div class="row d-inline-flex mt-3 ps-3 ms-2">
                                     <div class="col">
                                         <label for="inputNru" class="form-label fw-bold">NRU</label>
                                          <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
@@ -129,41 +129,41 @@
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputNombre" class="form-label fw-bold">Nombre</label>
                                         <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
                                         <asp:TextBox ID="inputClave" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputApellidoPaterno" class="form-label fw-bold">Apellido Paterno</label>
                                         <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputFamilia" class="form-label fw-bold">Familia</label>
                                         <asp:TextBox ID="inputFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputApellidoMaterno" class="form-label fw-bold">Apellido Materno</label>
                                         <asp:TextBox ID="inputApellidoMaterno" runat="server" CssClass="form-control" ></asp:TextBox>
                                      </div>
-                                     <div class="col-sm-2 ps-4 mt-3">
+                                     <div class="col-sm-2 ps-5 mt-3">
                                         <label for="inputEdad" class="form-label fw-bold">Edad</label>
                                         <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
                                      </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-sm-4 ps-4 input-date mt-3">
+                                    <div class="col-sm-4 ps-5 input-date mt-3">
                                         <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
                                         <i class="fa-regular fa-calendar"></i>
                                         <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
@@ -171,19 +171,19 @@
                                 </div>
 
                                 <div class="row">
-                                   <div class="col-sm-4 ps-4 mt-3">
+                                   <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputPrograma" class="form-label fw-bold">Programa</label>
                                         <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
 
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputTerapeuta" class="form-label fw-bold">Terapeuta</label>
                                         <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
                                     </div>
                                 </div>
 
                                 <div class="row mt-3" id="perfilAtencionFamiliar" style="display: ;">
-                                   <div class="col-sm-4 ps-4">
+                                   <div class="col-sm-4 ps-5">
                                         <label for="inputAtencionFamiliar" class="form-label fw-bold">Modelo de Atención Familiar</label>
                                         <asp:DropDownList ID="inputAtencionFamiliar" AutoPostBack="false"
                                                 CssClass="form-select" runat="server">
@@ -195,18 +195,18 @@
                                 </div>
 
                                 <div class="row mt-3">
-                                    <div class="col-sm-4 ps-4">
+                                    <div class="col-sm-4 ps-5">
                                         <label for="localAmbienteJuconi" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
                                         <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputRolFamilia" class="form-label fw-bold">Rol en la familia</label>
                                         <asp:TextBox ID="inputRolFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
-                                    <div class="col-sm-4 ps-4 mt-3">
+                                    <div class="col-sm-4 ps-5 mt-3">
                                         <label for="inputAultoResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
                                         <asp:TextBox ID="inputAdultoResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
 
@@ -220,7 +220,7 @@
                                     </div>
                                 </div>
 
-                                <br /><br />
+                                <br /><br /> <br />
 
                                 <!-- Tabla -->
                                 <div class="dataTable-wrapper fixed-columns">
