@@ -1657,27 +1657,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputAp">
+<member name="F:Jucobase.Educacion._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputFam">
+<member name="F:Jucobase.Educacion._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputAm">
+<member name="F:Jucobase.Educacion._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -1711,18 +1711,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputTera">
+<member name="F:Jucobase.Educacion._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputAtt">
+<member name="F:Jucobase.Educacion._inputAtencionFamiliar">
 <summary>
-Control inputAtt.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -1738,18 +1738,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputRol">
+<member name="F:Jucobase.Educacion._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Educacion._inputResponsable">
+<member name="F:Jucobase.Educacion._inputAdultoResponsable">
 <summary>
-Control inputResponsable.
+Control inputAdultoResponsable.
 </summary>
 <remarks>
 Campo generado automáticamente.
