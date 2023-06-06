@@ -334,27 +334,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._inputAp">
+<member name="F:Jucobase.Contacto._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._inputFam">
+<member name="F:Jucobase.Contacto._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._inputAm">
+<member name="F:Jucobase.Contacto._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -406,9 +406,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._inputRol">
+<member name="F:Jucobase.Contacto._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -12502,27 +12502,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputAp">
+<member name="F:Jucobase.Socioeconomicos._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputFam">
+<member name="F:Jucobase.Socioeconomicos._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputAm">
+<member name="F:Jucobase.Socioeconomicos._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -12556,18 +12556,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputTera">
+<member name="F:Jucobase.Socioeconomicos._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputAtt">
+<member name="F:Jucobase.Socioeconomicos._inputAtencionFamiliar">
 <summary>
-Control inputAtt.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -12583,18 +12583,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputRol">
+<member name="F:Jucobase.Socioeconomicos._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Socioeconomicos._inputResponsable">
+<member name="F:Jucobase.Socioeconomicos._inputAdultoResponsable">
 <summary>
-Control inputResponsable.
+Control inputAdultoResponsable.
 </summary>
 <remarks>
 Campo generado automáticamente.
