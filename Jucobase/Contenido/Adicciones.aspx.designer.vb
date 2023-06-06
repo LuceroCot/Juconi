@@ -41,31 +41,31 @@ Partial Public Class Adicciones
     Protected WithEvents inputClave As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAp.
+    '''Control inputApellidoPaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAp As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoPaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputFam.
+    '''Control inputFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputFam As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAm.
+    '''Control inputApellidoMaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAm As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoMaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control inputEdad.
@@ -95,22 +95,22 @@ Partial Public Class Adicciones
     Protected WithEvents inputPrograma As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputTera.
+    '''Control inputTerapeuta.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputTera As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputTerapeuta As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAtt.
+    '''Control inputAtencionFamiliar.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAtt As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents inputAtencionFamiliar As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control localAmbienteJuconi.
@@ -122,22 +122,22 @@ Partial Public Class Adicciones
     Protected WithEvents localAmbienteJuconi As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputRol.
+    '''Control inputRolFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputRol As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputRolFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputResponsable.
+    '''Control inputAdultoResponsable.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputResponsable As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputAdultoResponsable As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control tutoriaLegal.
