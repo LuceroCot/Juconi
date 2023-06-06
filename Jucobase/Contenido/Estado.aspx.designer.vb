@@ -41,31 +41,31 @@ Partial Public Class Estado
     Protected WithEvents inputClave As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAp.
+    '''Control inputApellidoPaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAp As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoPaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputFam.
+    '''Control inputFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputFam As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAm.
+    '''Control inputApellidoMaterno.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAm As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoMaterno As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control inputEdad.
@@ -95,22 +95,22 @@ Partial Public Class Estado
     Protected WithEvents inputPrograma As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputTera.
+    '''Control inputTerapeuta.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputTera As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputTerapeuta As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputAtt.
+    '''Control inputAtencionFamiliar.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputAtt As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents inputAtencionFamiliar As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control localAmbienteJuconi.
@@ -122,58 +122,49 @@ Partial Public Class Estado
     Protected WithEvents localAmbienteJuconi As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputRol.
+    '''Control inputRolFamilia.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputRol As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputRolFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control responsable1.
+    '''Control RadioButton1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents responsable1 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents RadioButton1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control responsable2.
+    '''Control RadioButton2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents responsable2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents RadioButton2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control tutoria.
+    '''Control RadioButton3.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents tutoria As Global.System.Web.UI.HtmlControls.HtmlGenericControl
+    Protected WithEvents RadioButton3 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control turoria1.
+    '''Control RadioButton4.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents turoria1 As Global.System.Web.UI.WebControls.RadioButton
-
-    '''<summary>
-    '''Control tutoria2.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents tutoria2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents RadioButton4 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control ciclo1.

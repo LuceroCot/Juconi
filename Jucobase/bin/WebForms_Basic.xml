@@ -2872,27 +2872,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputAp">
+<member name="F:Jucobase.Estado._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputFam">
+<member name="F:Jucobase.Estado._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputAm">
+<member name="F:Jucobase.Estado._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -2926,18 +2926,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputTera">
+<member name="F:Jucobase.Estado._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputAtt">
+<member name="F:Jucobase.Estado._inputAtencionFamiliar">
 <summary>
-Control inputAtt.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -2953,54 +2953,45 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._inputRol">
+<member name="F:Jucobase.Estado._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._responsable1">
+<member name="F:Jucobase.Estado._RadioButton1">
 <summary>
-Control responsable1.
+Control RadioButton1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._responsable2">
+<member name="F:Jucobase.Estado._RadioButton2">
 <summary>
-Control responsable2.
+Control RadioButton2.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._tutoria">
+<member name="F:Jucobase.Estado._RadioButton3">
 <summary>
-Control tutoria.
+Control RadioButton3.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._turoria1">
+<member name="F:Jucobase.Estado._RadioButton4">
 <summary>
-Control turoria1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Estado._tutoria2">
-<summary>
-Control tutoria2.
+Control RadioButton4.
 </summary>
 <remarks>
 Campo generado automáticamente.
