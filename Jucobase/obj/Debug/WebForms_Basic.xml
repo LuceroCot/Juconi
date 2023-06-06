@@ -11260,27 +11260,27 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputAp">
+<member name="F:Jucobase.Salud._inputApellidoPaterno">
 <summary>
-Control inputAp.
+Control inputApellidoPaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputFam">
+<member name="F:Jucobase.Salud._inputFamilia">
 <summary>
-Control inputFam.
+Control inputFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputAm">
+<member name="F:Jucobase.Salud._inputApellidoMaterno">
 <summary>
-Control inputAm.
+Control inputApellidoMaterno.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -11314,18 +11314,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputTera">
+<member name="F:Jucobase.Salud._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputAtt">
+<member name="F:Jucobase.Salud._inputAtencionFamiliar">
 <summary>
-Control inputAtt.
+Control inputAtencionFamiliar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -11341,18 +11341,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputRol">
+<member name="F:Jucobase.Salud._inputRolFamilia">
 <summary>
-Control inputRol.
+Control inputRolFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputResponsable">
+<member name="F:Jucobase.Salud._inputAdultoResponsable">
 <summary>
-Control inputResponsable.
+Control inputAdultoResponsable.
 </summary>
 <remarks>
 Campo generado automáticamente.

@@ -22,7 +22,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
    <main id="main" class="main">
         <div class="pagetitle">
-          <h1>Captura documentos de beneficiario</h1>
+          <h1>Captura salud de beneficiario</h1>
           <nav>
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -34,122 +34,124 @@
 
     <form class="form-card row g-3" runat="server">
         <section class="section dashboard">
-            <!-- Card -->
-                <div class="col-xxl-4 col-xl-12 px-4">
 
-                  <div class="card info-card customers-card">
-                    <div class="card-body mt-3">
-                      <h5 class="card-title fw-bold ps-4">&nbsp
-                          Registro reporte de salud beneficiario</h5>
+             <!-- Customers Card -->
+                 <div class="col-xxl-4 col-xl-12 px-4">
+
+                      <div class="card info-card customers-card">
+                        <div class="card-body mt-3">
+                          <h5 class="card-title fw-bold ps-4">&nbsp
+                              Registro reporte de salud beneficiario</h5>
 
                     
-                          <div class="row mt-3">
-                            <div class="col-sm-4 ps-5">
-                                <label for="inputNru" class="form-label fw-bold">NRU</label>
-                                <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
+                            <div class="row d-inline-flex mt-3 ps-3 ms-2">
+                                <div class="col">
+                                    <label for="inputNru" class="form-label fw-bold">NRU</label>
+                                    <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
+                                </div>
+                                <div class="col">
+                                    <br />
+                                    <button type="submit" class="btn btn-primary mt-2"> 
+                                        <i class="fa fa-search" aria-hidden="true"></i>
+                                           Buscar
+                                    </button>
+                                </div>  
                             </div>
-                            <div class="col-md-4 mt-4 pt-2">
-                                <button type="submit" class="btn btn-primary">
-                                    <i class="fa fa-search" aria-hidden="true"></i>
-                                    Buscar</button>
-                            </div>
-                          </div>
 
-                           <div class="row mt-3">
-                                <div class="col-sm-4 ps-5">
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label for="inputNombre" class="form-label fw-bold">Nombre</label>
                                     <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
-                                <div class="col-sm-4">
+                                
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
                                     <asp:TextBox ID="inputClave" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-4 ps-5">
-                                    <label for="inputAp" class="form-label fw-bold">Apellido Paterno</label>
-                                    <asp:TextBox ID="inputAp" runat="server" CssClass="form-control" ></asp:TextBox>
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputApellidoPaterno" class="form-label fw-bold">Apellido Paterno</label>
+                                    <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
-                                <div class="col-sm-4">
-                                    <label for="inputFam" class="form-label fw-bold">Familia</label>
-                                    <asp:TextBox ID="inputFam" runat="server" CssClass="form-control" ></asp:TextBox>
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputFamilia" class="form-label fw-bold">Familia</label>
+                                    <asp:TextBox ID="inputFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-                               <div class="col-sm-4 ps-5">
-                                    <label for="inputAm" class="form-label fw-bold">Apellido Materno</label>
-                                    <asp:TextBox ID="inputAm" runat="server" CssClass="form-control" ></asp:TextBox>
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputApellidoMaterno" class="form-label fw-bold">Apellido Materno</label>
+                                    <asp:TextBox ID="inputApellidoMaterno" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
-                                <div class="col-sm-2">
+                                <div class="col-sm-2 ps-5 mt-3">
                                     <label for="inputEdad" class="form-label fw-bold">Edad</label>
                                     <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-
-                                <div class="col-sm-4 ps-5 input-date">
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 input-date mt-3">
                                     <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
                                     <i class="fa-regular fa-calendar"></i>
-                                    <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox> 
+                                    <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
                                 </div>
-                                <small class="form-text text-success ps-5">Este campo es obligatorio</small>
                             </div>
 
-
-                            <div class="row mt-3">
-                                <div class="col-sm-4 ps-5">
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label for="inputPrograma" class="form-label fw-bold">Programa</label>
                                     <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
-                                 </div>
+                                </div>
 
-                                 <div class="col-sm-4">
-                                    <label for="inputTera" class="form-label fw-bold">Terapeuta</label>
-                                    <asp:TextBox ID="inputTera" runat="server" CssClass="form-control"></asp:TextBox>
-                                 </div>
+                                <div class="col-sm-4 ps-5 mt-3">
+                                     <label for="inputTerapeuta" class="form-label fw-bold">Terapeuta</label>
+                                     <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
+                                </div>
                             </div>
 
-                            <div class="row mt-3" id="perfilA" style="display:;">
+                            <div class="row mt-3" id="perfilAtencionFamiliar" style="display: ;">
                                 <div class="col-sm-4 ps-5">
-                                    <label for="inputAtt" class="form-label fw-bold">Modelo de Atención Familiar</label>
-                                    <asp:DropDownList ID="inputAtt" AutoPostBack="false"
-                                            CssClass="form-select" runat="server">
-                                          <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
-                                          <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
-                                          <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
+                                    <label for="inputAtencionFamiliar" class="form-label fw-bold">Modelo de Atención Familiar</label>
+                                    <asp:DropDownList ID="inputAtencionFamiliar" AutoPostBack="false"
+                                                    CssClass="form-select" runat="server">
+                                        <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
+                                        <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
+                                        <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
                                     </asp:DropDownList>
                                 </div>
                             </div>
 
                             <div class="row mt-3">
                                 <div class="col-sm-4 ps-5">
-                                    <label for="inputPrograma" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
+                                    <label for="localAmbienteJuconi" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
                                     <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-4 ps-5">
-                                    <label for="inputRol" class="form-label fw-bold">Rol en la familia</label>
-                                    <asp:TextBox ID="inputRol" runat="server" CssClass="form-control" ></asp:TextBox>
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputRolFamilia" class="form-label fw-bold">Rol en la familia</label>
+                                    <asp:TextBox ID="inputRolFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
                                 </div>
-                                <div class="col-sm-4">
-                                    <label for="inputResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
-                                    <asp:TextBox ID="inputResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
+                               
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputAultoResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
+                                    <asp:TextBox ID="inputAdultoResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
 
                                     <div class="row mt-3" id="tutoria" style="display:;">
-                                        <div class="col-sm-9">
-                                            <label class="form-label fw-bold">¿Tiene la tutoría legal?</label>
-                                            <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
-                                        </div>
-                                   </div>
+                                       <div class="col-sm-9">
+                                           <label for="tutoriaLegal" class="form-label fw-bold">¿Tiene la tutoría legal?</label>
+                                           <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
+                                       </div>
+                                    </div>
                                 </div>
-                           </div>
+                            </div>
 
-                          <div class="row mt-3">
-                             <div class="col-sm-4 ps-5">
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label class="form-label fw-bold">Llenado del formato</label>
 
                                     <asp:DropDownList ID="inputLlenadoFormato" AutoPostBack="false"
@@ -158,16 +160,16 @@
                                         <asp:ListItem Value="2">Médico JUCONI</asp:ListItem>
                                         <asp:ListItem Value="3">Otro</asp:ListItem>
                                     </asp:DropDownList>
-                              </div>
+                                </div>
 
-                              <div class="col-sm-4">
-                                  <label for="inputOtroFormato" class="form-label fw-bold">Otro</label>
-                                  <asp:TextBox ID="inputOtroFormato" runat="server" CssClass="form-control"></asp:TextBox>
-                              </div>
-                          </div>
+                                <div class="col-sm-4 ps-5 mt-3">
+                                    <label for="inputOtroFormato" class="form-label fw-bold">Otro</label>
+                                    <asp:TextBox ID="inputOtroFormato" runat="server" CssClass="form-control"></asp:TextBox>
+                                </div>
+                            </div>
 
-                          <div class="row mt-3">
-                             <div class="col-sm-4 ps-5">
+                            <div class="row">
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label class="form-label fw-bold">¿Es beneficiario de un sistema de salud?</label>
                                     <br />
   
@@ -177,8 +179,8 @@
                                     <div class="form-check form-check-inline mt-2">
                                         <asp:RadioButton ID="beneficiario2" GroupName="BeneficiarioSalud" runat="server" />&nbsp No
                                     </div>
-                              </div>
-                              <div class="col-sm-4">
+                                </div>
+                                <div class="col-sm-4 ps-5 mt-3">
                                     <label for="inputSistema" class="form-label fw-bold">¿De qué tipo?</label>
                                     <br />
                                     <div class="form-check form-check-inline mt-2">
@@ -187,13 +189,14 @@
                                     <div class="form-check form-check-inline mt-2">
                                         <asp:RadioButton ID="tipoSistema2" GroupName="SistemaSalud" runat="server" />&nbsp Privado
                                     </div>
-                              </div>
-                       </div>
-                          
+                                </div>
+                           </div>
+                           
+                        </div>
+                      </div>
                     </div>
-                  </div>
-                </div>
-            <!-- End Card -->
+                <!-- End Customers Card -->
+
 
 
             <!-- Examen físico -->
@@ -225,7 +228,7 @@
                                     </asp:DropDownList>
                                 </div>
                             </div>
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <br />
                                 <div class="col-sm-7">
                                     <asp:FileUpload  ID="archivoTipoDeSangre" runat="server" CssClass="form-control"/>
@@ -244,7 +247,7 @@
 
                             </div>
 
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <label for="inputPeso" class="form-label fw-bold">3. Peso (kg)</label>
 
                                 <div class="col-sm-7">
@@ -264,7 +267,7 @@
 
                             </div>
 
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <label for="inputPulso" class="form-label fw-bold">5. Frecuencia cardica (lpm)</label>
                                
                                 <div class="col-sm-7">
@@ -284,7 +287,7 @@
 
                             </div>
 
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <label for="inputTemperatura" class="form-label fw-bold">7. Temperatura</label>
                                
                                 <div class="col-sm-7">
@@ -304,7 +307,7 @@
 
                             </div>
 
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <label for="inputGlicemia" class="form-label fw-bold">9. Glicemia(ml/dl)</label>
                                 
                                 <div class="col-sm-7">
@@ -436,7 +439,7 @@
                                     <asp:RadioButton ID="cartilla2" GroupName="CartillaVacunacion" runat="server" />&nbsp No
                                 </div>
                             </div>
-                            <div class="col-sm-6">
+                            <div class="col-sm-6 ps-5">
                                 <br />
                                 <div class="col-sm-7">
                                     <asp:FileUpload  ID="documentoCartilla" runat="server" CssClass="form-control"/>
@@ -477,7 +480,7 @@
                                 </div>
                             </div>
 
-                            <div class="col-sm-5 ms-2">
+                            <div class="col-sm-5 ps-5">
                                <label class="form-label fw-bold">15. Número de comidas diarias en promedio</label>
                                
                                 <div class="col-sm-8">                 
@@ -508,7 +511,7 @@
                                 
                             </div>
 
-                            <div class="col-sm-5 ms-2">
+                            <div class="col-sm-5 ps-5">
                                <label class="form-label fw-bold">17. Grupo alimenticio consumido en menor medida</label>
                                 <br />
 
@@ -542,7 +545,7 @@
                             </div>
 
 
-                            <div class="col-sm-5 ms-2">
+                            <div class="col-sm-5 ps-5">
                                 <label class="form-label fw-bold">18.1. ¿Cuáles suplementos?</label>
                                 <br />
 
@@ -624,7 +627,7 @@
 
                            </div>
 
-                             <div class="col-sm-5 ms-2">
+                             <div class="col-sm-5 ps-5">
                                <label class="form-label fw-bold">20. Enfermedades crónicas actuales</label>
                                 <br />
 
@@ -679,7 +682,7 @@
                                 </div>
                            </div>
 
-                           <div class="col-sm-5 ms-2">
+                           <div class="col-sm-5 ps-5">
                                 <label class="form-label fw-bold">21.1 ¿Cuáles?</label>
                                 <div class="col-sm-7">
                                     <textarea class="form-control" rows="4" cols="15"></textarea>
@@ -697,26 +700,27 @@
                                    <tr>
                                        <td> <asp:CheckBox ID="infeccioso1" runat="server" />&nbsp Salmonela &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso2" runat="server" />&nbsp Bronquitis &nbsp &nbsp </td>
-                                       <td> <asp:CheckBox ID="infeccioso3" runat="server" /> &nbsp Neumonía &nbsp &nbsp </td>  
+                                       <td> <asp:CheckBox ID="infeccioso3" runat="server" /> &nbsp Neumonía &nbsp &nbsp </td>                                       
+                                   </tr>
+                                   <tr>
                                        <td> <asp:CheckBox ID="infeccioso4" runat="server" />&nbsp Vómito &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso5" runat="server" />&nbsp Diarrea &nbsp &nbsp </td>
-
+                                       <td> <asp:CheckBox ID="infeccioso6" runat="server" />&nbsp Laringuitis &nbsp &nbsp </td>
                                    </tr>
                                    <tr>
-                                       
-                                       <td> <asp:CheckBox ID="infeccioso6" runat="server" />&nbsp Laringuitis &nbsp &nbsp </td>
-                                       <td> <asp:CheckBox ID="infeccioso7" runat="server" /> &nbsp Faringuitis &nbsp &nbsp </td>
+                                       <td> <asp:CheckBox ID="infeccioso7" runat="server" />&nbsp Faringuitis &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso8" runat="server" />&nbsp Tuberculosis &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso9" runat="server" />&nbsp Salmonelosis &nbsp &nbsp </td>
-                                       <td> <asp:CheckBox ID="infeccioso10" runat="server" />&nbsp Resfriado común &nbsp &nbsp </td>
-                                       
                                    </tr>
                                    <tr>
+                                       <td> <asp:CheckBox ID="infeccioso10" runat="server" />&nbsp Resfriado común &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso11" runat="server" />&nbsp Gripe &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso12" runat="server" />&nbsp Tifoidea &nbsp &nbsp </td>
+                                   </tr>
+                                   <tr>
                                        <td> <asp:CheckBox ID="infeccioso13" runat="server" />&nbsp Artritis &nbsp &nbsp </td>
                                        <td> <asp:CheckBox ID="infeccioso14" runat="server" />&nbsp Gastritis &nbsp &nbsp </td>   
-                                       <td> <asp:CheckBox ID="infeccioso15" runat="server" />&nbsp Influenza &nbsp &nbsp </td>
+                                       <td> <asp:CheckBox ID="infeccioso15" runat="server" />&nbsp Influenza &nbsp &nbsp </td>                   
                                    </tr>
                                    <tr>
                                        <td> <asp:CheckBox ID="infeccioso16" runat="server" />&nbsp Taquicardia &nbsp &nbsp </td>
@@ -747,7 +751,7 @@
                            </div>
 
 
-                           <div class="col-sm-5 ms-2">
+                           <div class="col-sm-5 ps-5">
                                <label class="form-label fw-bold">24. Razón por la cual no recibió atención médica</label>
                                 <br />
 
@@ -794,7 +798,7 @@
 
                            </div>
 
-                           <div class="col-sm-5 ms-2">
+                           <div class="col-sm-5 ps-5">
                                <label class="form-label fw-bold">25.1 ¿A que centro de salud fue llevado?</label>
                                 <br />
                                  <div class="col-sm-6">
@@ -898,10 +902,7 @@
                                </div>
                             </div>
                         </div>
-
-                       
-
-
+                
                         <div class="row mt-3">
                            <div class="col-sm-6 ps-5">
                                <label class="form-label fw-bold">27.  Observaciones</label>
@@ -915,7 +916,7 @@
 
                        <div class="row mt-3">
                             <div class="col ps-5 d-inline-block">
-                                <button type="submit" class="btn btn-primary">Guardar información </button>
+                                <button type="submit" class="btn btn-primary">Guardar </button>
                                 <button type="submit" class="btn btn-primary ms-1">Regresar </button>
                             </div>
                        </div>
