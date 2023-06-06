@@ -208,7 +208,7 @@
                           </div>
 
                           <div class="row mt-3">
-                                <h5 class="card-title fw-bold ps-5">&nbsp Salida de etapa de contacto</h5>
+                                <h5 class="card-title fw-bold ps-5">Salida de etapa de contacto</h5>
 
                                 <div class="col-sm-4 ps-5 input-date mt-3">
                                     <label for="inputFechaSalidaEtapa" class="form-label fw-bold">2. Fecha de salida de etapa</label>
