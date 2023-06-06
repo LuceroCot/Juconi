@@ -302,12 +302,15 @@
                                </div>
                             </div>
 
-                            <div class="row mt-3">
+                            
+                            <br /><br />
+
+                            <div class="row">
                                 <div class="col ps-5 d-inline-block">
-                                    <button type="submit" class="btn btn-primary">Guardar información </button>
+                                    <button type="submit" class="btn btn-primary">Guardar </button>
                                     <button type="submit" class="btn btn-primary ms-1">Regresar </button>
                                 </div>
-                            </div>
+                           </div>
 
 
                           </div>
