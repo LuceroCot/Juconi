@@ -407,16 +407,16 @@
                                                 
                                                     <tr class="text-center">
                                                         <td>&nbsp;</td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 1:</span></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 3:</span></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 4:</span></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 5:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 11:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 12:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 14:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 28:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 39:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 40:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 1:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 3:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 4:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 5:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 11:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 12:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 14:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 28:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 39:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 40:</span></td>
                                                     
                                                         <td></td>
                                                     
@@ -446,13 +446,13 @@
 
                                                     <tr class="text-center">
                                                         <td></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 8:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 10:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 17:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 26:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 31:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 34:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 35:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 8:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 10:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 17:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 26:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 31:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 34:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 35:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 40:</span></td>
                                                     
                                                         <td></td>
@@ -484,11 +484,11 @@
 
                                                     <tr class="text-center">
                                                         <td>&nbsp;</td>
-                                                        <td class="child-tab">&nbsp;<span>Item 16:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 25:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 16:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 25:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 26:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 28:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 30:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 30:</span></td>
                                                         <td style ="border: 0">&nbsp;</td>
                                                         <td style ="border: 0">&nbsp;</td>
                                                         <td style ="border: 0">&nbsp;</td>
@@ -522,13 +522,13 @@
 
                                                     <tr class="text-center">
                                                         <td></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 22:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 23:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 24:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 27:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 22:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 23:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 24:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 27:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 31:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 32:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 33:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 32:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 33:</span></td>
                                                         <td></td>
                                                     
                                                         <td></td>
@@ -560,10 +560,10 @@
 
                                                     <tr class="text-center">
                                                         <td></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 7:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 7:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 16:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 18:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 20:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 18:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 20:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 39:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 40:</span></td>
                                                         <td></td>
@@ -598,10 +598,10 @@
                                                     <tr class="text-center">
                                                         <td></td>
                                                         <td class="child-tab text-nowrap">&nbsp;<span>Item 5:</span></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 9:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 36:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 37:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 38:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 9:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 36:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 37:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 38:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 39:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 40:</span></td>
                                                         <td></td>
@@ -637,10 +637,10 @@
                                                         <td></td>
                                                         <td class="child-tab text-nowrap">&nbsp;<span>Item 4:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 10:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 15:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 15:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 18:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 19:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 21:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 19:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 21:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 22:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 36:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 38:</span></td>
@@ -673,9 +673,9 @@
 
                                                     <tr class="text-center">
                                                         <td></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 6:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 6:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 15:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 29:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 29:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 34:</span></td>
                                                         <td></td>
                                                         <td></td>
@@ -707,9 +707,9 @@
 
                                                     <tr class="text-center">
                                                         <td></td>
-                                                        <td class="child-tab text-nowrap">&nbsp;<span>Item 2:</span></td>
+                                                        <td class="child-tab text-nowrap fw-bold">&nbsp;<span>Item 2:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 12:</span></td>
-                                                        <td class="child-tab">&nbsp;<span>Item 13:</span></td>
+                                                        <td class="child-tab fw-bold">&nbsp;<span>Item 13:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 14:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 17:</span></td>
                                                         <td class="child-tab">&nbsp;<span>Item 40:</span></td>
@@ -731,7 +731,7 @@
                                                         <td class="child-tab"><asp:TextBox ID="value13" CssClass="form-control" onchange ="sumaRecurso(); sumaGlobal()" Width="45" MaxLength="2" oper-sum9="true" global="true" runat="server">0</asp:TextBox></td>
                                                         <td class="child-tab"><asp:TextBox ID="value14_2" CssClass="form-control" onchange ="sumaRecurso()" Width="45" MaxLength="2" onkeydown="return false;" oper-sum9="true" runat="server">0</asp:TextBox></td>
                                                         <td class="child-tab"><asp:TextBox ID="value17_2" CssClass="form-control" onchange ="sumaRecurso()" Width="45" MaxLength="2" onkeydown="return false;" oper-sum9="true" runat="server">0</asp:TextBox></td>
-                                                        <td class="child-tab"><asp:TextBox ID="value40_5" CssClass="form-control" onchange ="sumaRecurso()" Width="45" MaxLength="2" oper-sum9="true" runat="server">0</asp:TextBox></td>
+                                                        <td class="child-tab"><asp:TextBox ID="value40_5" CssClass="form-control" onchange ="sumaRecurso()" Width="45" MaxLength="2" onkeydown="return false;" oper-sum9="true" runat="server">0</asp:TextBox></td>
                                                         <td></td>
                                                         <td></td>
                                                         <td></td>
