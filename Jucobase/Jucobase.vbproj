@@ -586,6 +586,7 @@
     <Content Include="Contact.aspx" />
     <Content Include="Contenido\Adicciones.aspx" />
     <Content Include="Contenido\Contacto.aspx" />
+    <Content Include="Contenido\Cursos.aspx" />
     <Content Include="Contenido\Default.aspx" />
     <Content Include="Contenido\Demograficos.aspx" />
     <Content Include="Contenido\Documentos.aspx" />
@@ -819,6 +820,13 @@
     <Compile Include="Contenido\Content.Master.vb">
       <DependentUpon>Content.Master</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\Cursos.aspx.designer.vb">
+      <DependentUpon>Cursos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Cursos.aspx.vb">
+      <DependentUpon>Cursos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
