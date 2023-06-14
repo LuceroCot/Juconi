@@ -568,6 +568,42 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Jucobase.CursosDeResponsables._inputNuevoResponsable">
+<summary>
+Control inputNuevoResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.CursosDeResponsables._inputNuevoCurso">
+<summary>
+Control inputNuevoCurso.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.CursosDeResponsables._inputResponsable">
+<summary>
+Control inputResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.CursosDeResponsables._inputCurso">
+<summary>
+Control inputCurso.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Jucobase.Demograficos._inputNru">
 <summary>
 Control inputNru.
@@ -3451,6 +3487,78 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Jucobase.ExpresionEmociones._TotalExpresion">
 <summary>
 Control TotalExpresion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputNuevaClaveFamilia">
+<summary>
+Control inputNuevaClaveFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputNuevoNombre">
+<summary>
+Control inputNuevoNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputSubprograma">
+<summary>
+Control inputSubprograma.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputNuevoResponsable">
+<summary>
+Control inputNuevoResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputFamiliaClave">
+<summary>
+Control inputFamiliaClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputNombre">
+<summary>
+Control inputNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputSubprogramaFamilia">
+<summary>
+Control inputSubprogramaFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Familias._inputResponsableFamilia">
+<summary>
+Control inputResponsableFamilia.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -11272,6 +11380,357 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Jucobase.Mapa4Cuadrantes._TotalRelaciones">
 <summary>
 Control TotalRelaciones.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputNuevoNombre">
+<summary>
+Control inputNuevoNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputAbreviatura">
+<summary>
+Control inputAbreviatura.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputFechaInicio">
+<summary>
+Control inputFechaInicio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputFechaFin">
+<summary>
+Control inputFechaFin.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputNuevoResponsable">
+<summary>
+Control inputNuevoResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputNuevoTema">
+<summary>
+Control inputNuevoTema.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputNombre">
+<summary>
+Control inputNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputResponsable">
+<summary>
+Control inputResponsable.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Proyecto._inputTema">
+<summary>
+Control inputTema.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputNru">
+<summary>
+Control inputNru.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputClaveFamilia">
+<summary>
+Control inputClaveFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputNruFamilia">
+<summary>
+Control inputNruFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputBeneficiario">
+<summary>
+Control inputBeneficiario.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputFamilia">
+<summary>
+Control inputFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputProyecto">
+<summary>
+Control inputProyecto.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputFechaEntrada">
+<summary>
+Control inputFechaEntrada.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._si">
+<summary>
+Control si.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._no">
+<summary>
+Control no.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputFamiliaNru">
+<summary>
+Control inputFamiliaNru.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputFamiliaClave">
+<summary>
+Control inputFamiliaClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputSubprogramaFamilia">
+<summary>
+Control inputSubprogramaFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosBeneficiario._inputProyectoFamilia">
+<summary>
+Control inputProyectoFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputClaveFamilia">
+<summary>
+Control inputClaveFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputSubprograma">
+<summary>
+Control inputSubprograma.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputFamilia">
+<summary>
+Control inputFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputProyecto">
+<summary>
+Control inputProyecto.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputFechaEntrada">
+<summary>
+Control inputFechaEntrada.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._si">
+<summary>
+Control si.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._no">
+<summary>
+Control no.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputFamiliaClave">
+<summary>
+Control inputFamiliaClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputSubprogramaFamilia">
+<summary>
+Control inputSubprogramaFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ProyectosFamilias._inputProyectoFamilia">
+<summary>
+Control inputProyectoFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ReponsableProyecto._inputNuevoNombre">
+<summary>
+Control inputNuevoNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ReponsableProyecto._inputApellidos">
+<summary>
+Control inputApellidos.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ReponsableProyecto._inputEmail">
+<summary>
+Control inputEmail.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ReponsableProyecto._inputId">
+<summary>
+Control inputId.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.ReponsableProyecto._inputNombre">
+<summary>
+Control inputNombre.
 </summary>
 <remarks>
 Campo generado automáticamente.

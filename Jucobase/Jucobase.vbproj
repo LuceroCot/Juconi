@@ -587,6 +587,7 @@
     <Content Include="Contenido\Adicciones.aspx" />
     <Content Include="Contenido\Contacto.aspx" />
     <Content Include="Contenido\Cursos.aspx" />
+    <Content Include="Contenido\CursosDeResponsables.aspx" />
     <Content Include="Contenido\Default.aspx" />
     <Content Include="Contenido\Demograficos.aspx" />
     <Content Include="Contenido\Documentos.aspx" />
@@ -594,8 +595,13 @@
     <Content Include="Contenido\EscFuncionamientoFamiliar.aspx" />
     <Content Include="Contenido\Estado.aspx" />
     <Content Include="Contenido\ExpresionEmociones.aspx" />
+    <Content Include="Contenido\Familias.aspx" />
     <Content Include="Contenido\InstrumentoViolenciaFamiliar.aspx" />
     <Content Include="Contenido\Mapa4Cuadrantes.aspx" />
+    <Content Include="Contenido\Proyecto.aspx" />
+    <Content Include="Contenido\ProyectosBeneficiario.aspx" />
+    <Content Include="Contenido\ProyectosFamilias.aspx" />
+    <Content Include="Contenido\ReponsableProyecto.aspx" />
     <Content Include="Contenido\Salud.aspx" />
     <Content Include="Contenido\Socioeconomicos.aspx" />
     <Content Include="Default.aspx" />
@@ -828,6 +834,13 @@
       <DependentUpon>Cursos.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Contenido\CursosDeResponsables.aspx.designer.vb">
+      <DependentUpon>CursosDeResponsables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\CursosDeResponsables.aspx.vb">
+      <DependentUpon>CursosDeResponsables.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Contenido\Default.aspx.designer.vb">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
@@ -877,6 +890,13 @@
       <DependentUpon>ExpresionEmociones.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Contenido\Familias.aspx.designer.vb">
+      <DependentUpon>Familias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Familias.aspx.vb">
+      <DependentUpon>Familias.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Contenido\InstrumentoViolenciaFamiliar.aspx.designer.vb">
       <DependentUpon>InstrumentoViolenciaFamiliar.aspx</DependentUpon>
     </Compile>
@@ -889,6 +909,34 @@
     </Compile>
     <Compile Include="Contenido\Mapa4Cuadrantes.aspx.vb">
       <DependentUpon>Mapa4Cuadrantes.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\Proyecto.aspx.designer.vb">
+      <DependentUpon>Proyecto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Proyecto.aspx.vb">
+      <DependentUpon>Proyecto.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\ProyectosBeneficiario.aspx.designer.vb">
+      <DependentUpon>ProyectosBeneficiario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\ProyectosBeneficiario.aspx.vb">
+      <DependentUpon>ProyectosBeneficiario.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\ProyectosFamilias.aspx.designer.vb">
+      <DependentUpon>ProyectosFamilias.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\ProyectosFamilias.aspx.vb">
+      <DependentUpon>ProyectosFamilias.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\ReponsableProyecto.aspx.designer.vb">
+      <DependentUpon>ReponsableProyecto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\ReponsableProyecto.aspx.vb">
+      <DependentUpon>ReponsableProyecto.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Salud.aspx.designer.vb">
