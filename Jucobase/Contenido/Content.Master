@@ -465,13 +465,23 @@
                     </a>
                     <ul id="tables-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
-                        <a href="tables-general.html">
-                          <i class="bi bi-circle"></i><span>Actividades de tiempo libre</span>
+                        <a href="EscFuncionamientoFamiliar.aspx">
+                          <i class="fa-solid fa-pen-to-square" style="font-size: 14px;"></i><span>Escala de funcionamiento familiar</span>
                         </a>
                       </li>
                       <li>
-                        <a href="tables-data.html">
-                          <i class="bi bi-circle"></i><span>Herramienta x</span>
+                        <a href="ExpresionEmociones.aspx">
+                          <i class="fa-solid fa-face-grin-wide" style="font-size: 14px;"></i><span>Expresión de emociones</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="InstrumentoViolenciaFamiliar.aspx">
+                          <i class="fa-solid fa-user-injured" style="font-size: 14px;"></i><span>Instrumento de violencia familiar</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="Mapa4Cuadrantes.aspx">
+                          <i class="fa-solid fa-layer-group" style="font-size: 14px;"></i><span>Mapa de 4 cuadrantes</span>
                         </a>
                       </li>
                     </ul>
