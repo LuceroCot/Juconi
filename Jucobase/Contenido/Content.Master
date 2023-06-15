@@ -330,72 +330,72 @@
                     <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
                         <a href="Beneficiario.aspx">
-                          <i class="bi bi-circle"></i><span>Beneficiarios</span>
+                          <i class="fa-solid fa-user-shield" style="font-size: 14px;"></i><span>Beneficiarios</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Catalogos.apsx">
-                          <i class="bi bi-circle"></i><span>Catálogos</span>
+                          <i class="fa-solid fa-book-open-reader" style="font-size: 14px;"></i><span>Catálogos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Cursos.aspx">
-                          <i class="bi bi-circle"></i><span>Cursos</span>
+                          <i class="fa-solid fa-list-ol" style="font-size: 14px;"></i><span>Cursos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="CursosDeResponsables.aspx">
-                          <i class="bi bi-circle"></i><span>Cursos de los responsables</span>
+                          <i class="fa-solid fa-graduation-cap" style="font-size: 14px;"></i><span>Cursos de los responsables</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Familias.aspx">
-                          <i class="bi bi-circle"></i><span>Familias</span>
+                          <i class="fa-solid fa-people-roof" style="font-size: 14px;"></i><span>Familias</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Herramientas.aspx">
-                          <i class="bi bi-circle"></i><span>Herramientas de captura</span>
+                          <i class="fa-solid fa-screwdriver-wrench" style="font-size: 14px;"></i><span>Herramientas de captura</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="PerfilFamiliar.aspx">
-                          <i class="bi bi-circle"></i><span>Perfil familiar</span>
+                          <i class="fa-solid fa-id-card" style="font-size: 14px;"></i><span>Perfil familiar</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Proyecto.aspx">
-                          <i class="bi bi-circle"></i><span>Proyectos</span>
+                          <i class="fa-solid fa-person-digging" style="font-size: 14px;"></i><span>Proyectos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="ProyectosBeneficiario.aspx">
-                          <i class="bi bi-circle"></i><span>Proyectos - Beneficiario</span>
+                          <i class="fa-solid fa-clipboard-user" style="font-size: 14px;"></i><span>Proyectos - Beneficiario</span>
                         </a>
                       </li>
                       <li>
                         <a href="ProyectosFamilias.aspx">
-                          <i class="bi bi-circle"></i><span>Proyectos - Familias</span>
+                          <i class="fa-solid fa-users-rectangle" style="font-size: 14px;"></i><span>Proyectos - Familias</span>
                         </a>
                       </li>
                       
                       <li>
                         <a href="ResponsableProyecto.aspx">
-                          <i class="bi bi-circle"></i><span>Responsables de Proyectos</span>
+                          <i class="fa-solid fa-person-military-pointing" style="font-size: 14px;"></i><span>Responsables de Proyectos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="ResumenPoblacional.aspx">
-                          <i class="bi bi-circle"></i><span>Resumen poblacional</span>
+                          <i class="fa-solid fa-people-group" style="font-size: 14px;"></i><span>Resumen poblacional</span>
                         </a>
                       </li>
                       
@@ -409,50 +409,50 @@
                     <ul id="forms-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
                         <a href="Adicciones.aspx">
-                          <i class="bi bi-circle"></i><span>Adicciones</span>
+                          <i class="fa-solid fa-pills" style="font-size: 14px;"></i><span>Adicciones</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Contacto.aspx">
-                          <i class="bi bi-circle"></i><span>Datos de contacto</span>
+                          <i class="fa-solid fa-square-phone" style="font-size: 14px;"></i><span>Datos de contacto</span>
                         </a>
                       </li>
                         
                       <li>
                         <a href="Educacion.aspx">
-                          <i class="bi bi-circle"></i><span>Datos de educación</span>
+                          <i class="fa-solid fa-user-graduate" style="font-size: 14px;"></i><span>Datos de educación</span>
                         </a>
                       </li>
  
                       <li>
                         <a href="Demograficos.aspx">
-                          <i class="bi bi-circle"></i><span>Datos demográficos</span>
+                          <i class="fa-solid fa-earth-americas" style="font-size: 14px;"></i><span>Datos demográficos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Salud.aspx">
-                          <i class="bi bi-circle"></i><span>Datos de salud</span>
+                          <i class="fa-solid fa-hand-holding-medical" style="font-size: 14px;"></i><span>Datos de salud</span>
                         </a>
                       </li>
 
 
                       <li>
                         <a href="Socioeconomicos.aspx">
-                          <i class="bi bi-circle"></i><span>Datos socioeconómicos</span>
+                          <i class="fa-solid fa-sack-dollar" style="font-size: 14px;"></i><span>Datos socioeconómicos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Documentos.aspx">
-                          <i class="bi bi-circle"></i><span>Documentos</span>
+                          <i class="fa-solid fa-folder-tree" style="font-size: 14px;"></i><span>Documentos</span>
                         </a>
                       </li>
 
                       <li>
                         <a href="Estado.aspx">
-                          <i class="bi bi-circle"></i><span>Estado de los beneficiarios</span>
+                          <i class="fa-solid fa-person-circle-check" style="font-size: 14px;"></i><span>Estado de los beneficiarios</span>
                         </a>
                       </li>
                       
