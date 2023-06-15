@@ -329,72 +329,72 @@
                     </a>
                     <ul id="components-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
-                        <a href="components-alerts.html">
+                        <a href="Beneficiario.aspx">
                           <i class="bi bi-circle"></i><span>Beneficiarios</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-modal.html">
+                        <a href="Catalogos.apsx">
                           <i class="bi bi-circle"></i><span>Catálogos</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-spinners.html">
+                        <a href="Cursos.aspx">
                           <i class="bi bi-circle"></i><span>Cursos</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-carousel.html">
+                        <a href="CursosDeResponsables.aspx">
                           <i class="bi bi-circle"></i><span>Cursos de los responsables</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-accordion.html">
+                        <a href="Familias.aspx">
                           <i class="bi bi-circle"></i><span>Familias</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-list-group.html">
+                        <a href="Herramientas.aspx">
                           <i class="bi bi-circle"></i><span>Herramientas de captura</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-badges.html">
+                        <a href="PerfilFamiliar.aspx">
                           <i class="bi bi-circle"></i><span>Perfil familiar</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-tabs.html">
+                        <a href="Proyecto.aspx">
                           <i class="bi bi-circle"></i><span>Proyectos</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-buttons.html">
+                        <a href="ProyectosBeneficiario.aspx">
                           <i class="bi bi-circle"></i><span>Proyectos - Beneficiario</span>
                         </a>
                       </li>
                       <li>
-                        <a href="components-cards.html">
+                        <a href="ProyectosFamilias.aspx">
                           <i class="bi bi-circle"></i><span>Proyectos - Familias</span>
                         </a>
                       </li>
                       
                       <li>
-                        <a href="components-progress.html">
+                        <a href="ResponsableProyecto.aspx">
                           <i class="bi bi-circle"></i><span>Responsables de Proyectos</span>
                         </a>
                       </li>
 
                       <li>
-                        <a href="components-breadcrumbs.html">
+                        <a href="ResumenPoblacional.aspx">
                           <i class="bi bi-circle"></i><span>Resumen poblacional</span>
                         </a>
                       </li>

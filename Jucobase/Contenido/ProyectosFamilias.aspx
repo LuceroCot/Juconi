@@ -44,7 +44,7 @@
                         <div class="row align-items-center mt-3 mx-3">
                             <div class="col-md-5 d-flex align-items-center">
                               <button type="submit" class="btn btn-primary mt-1">
-                                <i class="fa-solid fa-user" aria-hidden="true"></i> Asignar nuevo beneficiario a proyecto 
+                                <i class="fa-solid fa-user" aria-hidden="true"></i> Asignar nueva familia a proyecto 
                               </button>
                             </div>
                         </div>
