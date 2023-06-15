@@ -585,6 +585,7 @@
     <Content Include="Bootstrap\Site.css" />
     <Content Include="Contact.aspx" />
     <Content Include="Contenido\Adicciones.aspx" />
+    <Content Include="Contenido\Beneficiario.aspx" />
     <Content Include="Contenido\Contacto.aspx" />
     <Content Include="Contenido\Cursos.aspx" />
     <Content Include="Contenido\CursosDeResponsables.aspx" />
@@ -811,6 +812,13 @@
     </Compile>
     <Compile Include="Contenido\Adicciones.aspx.vb">
       <DependentUpon>Adicciones.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\Beneficiario.aspx.designer.vb">
+      <DependentUpon>Beneficiario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Beneficiario.aspx.vb">
+      <DependentUpon>Beneficiario.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Contacto.aspx.designer.vb">
