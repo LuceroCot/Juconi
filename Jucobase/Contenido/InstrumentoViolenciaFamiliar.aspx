@@ -39,7 +39,7 @@
                     <div class="col-xl-12">
                         <div class="card overflow-auto">
                             <div class="card-body mt-3">
-                                <h5 class="card-title fw-bold ps-3">&nbsp Escala de Funcionamiento Familiar</h5>
+                                <h5 class="card-title fw-bold ps-3">&nbsp Captura del instrumento de Violencia Familiar </h5>
 
                                 <div class="row d-inline-flex mt-3 ps-3 ms-2">
                                     <div class="col">

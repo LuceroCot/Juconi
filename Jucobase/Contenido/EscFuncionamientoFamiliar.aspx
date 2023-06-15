@@ -260,7 +260,7 @@
     
     <main id="main" class="main">
         <div class="pagetitle">
-          <h1>Captura de Escala de Funcionamiento Familiar</h1>
+          <h1>Escala de Funcionamiento Familiar</h1>
           <nav>
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="index.html">Home</a></li>
@@ -276,7 +276,7 @@
                         <div class="col-xl-12">
                             <div class="card overflow-auto">
                                 <div class="card-body mt-3">
-                                    <h5 class="card-title fw-bold ps-3">&nbsp Escala de Funcionamiento Familiar</h5>
+                                    <h5 class="card-title fw-bold ps-3">&nbsp Captura de Escala de Funcionamiento Familiar</h5>
 
                                     <div class="row d-inline-flex mt-3 ps-3 ms-2">
                                         <div class="col">
