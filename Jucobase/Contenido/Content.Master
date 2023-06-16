@@ -335,7 +335,7 @@
                       </li>
 
                       <li>
-                        <a href="Catalogos.apsx">
+                        <a href="Catalogos.aspx">
                           <i class="fa-solid fa-book-open-reader" style="font-size: 14px;"></i><span>Catálogos</span>
                         </a>
                       </li>
