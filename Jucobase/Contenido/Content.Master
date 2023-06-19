@@ -473,22 +473,22 @@
                     </a>
                     <ul id="admin-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
-                        <a href="EscFuncionamientoFamiliar.aspx">
+                        <a href="../Administrador/Grupos.aspx">
                           <i class="fa-solid fa-people-line" style="font-size: 14px;"></i><span>Grupos</span>
                         </a>
                       </li>
                       <li>
-                        <a href="ExpresionEmociones.aspx">
+                        <a href="../Administrador/Organizacion.aspx">
                           <i class="fa-solid fa-building-flag" style="font-size: 14px;"></i><span>Organizaciones</span>
                         </a>
                       </li>
                       <li>
-                        <a href="InstrumentoViolenciaFamiliar.aspx">
+                        <a href="../Administrador/Responsables.aspx">
                           <i class="fa-solid fa-user-tie" style="font-size: 14px;"></i><span>Responsables</span>
                         </a>
                       </li>
                       <li>
-                        <a href="Mapa4Cuadrantes.aspx">
+                        <a href="../Administrador/Usr.aspx">
                           <i class="fa-solid fa-users" style="font-size: 14px;"></i><span>Usuarios</span>
                         </a>
                       </li>
