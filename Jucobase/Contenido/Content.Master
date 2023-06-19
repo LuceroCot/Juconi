@@ -483,6 +483,11 @@
                         </a>
                       </li>
                       <li>
+                        <a href="../Administrador/Programas.aspx">
+                          <i class="fa-solid fa-briefcase" style="font-size: 14px;"></i><span>Programas</span>
+                        </a>
+                      </li>
+                      <li>
                         <a href="../Administrador/Responsables.aspx">
                           <i class="fa-solid fa-user-tie" style="font-size: 14px;"></i><span>Responsables</span>
                         </a>

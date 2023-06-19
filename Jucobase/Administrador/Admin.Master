@@ -263,27 +263,37 @@
                     <a class="nav-link collapsed" data-bs-target="#components-nav" href="../Contenido/Default.aspx">
                       <i class="bi bi-menu-button-wide-fill"></i><span>Contenido</span>
                     </a><!-- End Components Nav -->
+                  </li>
 
                   <li class="nav-item">
                     <a class="nav-link collapsed" data-bs-target="#forms-nav" href="Grupos.aspx">
                       <i class="fa-solid fa-people-line"></i><span>Grupos</span>
                     </a><!-- End Forms Nav -->
+                  </li>
 
                   <li class="nav-item">
                     <a class="nav-link collapsed" data-bs-target="#tables-nav" href="Organizacion.aspx">
-                       <i class="fa-solid fa-building-flag"></i><span>Oganizaciones</span>
+                       <i class="fa-solid fa-building-flag"></i><span>Organizaciones</span>
                     </a><!-- End Tables Nav --> 
+                  </li>
+
+                 <li class="nav-item">
+                    <a class="nav-link collapsed" data-bs-target="#tables-nav" href="Programas.aspx">
+                       <i class="fa-solid fa-briefcase"></i><span>Programas</span>
+                    </a><!-- End Tables Nav --> 
+                  </li>
 
                   <li class="nav-item">
                     <a class="nav-link collapsed" data-bs-target="#charts-nav" href="Responsables.aspx">
                       <i class="fa-solid fa-user-tie"></i><span>Responsables</span>
                     </a><!-- End Charts Nav -->
+                  </li>
 
                   <li class="nav-item">
                     <a class="nav-link collapsed" data-bs-target="#icons-nav" href="Usr.aspx">
                       <i class="fa-solid fa-users"></i><span>Usuarios</span>
                     </a><!-- End Icons Nav -->
-
+                  </li>
                   <li class="nav-item">
                     <a class="nav-link collapsed" href="pages-login.html">
                       <i class="bi bi-box-arrow-in-right"></i>
