@@ -132,6 +132,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Administrador\Default.aspx" />
+    <Content Include="Administrador\Grupos.aspx" />
     <Content Include="Administrador\Usr.aspx" />
     <Content Include="assets\css\font-awesome.min.css" />
     <Content Include="assets\css\main.css" />
@@ -796,6 +797,13 @@
     </Compile>
     <Compile Include="Administrador\Default.aspx.vb">
       <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Administrador\Grupos.aspx.designer.vb">
+      <DependentUpon>Grupos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Grupos.aspx.vb">
+      <DependentUpon>Grupos.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Administrador\Usr.aspx.designer.vb">

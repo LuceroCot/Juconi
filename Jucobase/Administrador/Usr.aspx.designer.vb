@@ -59,13 +59,13 @@ Partial Public Class Usr
     Protected WithEvents inputOrganizacion As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control inputSubprograma.
+    '''Control inputGrupo.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputSubprograma As Global.System.Web.UI.WebControls.DropDownList
+    Protected WithEvents inputGrupo As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputResponsable.
@@ -77,22 +77,22 @@ Partial Public Class Usr
     Protected WithEvents inputResponsable As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control inputNombre.
+    '''Control inputNombreUsuario.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputNombre As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputNombreUsuario As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputApellidoPaterno.
+    '''Control inputApellidoUsuario.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputApellidoPaterno As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputApellidoUsuario As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control inputOrganizacionUsuario.

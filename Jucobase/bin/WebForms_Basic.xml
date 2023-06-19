@@ -55,6 +55,24 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Jucobase.Grupos._inputNuevoGrupo">
+<summary>
+Control inputNuevoGrupo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Grupos._inputNombreGrupo">
+<summary>
+Control inputNombreGrupo.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Jucobase.Usr._inputNuevoNombre">
 <summary>
 Control inputNuevoNombre.
@@ -100,9 +118,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Usr._inputSubprograma">
+<member name="F:Jucobase.Usr._inputGrupo">
 <summary>
-Control inputSubprograma.
+Control inputGrupo.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -118,18 +136,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Usr._inputNombre">
+<member name="F:Jucobase.Usr._inputNombreUsuario">
 <summary>
-Control inputNombre.
+Control inputNombreUsuario.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Usr._inputApellidoPaterno">
+<member name="F:Jucobase.Usr._inputApellidoUsuario">
 <summary>
-Control inputApellidoPaterno.
+Control inputApellidoUsuario.
 </summary>
 <remarks>
 Campo generado automáticamente.

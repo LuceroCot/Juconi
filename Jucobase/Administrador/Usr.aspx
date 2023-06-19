@@ -84,7 +84,7 @@
                                 <div class="col-md-3">
                                   <label for="inputGrupo" class="col-form-label fw-bold">Grupo</label>
                                   <div class="mb-3">
-                                    <asp:DropDownList ID="inputSubprograma" AutoPostBack="false" CssClass="form-select" runat="server">
+                                    <asp:DropDownList ID="inputGrupo" AutoPostBack="false" CssClass="form-select" runat="server">
                                       <asp:ListItem Selected="True" Value="1">Ninguno</asp:ListItem>
                                       <asp:ListItem Value="2">Administradores</asp:ListItem>
                                       <asp:ListItem Value="3">Captura</asp:ListItem>
@@ -131,14 +131,14 @@
                                 <div class="col-md-3">
                                   <label for="inputNombreUsuario" class="col-form-label fw-bold">Nombre</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control"></asp:TextBox>
+                                    <asp:TextBox ID="inputNombreUsuario" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
 
                                 <div class="col-md-3">
                                   <label for="inputApellidosUsuario" class="form-label fw-bold">Apellidos</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control"></asp:TextBox>
+                                    <asp:TextBox ID="inputApellidoUsuario" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
 
@@ -159,7 +159,7 @@
                                   <label for="inputGrupoUsuario" class="col-form-label fw-bold">Grupo</label>
                                   <div class="mb-3">
                                     <asp:DropDownList ID="inputGrupoUsuario" AutoPostBack="false" CssClass="form-select" runat="server">
-                                      <asp:ListItem Selected="True" Value="1">Ninguno</asp:ListItem>
+                                      <asp:ListItem Selected="True" Value="1"></asp:ListItem>
                                       <asp:ListItem Value="2">Administradores</asp:ListItem>
                                       <asp:ListItem Value="3">Captura</asp:ListItem>
                                       <asp:ListItem Value="4">Captura/TE</asp:ListItem>
