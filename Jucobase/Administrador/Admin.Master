@@ -260,28 +260,28 @@
                   </li><!-- End Dashboard Nav -->
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-                      <i class="fa-solid fa-users"></i><span>Usuarios</span>
+                    <a class="nav-link collapsed" data-bs-target="#components-nav" href="../Contenido/Default.aspx">
+                      <i class="bi bi-menu-button-wide-fill"></i><span>Contenido</span>
                     </a><!-- End Components Nav -->
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#">
+                    <a class="nav-link collapsed" data-bs-target="#forms-nav" href="Grupos.aspx">
                       <i class="fa-solid fa-people-line"></i><span>Grupos</span>
                     </a><!-- End Forms Nav -->
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" data-bs-target="#tables-nav" data-bs-toggle="collapse" href="#">
-                      <i class="fa-solid fa-user-tie"></i><span>Responsables</span>
+                    <a class="nav-link collapsed" data-bs-target="#tables-nav" href="Organizacion.aspx">
+                       <i class="fa-solid fa-building-flag"></i><span>Oganizaciones</span>
                     </a><!-- End Tables Nav --> 
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" data-bs-target="#charts-nav" data-bs-toggle="collapse" href="#">
-                      <i class="fa-solid fa-building-flag"></i><span>Oganizaciones</span>
+                    <a class="nav-link collapsed" data-bs-target="#charts-nav" href="Responsables.aspx">
+                      <i class="fa-solid fa-user-tie"></i><span>Responsables</span>
                     </a><!-- End Charts Nav -->
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" data-bs-target="#icons-nav" data-bs-toggle="collapse" href="#">
-                      <i class="bi bi-menu-button-wide-fill"></i><span>Contenido</span>
+                    <a class="nav-link collapsed" data-bs-target="#icons-nav" href="Usr.aspx">
+                      <i class="fa-solid fa-users"></i><span>Usuarios</span>
                     </a><!-- End Icons Nav -->
 
                   <li class="nav-item">
