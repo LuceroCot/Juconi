@@ -292,6 +292,8 @@
     <Content Include="assets\img\hero-carousel\hero-carousel-3.jpg" />
     <Content Include="assets\img\hero-carousel\hero-carousel-4.jpg" />
     <Content Include="assets\img\hero-carousel\hero-carousel-5.jpg" />
+    <Content Include="assets\img\icon_juconi.png" />
+    <Content Include="assets\img\juco_usuario.png" />
     <Content Include="assets\img\logo.png" />
     <Content Include="assets\img\messages-1.jpg" />
     <Content Include="assets\img\messages-2.jpg" />
