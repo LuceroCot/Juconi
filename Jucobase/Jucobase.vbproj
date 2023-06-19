@@ -133,6 +133,7 @@
     <Content Include="About.aspx" />
     <Content Include="Administrador\Default.aspx" />
     <Content Include="Administrador\Grupos.aspx" />
+    <Content Include="Administrador\Responsables.aspx" />
     <Content Include="Administrador\Usr.aspx" />
     <Content Include="assets\css\font-awesome.min.css" />
     <Content Include="assets\css\main.css" />
@@ -804,6 +805,13 @@
     </Compile>
     <Compile Include="Administrador\Grupos.aspx.vb">
       <DependentUpon>Grupos.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Administrador\Responsables.aspx.designer.vb">
+      <DependentUpon>Responsables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Responsables.aspx.vb">
+      <DependentUpon>Responsables.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Administrador\Usr.aspx.designer.vb">
