@@ -132,6 +132,7 @@
   <ItemGroup>
     <Content Include="About.aspx" />
     <Content Include="Administrador\Default.aspx" />
+    <Content Include="Administrador\Usr.aspx" />
     <Content Include="assets\css\font-awesome.min.css" />
     <Content Include="assets\css\main.css" />
     <Content Include="assets\css\owl.carousel.min.css" />
@@ -795,6 +796,13 @@
     </Compile>
     <Compile Include="Administrador\Default.aspx.vb">
       <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Administrador\Usr.aspx.designer.vb">
+      <DependentUpon>Usr.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrador\Usr.aspx.vb">
+      <DependentUpon>Usr.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="App_Start\BundleConfig.vb" />
