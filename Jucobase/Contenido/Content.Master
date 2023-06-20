@@ -382,6 +382,52 @@
                     </ul>
                   </li><!-- End Components Nav -->
 
+
+                  <li class="nav-item">
+                    <a class="nav-link collapsed" data-bs-target="#contact-nav" data-bs-toggle="collapse" href="#">
+                      <i class="fa-solid fa-address-book"></i><span>Contacto y vinculación</span><i class="bi bi-chevron-down ms-auto"></i>
+                    </a>
+                    <ul id="contact-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
+                      <li>
+                        <a href="PrimerContacto.aspx">
+                          <i class="fa-solid fa-handshake" style="font-size: 14px;"></i><span>Primer contacto</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="Catalogos.aspx">
+                          <i class="fa-solid fa-book-open-reader" style="font-size: 14px;"></i><span>Catálogos</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="Cursos.aspx">
+                          <i class="fa-solid fa-list-ol" style="font-size: 14px;"></i><span>Cursos</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="CursosDeResponsables.aspx">
+                          <i class="fa-solid fa-graduation-cap" style="font-size: 14px;"></i><span>Cursos de los responsables</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="Familias.aspx">
+                          <i class="fa-solid fa-people-roof" style="font-size: 14px;"></i><span>Familias</span>
+                        </a>
+                      </li>
+
+                      <li>
+                        <a href="Herramientas.aspx">
+                          <i class="fa-solid fa-screwdriver-wrench" style="font-size: 14px;"></i><span>Herramientas de captura</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </li><!-- End Components Nav -->
+
+
+
                   <li class="nav-item">
                     <a class="nav-link collapsed" data-bs-target="#forms-nav" data-bs-toggle="collapse" href="#">
                       <i class="bi bi-person-vcard"></i><span>Datos de población</span><i class="bi bi-chevron-down ms-auto"></i>
