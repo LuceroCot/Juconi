@@ -609,6 +609,7 @@
     <Content Include="Contenido\InstrumentoViolenciaFamiliar.aspx" />
     <Content Include="Contenido\Mapa4Cuadrantes.aspx" />
     <Content Include="Contenido\PerfilFamiliar.aspx" />
+    <Content Include="Contenido\PrimerContacto.aspx" />
     <Content Include="Contenido\Proyecto.aspx" />
     <Content Include="Contenido\ProyectosBeneficiario.aspx" />
     <Content Include="Contenido\ProyectosFamilias.aspx" />
@@ -984,6 +985,13 @@
     </Compile>
     <Compile Include="Contenido\PerfilFamiliar.aspx.vb">
       <DependentUpon>PerfilFamiliar.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\PrimerContacto.aspx.designer.vb">
+      <DependentUpon>PrimerContacto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\PrimerContacto.aspx.vb">
+      <DependentUpon>PrimerContacto.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Proyecto.aspx.designer.vb">
