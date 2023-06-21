@@ -187,7 +187,7 @@
                             </div>
                           
                             <div class="mt-3 mx-3">
-                               <label for="inputRedSocial" class="form-label fw-bold mx-3">9. Nombre y edad de niña, niño o adolescente</label>
+                               <label class="form-label fw-bold mx-3">9. Nombre y edad de niña, niño o adolescente</label>
                                <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
                                  <div class="col-sm-8">
                                     <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">

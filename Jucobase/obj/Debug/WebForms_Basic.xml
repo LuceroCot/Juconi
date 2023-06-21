@@ -1729,6 +1729,51 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Jucobase.DinamicaFamiliar._inputFamilia">
+<summary>
+Control inputFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.DinamicaFamiliar._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.DinamicaFamiliar._inputNombreSolicitante">
+<summary>
+Control inputNombreSolicitante.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.DinamicaFamiliar._si">
+<summary>
+Control si.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.DinamicaFamiliar._no">
+<summary>
+Control no.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Jucobase.Documentos._inputNru">
 <summary>
 Control inputNru.
@@ -3991,6 +4036,186 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Jucobase.Familias._inputResponsableFamilia">
 <summary>
 Control inputResponsableFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputNombre">
+<summary>
+Control inputNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputNombreSolicitante">
+<summary>
+Control inputNombreSolicitante.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputTelefono">
+<summary>
+Control inputTelefono.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputDireccion">
+<summary>
+Control inputDireccion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputFechaContacto">
+<summary>
+Control inputFechaContacto.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputLlegada">
+<summary>
+Control inputLlegada.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._razon1">
+<summary>
+Control razon1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._razon2">
+<summary>
+Control razon2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._razon3">
+<summary>
+Control razon3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._razon4">
+<summary>
+Control razon4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputOtraRazon">
+<summary>
+Control inputOtraRazon.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._inputLugarCanalizado">
+<summary>
+Control inputLugarCanalizado.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._TextBox1">
+<summary>
+Control TextBox1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.FichaSalida._noRegistro">
+<summary>
+Control noRegistro.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Genograma._inputNombre">
+<summary>
+Control inputNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Genograma._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Genograma._inputNombreSolicitante">
+<summary>
+Control inputNombreSolicitante.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Genograma._documentoGenograma">
+<summary>
+Control documentoGenograma.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Genograma._iframePrevisualizar">
+<summary>
+Control iframePrevisualizar.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -12289,6 +12514,996 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Jucobase.ProyectosFamilias._inputProyectoFamilia">
 <summary>
 Control inputProyectoFamilia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombre">
+<summary>
+Control inputNombre.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputClave">
+<summary>
+Control inputClave.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombreSolicitante">
+<summary>
+Control inputNombreSolicitante.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputTelefono">
+<summary>
+Control inputTelefono.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputDireccion">
+<summary>
+Control inputDireccion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputFechaContacto">
+<summary>
+Control inputFechaContacto.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputLlegada">
+<summary>
+Control inputLlegada.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombre1">
+<summary>
+Control inputNombre1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombre2">
+<summary>
+Control inputNombre2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombre3">
+<summary>
+Control inputNombre3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombre4">
+<summary>
+Control inputNombre4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPrimerApellido1">
+<summary>
+Control inputPrimerApellido1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPrimerApellido2">
+<summary>
+Control inputPrimerApellido2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPrimerApellido3">
+<summary>
+Control inputPrimerApellido3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPrimerApellido4">
+<summary>
+Control inputPrimerApellido4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSegundoApellido1">
+<summary>
+Control inputSegundoApellido1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSegundoApellido2">
+<summary>
+Control inputSegundoApellido2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSegundoApellido3">
+<summary>
+Control inputSegundoApellido3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSegundoApellido4">
+<summary>
+Control inputSegundoApellido4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSexo1">
+<summary>
+Control inputSexo1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSexo2">
+<summary>
+Control inputSexo2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSexo3">
+<summary>
+Control inputSexo3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputSexo4">
+<summary>
+Control inputSexo4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputFechaNacimiento1">
+<summary>
+Control inputFechaNacimiento1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputFechaNacimiento2">
+<summary>
+Control inputFechaNacimiento2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputFechaNacimiento3">
+<summary>
+Control inputFechaNacimiento3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputFechaNacimiento4">
+<summary>
+Control inputFechaNacimiento4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEdad1">
+<summary>
+Control inputEdad1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEdad2">
+<summary>
+Control inputEdad2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEdad3">
+<summary>
+Control inputEdad3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEdad4">
+<summary>
+Control inputEdad4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputResponsable1">
+<summary>
+Control inputResponsable1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputResponsable2">
+<summary>
+Control inputResponsable2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputResponsable3">
+<summary>
+Control inputResponsable3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputResponsable4">
+<summary>
+Control inputResponsable4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPais1">
+<summary>
+Control inputPais1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPais2">
+<summary>
+Control inputPais2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPais3">
+<summary>
+Control inputPais3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPais4">
+<summary>
+Control inputPais4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstado1">
+<summary>
+Control inputEstado1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstado2">
+<summary>
+Control inputEstado2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstado3">
+<summary>
+Control inputEstado3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstado4">
+<summary>
+Control inputEstado4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputMunicipio1">
+<summary>
+Control inputMunicipio1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputMunicipio2">
+<summary>
+Control inputMunicipio2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputMunicipio3">
+<summary>
+Control inputMunicipio3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputMunicipio4">
+<summary>
+Control inputMunicipio4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstadoCivil1">
+<summary>
+Control inputEstadoCivil1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstadoCivil2">
+<summary>
+Control inputEstadoCivil2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstadoCivil3">
+<summary>
+Control inputEstadoCivil3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstadoCivil4">
+<summary>
+Control inputEstadoCivil4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputTrabajar1">
+<summary>
+Control inputTrabajar1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputTrabajar2">
+<summary>
+Control inputTrabajar2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputTrabajar3">
+<summary>
+Control inputTrabajar3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputTrabajar4">
+<summary>
+Control inputTrabajar4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstudiar1">
+<summary>
+Control inputEstudiar1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstudiar2">
+<summary>
+Control inputEstudiar2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstudiar3">
+<summary>
+Control inputEstudiar3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEstudiar4">
+<summary>
+Control inputEstudiar4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNivel1">
+<summary>
+Control inputNivel1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNivel2">
+<summary>
+Control inputNivel2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNivel3">
+<summary>
+Control inputNivel3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNivel4">
+<summary>
+Control inputNivel4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombreEscuela1">
+<summary>
+Control inputNombreEscuela1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombreEscuela2">
+<summary>
+Control inputNombreEscuela2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombreEscuela3">
+<summary>
+Control inputNombreEscuela3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNombreEscuela4">
+<summary>
+Control inputNombreEscuela4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEscolaridad1">
+<summary>
+Control inputEscolaridad1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEscolaridad2">
+<summary>
+Control inputEscolaridad2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEscolaridad3">
+<summary>
+Control inputEscolaridad3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputEscolaridad4">
+<summary>
+Control inputEscolaridad4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPosicionEstructural1">
+<summary>
+Control inputPosicionEstructural1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPosicionEstructural2">
+<summary>
+Control inputPosicionEstructural2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPosicionEstructural3">
+<summary>
+Control inputPosicionEstructural3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputPosicionEstructural4">
+<summary>
+Control inputPosicionEstructural4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputParticipar1">
+<summary>
+Control inputParticipar1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputParticipar2">
+<summary>
+Control inputParticipar2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputParticipar3">
+<summary>
+Control inputParticipar3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputParticipar4">
+<summary>
+Control inputParticipar4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNru1">
+<summary>
+Control inputNru1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNru2">
+<summary>
+Control inputNru2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNru3">
+<summary>
+Control inputNru3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputNru4">
+<summary>
+Control inputNru4.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._si">
+<summary>
+Control si.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._no">
+<summary>
+Control no.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputCantidadTelefonos">
+<summary>
+Control inputCantidadTelefonos.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensual">
+<summary>
+Control inputGastoMensual.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputResidencia">
+<summary>
+Control inputResidencia.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensualAgua">
+<summary>
+Control inputGastoMensualAgua.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensualDrenaje">
+<summary>
+Control inputGastoMensualDrenaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensualGas">
+<summary>
+Control inputGastoMensualGas.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensualLuz">
+<summary>
+Control inputGastoMensualLuz.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputGastoMensualInternet">
+<summary>
+Control inputGastoMensualInternet.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputCantidadHabitaciones">
+<summary>
+Control inputCantidadHabitaciones.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._siEducacion">
+<summary>
+Control siEducacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._noEducacion">
+<summary>
+Control noEducacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputCantidadGastosEducacion">
+<summary>
+Control inputCantidadGastosEducacion.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._siBeneficiarioSalud">
+<summary>
+Control siBeneficiarioSalud.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._noBeneficiarioSalud">
+<summary>
+Control noBeneficiarioSalud.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._publicoSalud">
+<summary>
+Control publicoSalud.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._privadoSalud">
+<summary>
+Control privadoSalud.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._siBeneficiarioGubernamental">
+<summary>
+Control siBeneficiarioGubernamental.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._noBeneficiarioGubernamental">
+<summary>
+Control noBeneficiarioGubernamental.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputProgramaGubernamental">
+<summary>
+Control inputProgramaGubernamental.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputMontoGubernamental">
+<summary>
+Control inputMontoGubernamental.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._inputIngresoEstimado">
+<summary>
+Control inputIngresoEstimado.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._siPobrezaExtrema">
+<summary>
+Control siPobrezaExtrema.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._noPobrezaExtrema">
+<summary>
+Control noPobrezaExtrema.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._RadioButton1">
+<summary>
+Control RadioButton1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.RegistroFamilia._RadioButton2">
+<summary>
+Control RadioButton2.
 </summary>
 <remarks>
 Campo generado automáticamente.

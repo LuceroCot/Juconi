@@ -599,12 +599,15 @@
     <Content Include="Contenido\CursosDeResponsables.aspx" />
     <Content Include="Contenido\Default.aspx" />
     <Content Include="Contenido\Demograficos.aspx" />
+    <Content Include="Contenido\DinamicaFamiliar.aspx" />
     <Content Include="Contenido\Documentos.aspx" />
     <Content Include="Contenido\Educacion.aspx" />
     <Content Include="Contenido\EscFuncionamientoFamiliar.aspx" />
     <Content Include="Contenido\Estado.aspx" />
     <Content Include="Contenido\ExpresionEmociones.aspx" />
     <Content Include="Contenido\Familias.aspx" />
+    <Content Include="Contenido\FichaSalida.aspx" />
+    <Content Include="Contenido\Genograma.aspx" />
     <Content Include="Contenido\Herramientas.aspx" />
     <Content Include="Contenido\InstrumentoViolenciaFamiliar.aspx" />
     <Content Include="Contenido\Mapa4Cuadrantes.aspx" />
@@ -613,6 +616,7 @@
     <Content Include="Contenido\Proyecto.aspx" />
     <Content Include="Contenido\ProyectosBeneficiario.aspx" />
     <Content Include="Contenido\ProyectosFamilias.aspx" />
+    <Content Include="Contenido\RegistroFamilia.aspx" />
     <Content Include="Contenido\ResponsableProyecto.aspx" />
     <Content Include="Contenido\ResumenPoblacional.aspx" />
     <Content Include="Contenido\Salud.aspx" />
@@ -917,6 +921,13 @@
       <DependentUpon>Demograficos.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Contenido\DinamicaFamiliar.aspx.designer.vb">
+      <DependentUpon>DinamicaFamiliar.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\DinamicaFamiliar.aspx.vb">
+      <DependentUpon>DinamicaFamiliar.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Contenido\Documentos.aspx.designer.vb">
       <DependentUpon>Documentos.aspx</DependentUpon>
     </Compile>
@@ -957,6 +968,20 @@
     </Compile>
     <Compile Include="Contenido\Familias.aspx.vb">
       <DependentUpon>Familias.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\FichaSalida.aspx.designer.vb">
+      <DependentUpon>FichaSalida.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\FichaSalida.aspx.vb">
+      <DependentUpon>FichaSalida.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\Genograma.aspx.designer.vb">
+      <DependentUpon>Genograma.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Genograma.aspx.vb">
+      <DependentUpon>Genograma.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Herramientas.aspx.designer.vb">
@@ -1013,6 +1038,13 @@
     </Compile>
     <Compile Include="Contenido\ProyectosFamilias.aspx.vb">
       <DependentUpon>ProyectosFamilias.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\RegistroFamilia.aspx.designer.vb">
+      <DependentUpon>RegistroFamilia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\RegistroFamilia.aspx.vb">
+      <DependentUpon>RegistroFamilia.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\ResponsableProyecto.aspx.designer.vb">
