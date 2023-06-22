@@ -505,18 +505,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Adicciones._RadioButton1">
+<member name="F:Jucobase.Adicciones._progreso1">
 <summary>
-Control RadioButton1.
+Control progreso1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Adicciones._RadioButton2">
+<member name="F:Jucobase.Adicciones._progreso2">
 <summary>
-Control RadioButton2.
+Control progreso2.
 </summary>
 <remarks>
 Campo generado automáticamente.

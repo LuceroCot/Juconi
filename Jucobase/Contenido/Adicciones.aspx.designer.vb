@@ -239,22 +239,22 @@ Partial Public Class Adicciones
     Protected WithEvents inputRazonNA As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control RadioButton1.
+    '''Control progreso1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton1 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents progreso1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control RadioButton2.
+    '''Control progreso2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents progreso2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control inputMejora.
