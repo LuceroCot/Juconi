@@ -152,7 +152,7 @@
 
                                         <tbody>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">1. Nombre:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">10. Nombre:</td>
                                                 <td><asp:TextBox ID="inputNombre1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNombre2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNombre3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -161,7 +161,7 @@
                                                 
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">2. Primer apellido:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">11. Primer apellido:</td>
                                                 <td><asp:TextBox ID="inputPrimerApellido1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputPrimerApellido2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputPrimerApellido3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -169,7 +169,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">3. Segundo apellido:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">12. Segundo apellido:</td>
                                                 <td><asp:TextBox ID="inputSegundoApellido1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputSegundoApellido2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputSegundoApellido3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -177,7 +177,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">4. Sexo:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">13. Sexo:</td>
                                                 <td><asp:TextBox ID="inputSexo1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputSexo2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputSexo3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -185,7 +185,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">5. Fecha de nacimiento:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">14. Fecha de nacimiento:</td>
                                                 <td><asp:TextBox ID="inputFechaNacimiento1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputFechaNacimiento2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputFechaNacimiento3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -193,7 +193,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">6. Edad:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">15. Edad:</td>
                                                 <td><asp:TextBox ID="inputEdad1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputEdad2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputEdad3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -201,7 +201,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">7. ¿Es responsable de los menores en atención?</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">16. ¿Es responsable de los menores en atención?</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputResponsable1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">Sí</asp:ListItem>
@@ -229,7 +229,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">8. País de nacimiento:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">17. País de nacimiento:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputPais1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -257,7 +257,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">9. Estado de nacimiento:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">18. Estado de nacimiento:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputEstado1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -285,7 +285,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">10. Municipio de nacimiento:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">19. Municipio de nacimiento:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputMunicipio1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -313,7 +313,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">11. Estado civil:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">20. Estado civil:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputEstadoCivil1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -341,7 +341,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">12. ¿Trabaja?</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">21. ¿Trabaja?</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputTrabajar1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">Sí</asp:ListItem>
@@ -369,7 +369,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">13. ¿Estudia?</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">22. ¿Estudia?</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputEstudiar1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">Sí</asp:ListItem>
@@ -397,7 +397,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">13.1 Nivel:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">22.1 Nivel:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputNivel1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -425,7 +425,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">13.2 Nombre de la escuela:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">22.2 Nombre de la escuela:</td>
                                                 <td><asp:TextBox ID="inputNombreEscuela1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNombreEscuela2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNombreEscuela3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -433,7 +433,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">13.3 Nivel de escolaridad:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">22.3 Nivel de escolaridad:</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputEscolaridad1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">X</asp:ListItem>
@@ -461,7 +461,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">14. Posición dentro de la estructura familiar con base a la atención familiar (no cohabitación):</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">23. Posición dentro de la estructura familiar con base a la atención familiar (no cohabitación):</td>
                                                 <td><asp:TextBox ID="inputPosicionEstructural1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputPosicionEstructural2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputPosicionEstructural3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -469,7 +469,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">15. ¿Participará en la atención familiar?</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">24. ¿Participará en la atención familiar?</td>
                                                 <td>
                                                     <asp:DropDownList ID="inputParticipar1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="1">Sí</asp:ListItem>
@@ -497,7 +497,7 @@
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">16. NRU:</td>
+                                                <td scope="row" class="text-start fw-bold w-auto text-wrap">25. NRU:</td>
                                                 <td><asp:TextBox ID="inputNru1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNru2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td><asp:TextBox ID="inputNru3" runat="server" CssClass="form-control"></asp:TextBox></td>
@@ -525,7 +525,7 @@
                         <div class="mt-4">
                             <div class="row mt-3 mx-3">
                                 <div class="col-md-4">
-                                    <label for="inputTelefonoCelular" class="form-label fw-bold">17. ¿Teléfono celular?</label>
+                                    <label for="inputTelefonoCelular" class="form-label fw-bold">26. ¿Teléfono celular?</label>
                                     <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="si" runat="server" GroupName="telefonoGroup" />
@@ -538,7 +538,7 @@
                                     </div>
                                 </div>
                                 <div class="col-md-4">
-                                  <label for="inputCantidadTelefonos" class="form-label fw-bold">17.1 Cantidad de teléfonos celulares en el hogar</label>
+                                  <label for="inputCantidadTelefonos" class="form-label fw-bold">26.1 Cantidad de teléfonos celulares en el hogar</label>
                                   <div class="mb-3">
                                     <asp:DropDownList ID="inputCantidadTelefonos" AutoPostBack="false" CssClass="form-select" runat="server">
                                         <asp:ListItem Selected="True" Value="1">1</asp:ListItem>
@@ -550,7 +550,7 @@
 
                             <div class="row mt-3 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputGastoMensual" class="form-label fw-bold">17.2 Gasto mensual en recargas de celulares</label>
+                                  <label for="inputGastoMensual" class="form-label fw-bold">26.2 Gasto mensual en recargas de celulares</label>
                                   <div class="mb-3">
                                     <asp:TextBox ID="inputGastoMensual" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
@@ -559,7 +559,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                 <label for="inputResidencia" class="form-label fw-bold">18. Tipo de residencia:</label>
+                                 <label for="inputResidencia" class="form-label fw-bold">27. Tipo de residencia:</label>
                                   <asp:DropDownList ID="inputResidencia" AutoPostBack="false" CssClass="form-select" runat="server">
                                         <asp:ListItem Selected="True" Value="1">Casa Familiar - propia</asp:ListItem>
                                         <asp:ListItem Value="2">Casa Familiar - renta</asp:ListItem>
@@ -573,7 +573,7 @@
 
                             <div class="row mt-3 mx-3">
                                 <div class="col-md-8">
-                                  <label for="inputObservacionesResidencia" class="form-label fw-bold">19. Observación JUCONI respecto a situación de residencia</label>
+                                  <label for="inputObservacionesResidencia" class="form-label fw-bold">28. Observación JUCONI respecto a situación de residencia</label>
                                     <br />
                                     <textarea id="inputObservacionesResidencia" class="form-control" rows="5" cols="10"></textarea>
                                 </div>
@@ -581,7 +581,7 @@
                           
                             <div class="row mt-3 mx-3">
                                 <div class="col-md-10">
-                                    <label class="form-label fw-bold">20. Su residencia cuenta con</label>
+                                    <label class="form-label fw-bold">29. Su residencia cuenta con</label>
                                     <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
                                         <div class="col-sm-10">
                                             <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
@@ -595,7 +595,7 @@
 
                                                 <tbody>
                                                     <tr>
-                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">20.1 Agua</td>
+                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">29.1 Agua</td>
                                                         <td>
                                                             <asp:TextBox ID="inputGastoMensualAgua" runat="server" CssClass="form-control"></asp:TextBox>
                                                         </td>
@@ -604,7 +604,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">20.2 Drenaje</td>
+                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">29.2 Drenaje</td>
                                                         <td>
                                                             <asp:TextBox ID="inputGastoMensualDrenaje" runat="server" CssClass="form-control"></asp:TextBox>
                                                         </td>
@@ -613,7 +613,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">20.3 Gas</td>
+                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">29.3 Gas</td>
                                                         <td>
                                                             <asp:TextBox ID="inputGastoMensualGas" runat="server" CssClass="form-control"></asp:TextBox>
                                                         </td>
@@ -622,7 +622,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">20.4 Luz eléctrica</td>
+                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">29.4 Luz eléctrica</td>
                                                         <td>
                                                             <asp:TextBox ID="inputGastoMensualLuz" runat="server" CssClass="form-control"></asp:TextBox>
                                                         </td>
@@ -631,7 +631,7 @@
                                                         </td>
                                                     </tr>
                                                     <tr>
-                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">20.5 Internet</td>
+                                                        <td scope="row" class="text-start fw-bold w-auto text-wrap">29.5 Internet</td>
                                                         <td>
                                                             <asp:TextBox ID="inputGastoMensualInternet" runat="server" CssClass="form-control"></asp:TextBox>
                                                         </td>
@@ -648,7 +648,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputCantidadHabitaciones" class="col-form-label fw-bold">21. Número de habitaciones en su residencia</label>
+                                  <label for="inputCantidadHabitaciones" class="col-form-label fw-bold">30. Número de habitaciones en su residencia</label>
                                   <div class="mb-3">
                                      <asp:TextBox ID="inputCantidadHabitaciones" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
@@ -657,7 +657,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputGastosEducacion" class="col-form-label fw-bold">22. ¿Gastos relacionados con educación?</label>
+                                  <label for="inputGastosEducacion" class="col-form-label fw-bold">31. ¿Gastos relacionados con educación?</label>
                                   <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="siEducacion" runat="server" GroupName="educacionGroup" />
@@ -671,7 +671,7 @@
                                 </div>
 
                                 <div class="col-md-4">
-                                  <label for="inputCantidadGastosEducacion" class="col-form-label fw-bold">22.1 Monto</label>
+                                  <label for="inputCantidadGastosEducacion" class="col-form-label fw-bold">31.1 Monto</label>
                                   <div class="mb-3">
                                      <asp:TextBox ID="inputCantidadGastosEducacion" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
@@ -680,7 +680,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputBeneficiarioSalud" class="col-form-label fw-bold">23. ¿Es beneficiario de algún sistema de salud?</label>
+                                  <label for="inputBeneficiarioSalud" class="col-form-label fw-bold">32. ¿Es beneficiario de algún sistema de salud?</label>
                                   <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="siBeneficiarioSalud" runat="server" GroupName="beneficiarioSaludGroup" />
@@ -694,7 +694,7 @@
                                 </div>
 
                                 <div class="col-md-4">
-                                  <label for="inputTipoApoyoSalud" class="col-form-label fw-bold">23.1 ¿De qué tipo?</label>
+                                  <label for="inputTipoApoyoSalud" class="col-form-label fw-bold">32.1 ¿De qué tipo?</label>
                                   <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="publicoSalud" runat="server" GroupName="apoyoSaludGroup" />
@@ -710,7 +710,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputBeneficiarioGubernamental" class="col-form-label fw-bold">24. ¿Es beneficiario de algún apoyo económico gubernamental?</label>
+                                  <label for="inputBeneficiarioGubernamental" class="col-form-label fw-bold">33. ¿Es beneficiario de algún apoyo económico gubernamental?</label>
                                   <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="siBeneficiarioGubernamental" runat="server" GroupName="beneficiarioGubernamentalGroup" />
@@ -726,14 +726,14 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputProgramaGubernamental" class="col-form-label fw-bold">24.1 Programa</label>
+                                  <label for="inputProgramaGubernamental" class="col-form-label fw-bold">33.1 Programa</label>
                                   <div class="mb-3">
                                       <asp:TextBox ID="inputProgramaGubernamental" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>   
                                 </div>
 
                                 <div class="col-md-4">
-                                  <label for="inputMontoGubernamental" class="col-form-label fw-bold">24.2 Monto</label>
+                                  <label for="inputMontoGubernamental" class="col-form-label fw-bold">33.2 Monto</label>
                                   <div class="mb-3">
                                       <asp:TextBox ID="inputMontoGubernamental" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>   
@@ -742,7 +742,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputIngresoEstimado" class="col-form-label fw-bold">25. Estimado de ingreso mensual familiar</label>
+                                  <label for="inputIngresoEstimado" class="col-form-label fw-bold">34. Estimado de ingreso mensual familiar</label>
                                   <div class="mb-3">
                                       <asp:TextBox ID="inputIngresoEstimado" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>   
@@ -751,7 +751,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputAporteIngreso" class="col-form-label fw-bold">26. ¿Quiénes aportan al ingreso mensual familiar?</label>
+                                  <label for="inputAporteIngreso" class="col-form-label fw-bold">35. ¿Quiénes aportan al ingreso mensual familiar?</label>
                                   <div class="mb-3">
                                      <br />
                                      <textarea id="inputAporteIngreso" class="form-control" rows="5" cols="10"></textarea>
@@ -761,7 +761,7 @@
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4">
-                                  <label for="inputPobreza" class="col-form-label fw-bold">27. ¿Situación de pobreza extrema?</label>
+                                  <label for="inputPobreza" class="col-form-label fw-bold">36. ¿Situación de pobreza extrema?</label>
                                   <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="siPobrezaExtrema" runat="server" GroupName="pobrezaGroup" />
@@ -777,7 +777,7 @@
 
                             <div class="row mx-3 mt-3">
                                 <div class="col-md-8">
-                                    <label for="inputObservacionesDiagnostico" class="form-label fw-bold">28. Obervaciones JUCONI</label>
+                                    <label for="inputObservacionesDiagnostico" class="form-label fw-bold">37. Obervaciones JUCONI</label>
                                     <br />
 
                                     <textarea id="inputObservacionesDiagnostico" class="form-control" rows="5" cols="10"></textarea>
@@ -786,7 +786,7 @@
 
                              <div class="row mt-3 mx-3">
                                 <div class="col-md-7">
-                                    <label for="inputNombre" class="form-label fw-bold">29.  ¿Se considera familia candidata a Atención Familiar?</label>
+                                    <label for="inputNombre" class="form-label fw-bold">38.  ¿Se considera familia candidata a Atención Familiar?</label>
                                     <div class="mb-3 position-relative">
                                        <label class="form-check-inline">
                                          <asp:RadioButton ID="RadioButton1" runat="server" GroupName="candidatoGroup" />
