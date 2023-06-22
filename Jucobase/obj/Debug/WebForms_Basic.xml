@@ -1936,9 +1936,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._inputTera">
+<member name="F:Jucobase.Contacto._inputTerapeuta">
 <summary>
-Control inputTera.
+Control inputTerapeuta.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -1981,15 +1981,6 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._tutoria">
-<summary>
-Control tutoria.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Contacto._turoria1">
 <summary>
 Control turoria1.
@@ -1999,9 +1990,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Contacto._tutoria2">
+<member name="F:Jucobase.Contacto._turoria2">
 <summary>
-Control tutoria2.
+Control turoria2.
 </summary>
 <remarks>
 Campo generado automáticamente.

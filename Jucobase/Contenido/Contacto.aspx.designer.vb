@@ -95,13 +95,13 @@ Partial Public Class Contacto
     Protected WithEvents inputPrograma As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control inputTera.
+    '''Control inputTerapeuta.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputTera As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputTerapeuta As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control inputAtt.
@@ -140,15 +140,6 @@ Partial Public Class Contacto
     Protected WithEvents responsable2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control tutoria.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents tutoria As Global.System.Web.UI.HtmlControls.HtmlGenericControl
-
-    '''<summary>
     '''Control turoria1.
     '''</summary>
     '''<remarks>
@@ -158,13 +149,13 @@ Partial Public Class Contacto
     Protected WithEvents turoria1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control tutoria2.
+    '''Control turoria2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents tutoria2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents turoria2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control inputFechaEntradaEtapa.

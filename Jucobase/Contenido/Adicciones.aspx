@@ -329,13 +329,13 @@
                               <div class="row align-items-center mt-2 mx-3 ps-2">
                                     <div class="col-md-5 d-flex align-items-center">
                                       <button type="submit" class="btn btn-primary me-2 mt-3">
-                                        <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar y enviar
+                                        <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar
                                       </button>
                                       <button type="submit" class="btn btn-primary mt-3">
                                         <i class="fa-solid fa-backward-fast" aria-hidden="true"></i> Regresar
                                       </button>
                                     </div>
-                                </div>
+                              </div>
 
                         </div>
                       </div>
