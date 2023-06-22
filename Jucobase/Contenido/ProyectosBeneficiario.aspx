@@ -53,15 +53,13 @@
                             <h5 class="card-title fw-bold ps-4">&nbsp
                                 Asignar nuevo beneficiario a proyecto</h5>
 
-
-                            <div class="row align-items-center mt-3 mx-3">
+                             <div class="row mt-3 mx-3">
                                 <div class="col-md-3">
-                                  <label for="inputNru" class="form-label fw-bold">NRU</label>
+                                  <label for="inputNru" class="col-form-label fw-bold">NRU</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="inputNru" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
-
                                 <div class="col-md-3">
                                   <label for="inputClaveFamilia" class="col-form-label fw-bold">Clave de familia</label>
                                   <div class="mb-3">
@@ -69,9 +67,9 @@
                                   </div>
                                 </div>
 
-                               <div class="col-md-4 d-flex align-items-center">
+                                <div class="col-md-4 d-flex align-items-center">
                                   <button type="submit" class="btn btn-primary me-2 mt-3">
-                                    <i class="fa fa-search" aria-hidden="true"></i> Buscar beneficiario
+                                    <i class="fa-solid fa-search" aria-hidden="true"></i> Buscar beneficiario
                                   </button>
                                </div>
                             </div>

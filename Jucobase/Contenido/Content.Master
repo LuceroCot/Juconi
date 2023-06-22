@@ -267,7 +267,7 @@
                         </li>
 
                         <li>
-                          <a class="dropdown-item d-flex align-items-center" href="#">
+                          <a class="dropdown-item d-flex align-items-center" href="CambioClave.aspx">
                             <i class="bi bi-gear"></i>
                             <span>Cambiar contraseña</span>
                           </a>
@@ -277,7 +277,7 @@
                         </li>
 
                         <li>
-                          <a class="dropdown-item d-flex align-items-center" href="#">
+                          <a class="dropdown-item d-flex align-items-center" href="Salir.aspx">
                             <i class="bi bi-box-arrow-right"></i>
                             <span>Salir</span>
                           </a>
@@ -389,40 +389,35 @@
                     </a>
                     <ul id="contact-nav" class="nav-content collapse " data-bs-parent="#sidebar-nav">
                       <li>
+                        <a href="AsignarFamilia.aspx">
+                          <i class="fa-solid fa-square-check" style="font-size: 14px;"></i><span>Asignar familia</span>
+                        </a>
+                      </li>  
+                      <li>
+                        <a href="DinamicaFamiliar.aspx">
+                          <i class="fa-solid fa-house-chimney-window" style="font-size: 14px;"></i><span>Dinámica familiar</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="FichaSalida.aspx">
+                          <i class="fa-solid fa-door-open" style="font-size: 14px;"></i><span>Ficha de salida</span>
+                        </a>
+                      </li>
+                      <li>
+                        <a href="Genograma.aspx">
+                          <i class="fa-solid fa-sitemap" style="font-size: 14px;"></i><span>Genograma - familiograma</span>
+                        </a>
+                      </li>
+                      <li>
                         <a href="PrimerContacto.aspx">
                           <i class="fa-solid fa-handshake" style="font-size: 14px;"></i><span>Primer contacto</span>
                         </a>
-                      </li>
-
+                      </li>   
                       <li>
-                        <a href="Catalogos.aspx">
-                          <i class="fa-solid fa-book-open-reader" style="font-size: 14px;"></i><span>Catálogos</span>
+                        <a href="RegistroFamilia.aspx">
+                          <i class="fa-solid fa-solid fa-baby" style="font-size: 14px;"></i><span>Registro de familia</span>
                         </a>
-                      </li>
-
-                      <li>
-                        <a href="Cursos.aspx">
-                          <i class="fa-solid fa-list-ol" style="font-size: 14px;"></i><span>Cursos</span>
-                        </a>
-                      </li>
-
-                      <li>
-                        <a href="CursosDeResponsables.aspx">
-                          <i class="fa-solid fa-graduation-cap" style="font-size: 14px;"></i><span>Cursos de los responsables</span>
-                        </a>
-                      </li>
-
-                      <li>
-                        <a href="Familias.aspx">
-                          <i class="fa-solid fa-people-roof" style="font-size: 14px;"></i><span>Familias</span>
-                        </a>
-                      </li>
-
-                      <li>
-                        <a href="Herramientas.aspx">
-                          <i class="fa-solid fa-screwdriver-wrench" style="font-size: 14px;"></i><span>Herramientas de captura</span>
-                        </a>
-                      </li>
+                      </li>  
                     </ul>
                   </li><!-- End Components Nav -->
 
@@ -547,7 +542,7 @@
                   </li><!-- End Nav -->
 
                   <li class="nav-item">
-                    <a class="nav-link collapsed" href="pages-login.html">
+                    <a class="nav-link collapsed" href="Salir.aspx">
                       <i class="bi bi-box-arrow-in-right"></i>
                       <span>Salir</span>
                     </a>

@@ -149,6 +149,24 @@ Partial Public Class PrimerContacto
     Protected WithEvents inputRedSocial As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
+    '''Control inputNombreN1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents inputNombreN1 As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control inputEdadN1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents inputEdadN1 As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
     '''Control inputParentesco1.
     '''</summary>
     '''<remarks>
@@ -156,6 +174,24 @@ Partial Public Class PrimerContacto
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents inputParentesco1 As Global.System.Web.UI.WebControls.DropDownList
+
+    '''<summary>
+    '''Control inputNombreN2.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents inputNombreN2 As Global.System.Web.UI.WebControls.TextBox
+
+    '''<summary>
+    '''Control inputEdadN2.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents inputEdadN2 As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control inputParentesco2.

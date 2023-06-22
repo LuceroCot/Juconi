@@ -54,7 +54,7 @@
                                 Registro nuevo beneficiario</h5>
 
 
-                            <div class="row align-items-center mt-3 mx-3">
+                            <div class="row mt-3 mx-3">
                                 <div class="col-md-3">
                                   <label for="inputClave" class="col-form-label fw-bold">Clave de familia</label>
                                   <div class="mb-3">
@@ -76,14 +76,14 @@
                                </div>
                             </div>
 
-                            <div class="row align-items-center mt-3 mx-3">
+                            <div class="row mt-3 mx-3">
                                 <div class="col-md-3">
-                                  <label for="inputNru" class="form-label fw-bold">NRU</label>
+                                  <label for="inputNru" class="col-form-label fw-bold">NRU</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="inputNru" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
-
+                               
                                 <div class="col-md-3">
                                   <label for="inputNombreBeneficiario" class="col-form-label fw-bold">Nombre</label>
                                   <div class="mb-3">
@@ -92,14 +92,14 @@
                                 </div>
                             </div>
 
-                            <div class="row align-items-center mt-3 mx-3">
+                            <div class="row mt-3 mx-3">
                                 <div class="col-md-3">
-                                  <label for="inputNuevoApellidoPaterno" class="form-label fw-bold">Apellido paterno</label>
+                                  <label for="inputNuevoApellidoPaterno" class="col-form-label fw-bold">Apellido paterno</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputNuevoApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="inputNuevoApellidoPaterno" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
-
+                               
                                 <div class="col-md-3">
                                   <label for="inputNuevoApellidoMaterno" class="col-form-label fw-bold">Apellido materno</label>
                                   <div class="mb-3">
@@ -108,7 +108,7 @@
                                 </div>
                             </div>
 
-                            <div class="row align-items-center mt-3 mx-3">
+                            <div class="row mt-3 mx-3">
                                 <div class="col-md-3">
                                   <label for="inputFechaNacimiento" class="col-form-label fw-bold">Fecha de nacimiento</label>
                                   <div class="mb-3 position-relative">
@@ -213,10 +213,10 @@
 
                         <div>
                             <div class="row align-items-center mt-3 mx-3 ps-2">
-                                <div class="col-md-3">
-                                  <label for="inputNruFamilia" class="form-label fw-bold">NRU</label>
+                                 <div class="col-md-3">
+                                  <label for="inputNruFamilia" class="col-form-label fw-bold">NRU</label>
                                   <div class="mb-3">
-                                    <asp:TextBox ID="inputNruFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <asp:TextBox ID="inputNruFamilia" runat="server" CssClass="form-control"></asp:TextBox>
                                   </div>
                                 </div>
 

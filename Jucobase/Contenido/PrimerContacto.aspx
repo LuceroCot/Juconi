@@ -189,20 +189,20 @@
                             <div class="mt-3 mx-3">
                                <label class="form-label fw-bold mx-3">9. Nombre y edad de niña, niño o adolescente</label>
                                <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
-                                 <div class="col-sm-8">
+                                 <div class="col-sm-7">
                                     <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
                                         <thead>
                                             <tr class="text-dark">
-                                                <th scope="col">Nombre</th>
-                                                <th scope="col">Edad</th>
-                                                <th scope="col">Parentesco con persona responsable</th>
+                                                <th scope="col" class="col-md-3">Nombre</th>
+                                                <th scope="col" class="col-md-2">Edad</th>
+                                                <th scope="col" class="col-md-3">Parentesco con persona responsable</th>
                                             </tr>
                                         </thead>
 
                                         <tbody>
                                             <tr>
-                                                <td></td>
-                                                <td></td>
+                                                <td><asp:TextBox ID="inputNombreN1" runat="server" CssClass="form-control"></asp:TextBox></td>
+                                                <td><asp:TextBox ID="inputEdadN1" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td>
                                                     <asp:DropDownList ID="inputParentesco1" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="0">Otro</asp:ListItem>
@@ -212,8 +212,8 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td></td>
-                                                <td></td>
+                                                <td><asp:TextBox ID="inputNombreN2" runat="server" CssClass="form-control"></asp:TextBox></td>
+                                                <td><asp:TextBox ID="inputEdadN2" runat="server" CssClass="form-control"></asp:TextBox></td>
                                                 <td>
                                                     <asp:DropDownList ID="inputParentesco2" AutoPostBack="false" CssClass="form-select" runat="server">
                                                       <asp:ListItem Selected="True" Value="0">Otro</asp:ListItem>

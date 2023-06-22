@@ -592,7 +592,9 @@
     <Content Include="Bootstrap\Site.css" />
     <Content Include="Contact.aspx" />
     <Content Include="Contenido\Adicciones.aspx" />
+    <Content Include="Contenido\AsignarFamilia.aspx" />
     <Content Include="Contenido\Beneficiario.aspx" />
+    <Content Include="Contenido\CambioClave.aspx" />
     <Content Include="Contenido\Catalogos.aspx" />
     <Content Include="Contenido\Contacto.aspx" />
     <Content Include="Contenido\Cursos.aspx" />
@@ -619,6 +621,7 @@
     <Content Include="Contenido\RegistroFamilia.aspx" />
     <Content Include="Contenido\ResponsableProyecto.aspx" />
     <Content Include="Contenido\ResumenPoblacional.aspx" />
+    <Content Include="Contenido\Salir.aspx" />
     <Content Include="Contenido\Salud.aspx" />
     <Content Include="Contenido\Socioeconomicos.aspx" />
     <Content Include="Default.aspx" />
@@ -865,11 +868,25 @@
       <DependentUpon>Adicciones.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
+    <Compile Include="Contenido\AsignarFamilia.aspx.designer.vb">
+      <DependentUpon>AsignarFamilia.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\AsignarFamilia.aspx.vb">
+      <DependentUpon>AsignarFamilia.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
     <Compile Include="Contenido\Beneficiario.aspx.designer.vb">
       <DependentUpon>Beneficiario.aspx</DependentUpon>
     </Compile>
     <Compile Include="Contenido\Beneficiario.aspx.vb">
       <DependentUpon>Beneficiario.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\CambioClave.aspx.designer.vb">
+      <DependentUpon>CambioClave.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\CambioClave.aspx.vb">
+      <DependentUpon>CambioClave.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Catalogos.aspx.designer.vb">
@@ -1059,6 +1076,13 @@
     </Compile>
     <Compile Include="Contenido\ResumenPoblacional.aspx.vb">
       <DependentUpon>ResumenPoblacional.aspx</DependentUpon>
+      <SubType>ASPXCodebehind</SubType>
+    </Compile>
+    <Compile Include="Contenido\Salir.aspx.designer.vb">
+      <DependentUpon>Salir.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contenido\Salir.aspx.vb">
+      <DependentUpon>Salir.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
     <Compile Include="Contenido\Salud.aspx.designer.vb">
