@@ -188,154 +188,154 @@
                                <i class="fa-solid fa-wine-bottle fa-lg"></i>
                                 &nbsp Adicciones </h5>
 
-                          <div class="row mt-3 mx-3">
-                               <div class="col-md-6">
-                                    <label class="form-label fw-bold">1. ¿Ha consumido alguna sustancia en los últimos 6 meses?</label>
-                                    <div class="mb-3 position-relative">
-                                       <label class="form-check-inline">
-                                         <asp:RadioButton ID="consumo1" GroupName="ConsumoSustancias" runat="server" />
-                                         <span class="form-check-label">Sí</span>
-                                       </label>
-                                       <label class="form-check-inline ml-2">
-                                         <asp:RadioButton ID="consumo2" GroupName="ConsumoSustancias" runat="server" />
-                                         <span class="form-check-label">No</span>
-                                       </label>
+                              <div class="row mt-3 mx-3">
+                                   <div class="col-md-6">
+                                        <label class="form-label fw-bold">1. ¿Ha consumido alguna sustancia en los últimos 6 meses?</label>
+                                        <div class="mb-3 position-relative">
+                                           <label class="form-check-inline">
+                                             <asp:RadioButton ID="consumo1" GroupName="ConsumoSustancias" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                           </label>
+                                           <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="consumo2" GroupName="ConsumoSustancias" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                           </label>
+                                        </div>
+                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
+                                   </div>
+                              </div>
+
+                              <div class="row mt-2 mx-3">
+                                   <label class="form-label fw-bold">2. Frecuencia de consumo de sustancias </label>
+
+                                   <div class="col-md-4 me-3 ms-1">
+                                        <label for="inputAlcohol" class="form-label fw-bold">2.1 Alcohol</label>
+                                        <div class="mb-3">
+                                            <asp:DropDownList ID="inputAlcohol" AutoPostBack="false"
+                                                    CssClass="form-select" runat="server">
+                                                  <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
+                                                  <asp:ListItem Value="1">Experimental</asp:ListItem>
+                                                  <asp:ListItem Value="2">Social</asp:ListItem>
+                                                  <asp:ListItem Value="3">Abuso</asp:ListItem>
+                                            </asp:DropDownList>
+                                        </div>
                                     </div>
-                                    <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
+
+                                    <div class="col-md-4 me-3 ms-1">
+                                        <label for="inputTabaco" class="form-label fw-bold">2.2 Tabaco</label>
+                                        <div class="mb-3">
+                                            <asp:DropDownList ID="inputTabaco" AutoPostBack="false"
+                                                    CssClass="form-select" runat="server">
+                                                  <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
+                                                  <asp:ListItem Value="1">Experimental</asp:ListItem>
+                                                  <asp:ListItem Value="2">Social</asp:ListItem>
+                                                  <asp:ListItem Value="3">Abuso</asp:ListItem>
+                                            </asp:DropDownList>
+                                        </div>
+                                    </div>
+                              </div>
+
+                              <div class="row mt-2 mx-3">
+                                    <div class="col-md-4 me-3 ms-1">
+                                       <label for="inputDrogas" class="form-label fw-bold">2.3 Drogas</label>
+                                        <div class="mb-3">
+                                            <asp:DropDownList ID="inputDrogas" AutoPostBack="false"
+                                                    CssClass="form-select" runat="server">
+                                                  <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
+                                                  <asp:ListItem Value="1">Experimental</asp:ListItem>
+                                                  <asp:ListItem Value="2">Social</asp:ListItem>
+                                                  <asp:ListItem Value="3">Abuso</asp:ListItem>
+                                            </asp:DropDownList>
+                                        </div>
+                                    </div>
+                              </div>
+
+                              <div class="row mt-2 mx-3">
+                                   <div class="col-md-4 me-3 ms-1">
+                                       <label class="form-label fw-bold">3. En los últimos 6 meses, ¿solicitó ayuda para disminuir el consumo de estas sustancias?</label>
+                                       <div class="mb-3 position-relative">
+                                           <label class="form-check-inline">
+                                             <asp:RadioButton ID="solicitar1" GroupName="SolicitarAyuda" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                           </label>
+                                           <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="solicitar2" GroupName="SolicitarAyuda" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                           </label>
+                                        </div>
+                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
+                                    </div>
+
+                                    <div class="col-md-4 me-3 ms-1">
+                                        <label class="form-label fw-bold">4. En los últimos 6 meses, ¿recibió ayuda para disminuir el consumo de estas sustancias?</label>
+                                        <div class="mb-3 position-relative">
+                                           <label class="form-check-inline">
+                                             <asp:RadioButton ID="recibir1" GroupName="RecibirAyuda" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                           </label>
+                                           <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="recibir2" GroupName="RecibirAyuda" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                           </label>
+                                        </div>
+                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
+                                    </div>
+                              </div>
+
+                              <div class="row mt-2 mx-3">
+                                   <div class="col-md-4 me-3 ms-1">
+                                       <label for="inputRazonNA" class="form-label fw-bold">5. Razón por la cual no recibió o solicitó apoyo</label>
+                                        <div class="mb-3">
+                                            <asp:TextBox ID="inputRazonNA" runat="server" CssClass="form-control" ></asp:TextBox>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-md-4 me-3 ms-1">
+                                        <label class="form-label fw-bold">6. ¿Ha notado cambios o progresado con el apoyo recibido?</label>
+                                        <div class="mb-3 position-relative">
+                                           <label class="form-check-inline">
+                                             <asp:RadioButton ID="progreso1" GroupName="ProgresoApoyo" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                           </label>
+                                           <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="progreso2" GroupName="ProgresoApoyo" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                           </label>
+                                        </div>
+                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>                                   
+                                    </div>
                                </div>
-                          </div>
 
-                          <div class="row mt-2 mx-3">
-                               <label class="form-label fw-bold">2. Frecuencia de consumo de sustancias </label>
-
-                               <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputAlcohol" class="form-label fw-bold">2.1 Alcohol</label>
-                                    <div class="mb-3">
-                                        <asp:DropDownList ID="inputAlcohol" AutoPostBack="false"
-                                                CssClass="form-select" runat="server">
-                                              <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
-                                              <asp:ListItem Value="1">Experimental</asp:ListItem>
-                                              <asp:ListItem Value="2">Social</asp:ListItem>
-                                              <asp:ListItem Value="3">Abuso</asp:ListItem>
-                                        </asp:DropDownList>
+                              <div class="row mt-2 mx-3">
+                                   <div class="col-md-4 me-3 ms-1">
+                                        <label for="inputMejora" class="form-label fw-bold">7. Razón por la cual siente que podría mejorar más</label>
+                                        <div class="mb-3">
+                                            <asp:TextBox ID="inputMejora" runat="server" CssClass="form-control" ></asp:TextBox>
+                                        </div>
                                     </div>
                                 </div>
 
-                                <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputTabaco" class="form-label fw-bold">2.2 Tabaco</label>
-                                    <div class="mb-3">
-                                        <asp:DropDownList ID="inputTabaco" AutoPostBack="false"
-                                                CssClass="form-select" runat="server">
-                                              <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
-                                              <asp:ListItem Value="1">Experimental</asp:ListItem>
-                                              <asp:ListItem Value="2">Social</asp:ListItem>
-                                              <asp:ListItem Value="3">Abuso</asp:ListItem>
-                                        </asp:DropDownList>
-                                    </div>
+                              <div class="row mt-2 mx-3">
+                                   <div class="col-md-4 me-3 ms-1">
+                                       <label class="form-label fw-bold">8. Observaciones </label>
+                                       <div class="mb-3">
+                                         <br />
+                                         <textarea id="inputObservaciones" class="form-control" rows="5" cols="10"></textarea>
+                                      </div>  
+                                   </div>
                                 </div>
-                          </div>
-
-                          <div class="row mt-2 mx-3">
-                                <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputDrogas" class="form-label fw-bold">2.3 Drogas</label>
-                                    <div class="mb-3">
-                                        <asp:DropDownList ID="inputDrogas" AutoPostBack="false"
-                                                CssClass="form-select" runat="server">
-                                              <asp:ListItem Selected="True">Frecuencia de consumo</asp:ListItem>
-                                              <asp:ListItem Value="1">Experimental</asp:ListItem>
-                                              <asp:ListItem Value="2">Social</asp:ListItem>
-                                              <asp:ListItem Value="3">Abuso</asp:ListItem>
-                                        </asp:DropDownList>
-                                    </div>
-                                </div>
-                          </div>
-
-                          <div class="row mt-2 mx-3">
-                               <div class="col-md-4 me-3 ms-1">
-                                   <label class="form-label fw-bold">3. En los últimos 6 meses, ¿solicitó ayuda para disminuir el consumo de estas sustancias?</label>
-                                   <div class="mb-3 position-relative">
-                                       <label class="form-check-inline">
-                                         <asp:RadioButton ID="solicitar1" GroupName="SolicitarAyuda" runat="server" />
-                                         <span class="form-check-label">Sí</span>
-                                       </label>
-                                       <label class="form-check-inline ml-2">
-                                         <asp:RadioButton ID="solicitar2" GroupName="SolicitarAyuda" runat="server" />
-                                         <span class="form-check-label">No</span>
-                                       </label>
-                                    </div>
-                                    <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
-                                </div>
-
-                                <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">4. En los últimos 6 meses, ¿recibió ayuda para disminuir el consumo de estas sustancias?</label>
-                                    <div class="mb-3 position-relative">
-                                       <label class="form-check-inline">
-                                         <asp:RadioButton ID="recibir1" GroupName="RecibirAyuda" runat="server" />
-                                         <span class="form-check-label">Sí</span>
-                                       </label>
-                                       <label class="form-check-inline ml-2">
-                                         <asp:RadioButton ID="recibir2" GroupName="RecibirAyuda" runat="server" />
-                                         <span class="form-check-label">No</span>
-                                       </label>
-                                    </div>
-                                    <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
-                                </div>
-                          </div>
-
-                          <div class="row mt-2 mx-3">
-                               <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputRazonNA" class="form-label fw-bold">5. Razón por la cual no recibió o solicitó apoyo</label>
-                                    <div class="mb-3">
-                                        <asp:TextBox ID="inputRazonNA" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                </div>
-
-                                <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">6. ¿Ha notado cambios o progresado con el apoyo recibido?</label>
-                                    <div class="mb-3 position-relative">
-                                       <label class="form-check-inline">
-                                         <asp:RadioButton ID="progreso1" GroupName="ProgresoApoyo" runat="server" />
-                                         <span class="form-check-label">Sí</span>
-                                       </label>
-                                       <label class="form-check-inline ml-2">
-                                         <asp:RadioButton ID="progreso2" GroupName="ProgresoApoyo" runat="server" />
-                                         <span class="form-check-label">No</span>
-                                       </label>
-                                    </div>
-                                    <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>                                   
-                                </div>
-                           </div>
-
-                          <div class="row mt-2 mx-3">
-                               <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputMejora" class="form-label fw-bold">7. Razón por la cual siente que podría mejorar más</label>
-                                    <div class="mb-3">
-                                        <asp:TextBox ID="inputMejora" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                </div>
-                            </div>
-
-                          <div class="row mt-2 mx-3">
-                               <div class="col-md-4 me-3 ms-1">
-                                   <label class="form-label fw-bold">8. Observaciones </label>
-                                   <div class="mb-3">
-                                     <br />
-                                     <textarea id="inputObservaciones" class="form-control" rows="5" cols="10"></textarea>
-                                  </div>  
-                               </div>
-                            </div>
 
                             
-                          <div class="row align-items-center mt-2 mx-3 ps-2">
-                                <div class="col-md-5 d-flex align-items-center">
-                                  <button type="submit" class="btn btn-primary me-2 mt-3">
-                                    <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar y enviar
-                                  </button>
-                                  <button type="submit" class="btn btn-primary mt-3">
-                                    <i class="fa-solid fa-backward-fast" aria-hidden="true"></i> Regresar
-                                  </button>
+                              <div class="row align-items-center mt-2 mx-3 ps-2">
+                                    <div class="col-md-5 d-flex align-items-center">
+                                      <button type="submit" class="btn btn-primary me-2 mt-3">
+                                        <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar y enviar
+                                      </button>
+                                      <button type="submit" class="btn btn-primary mt-3">
+                                        <i class="fa-solid fa-backward-fast" aria-hidden="true"></i> Regresar
+                                      </button>
+                                    </div>
                                 </div>
-                            </div>
 
                         </div>
                       </div>
