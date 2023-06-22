@@ -160,7 +160,7 @@
                                         <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
                                     </div>
                                 </div>
-                          </div>
+                           </div>
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
@@ -174,7 +174,7 @@
                                         </asp:DropDownList>
                                     </div>
                                 </div>
-                          </div>               
+                            </div>               
 
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
@@ -211,7 +211,7 @@
                                         </div>
                                      </div>
                                 </div>
-                          </div>
+                            </div>
 
                             <div class="row mt-2 mx-3">
                                <h5 class="card-title fw-bold">Entrada a etapa de contacto</h5>

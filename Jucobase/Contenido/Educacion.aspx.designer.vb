@@ -176,13 +176,13 @@ Partial Public Class Educacion
     Protected WithEvents escribirl1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control escribir2.
+    '''Control escribirl2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents escribir2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents escribirl2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control operaciones1.

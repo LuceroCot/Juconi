@@ -32,9 +32,9 @@
           </nav>
         </div><!-- End Page Title -->
 
-        <form class="form-card row g-3" runat="server">
+        <form class="form-card row g-3 form-inline" runat="server">
             <section class="section dashboard">
-                     <!-- Customers Card -->
+                    <!-- Customers Card -->
                     <div class="col-xxl-4 col-xl-12 px-4">
 
                       <div class="card info-card customers-card">
@@ -43,7 +43,7 @@
                               Registro reporte de educación de beneficiario</h5>
 
                     
-                            <div class="row d-inline-flex mt-3 ps-3 ms-2">
+                            <div class="row d-inline-flex mt-3 mx-3">
                                 <div class="col">
                                     <label for="inputNru" class="form-label fw-bold">NRU</label>
                                     <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
@@ -57,103 +57,126 @@
                                 </div>  
                             </div>
 
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputNombre" class="form-label fw-bold">Nombre</label>
-                                    <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control" ></asp:TextBox>
+                            <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                  <label for="inputNombre" class="form-label fw-bold">Nombre</label>
+                                  <div class="mb-3">
+                                    <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control"></asp:TextBox>
+                                  </div>
                                 </div>
-                                
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
-                                    <asp:TextBox ID="inputClave" runat="server" CssClass="form-control" ></asp:TextBox>
+                                <div class="col-md-4 me-3 ms-1">
+                                  <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
+                                  <div class="mb-3">
+                                    <asp:TextBox ID="inputClave" runat="server" CssClass="form-control"></asp:TextBox>
+                                  </div>
                                 </div>
                             </div>
 
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 mt-3">
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputApellidoPaterno" class="form-label fw-bold">Apellido Paterno</label>
-                                    <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
                                 </div>
-                                <div class="col-sm-4 ps-5 mt-3">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputFamilia" class="form-label fw-bold">Familia</label>
-                                    <asp:TextBox ID="inputFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputApellidoMaterno" class="form-label fw-bold">Apellido Materno</label>
-                                    <asp:TextBox ID="inputApellidoMaterno" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-                                <div class="col-sm-2 ps-5 mt-3">
-                                    <label for="inputEdad" class="form-label fw-bold">Edad</label>
-                                    <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 input-date mt-3">
-                                    <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
-                                    <i class="fa-regular fa-calendar"></i>
-                                    <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputPrograma" class="form-label fw-bold">Programa</label>
-                                    <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-
-                                <div class="col-sm-4 ps-5 mt-3">
-                                     <label for="inputTerapeuta" class="form-label fw-bold">Terapeuta</label>
-                                     <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
-                                </div>
-                            </div>
-
-                            <div class="row mt-3" id="perfilAtencionFamiliar" style="display: ;">
-                                <div class="col-sm-4 ps-5">
-                                    <label for="inputAtencionFamiliar" class="form-label fw-bold">Modelo de Atención Familiar</label>
-                                    <asp:DropDownList ID="inputAtencionFamiliar" AutoPostBack="false"
-                                                    CssClass="form-select" runat="server">
-                                        <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
-                                        <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
-                                        <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
-                                    </asp:DropDownList>
-                                </div>
-                            </div>
-
-                            <div class="row mt-3">
-                                <div class="col-sm-4 ps-5">
-                                    <label for="localAmbienteJuconi" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
-                                    <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-                            </div>
-
-                            <div class="row">
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputRolFamilia" class="form-label fw-bold">Rol en la familia</label>
-                                    <asp:TextBox ID="inputRolFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
-                                </div>
-                               
-                                <div class="col-sm-4 ps-5 mt-3">
-                                    <label for="inputAultoResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
-                                    <asp:TextBox ID="inputAdultoResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
-
-                                    <div class="row mt-3" id="tutoria" style="display:;">
-                                       <div class="col-sm-9">
-                                           <label for="tutoriaLegal" class="form-label fw-bold">¿Tiene la tutoría legal?</label>
-                                           <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
-                                       </div>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
                             </div>
 
- 
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputApellidoMaterno" class="form-label fw-bold">Apellido Materno</label>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputApellidoMaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                </div>
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputEdad" class="form-label fw-bold">Edad</label>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
+                                    <div class="mb-3 position-relative">
+                                      <i class="fa-regular fa-calendar position-absolute top-50 start-0 translate-middle-y"></i>
+                                      <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputPrograma" class="form-label fw-bold">Programa</label>
+                                    <div class="mb-3">
+                                        <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputTerapeuta" class="form-label fw-bold">Terapeuta</label>
+                                    <div class="mb-3">
+                                        <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
+                                    </div>
+                                </div>
+                           </div>
+
+                            <div class="row mt-2 mx-3" id="perfilAtencionFamiliar">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputAtencionFamiliar" class="form-label fw-bold">Modelo de Atención Familiar</label>
+                                    <div class="mb-3">
+                                        <asp:DropDownList ID="inputAtencionFamiliar" AutoPostBack="false"
+                                                        CssClass="form-select" runat="server">
+                                            <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
+                                            <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
+                                            <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
+                                        </asp:DropDownList>
+                                    </div>
+                                </div>
+                            </div> 
+
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="localAmbienteJuconi" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row mt-2 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputRolFamilia" class="form-label fw-bold">Rol en la familia</label>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputRolFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                </div>
+                               
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputAultoResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
+                                    <div class="mb-3">
+                                      <asp:TextBox ID="inputAdultoResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+
+                                    <div class="col-md-6">
+                                       <label for="tutoriaLegal" class="form-label fw-bold">¿Tiene la tutoría legal?</label>
+                                       <div class="mb-3">
+                                         <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
+                                       </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                       </div>
                     </div>
-                <!-- End Customers Card -->
+                    <!-- End Customers Card -->
 
                     <!-- Población en general -->
                     <div class="col-xxl-4 col-xl-12 px-4">
@@ -166,54 +189,55 @@
                                <i class="fa-solid fa-people-group fa-lg"></i>
                            </h5>
 
-                            <div class="row mt-3">
-                                    <div class="col-sm-6 ps-5">
-                                        <label class="form-label fw-bold">1. ¿Sabe leer?</label>
-                                         <br />
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                     <label class="form-label fw-bold">1. ¿Sabe leer?</label>
+                                     <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="leer1" GroupName="SabeLeer" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="leer2" GroupName="SabeLeer" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
+                                     </div>
+                                </div>
+                                <div class="col-md-4 me-3 ms-1">
+                                     <label class="form-label fw-bold">2. ¿Sabe escribir?</label>
+                                     <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="escribirl1" GroupName="SabeEscribir" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="escribirl2" GroupName="SabeEscribir" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
+                                     </div>
+                                </div>
+                           </div>
 
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="leer1" Checked="false" GroupName="SabeLeer" runat="server" />&nbsp Sí
-                                        </div>
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="leer2" GroupName="SabeLeer" runat="server" />&nbsp No
-                                        </div>
-                                    </div>
-                                   
-                                    <div class="col-sm-5 ps-5">
-                                        <label class="form-label fw-bold">2. ¿Sabe escribir?</label>
-                                        <br />
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                     <label class="form-label fw-bold">3. ¿Sabe operaciones básicas?</label>
+                                     <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="operaciones1" GroupName="SabeOperaciones" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="operaciones2" GroupName="SabeOperaciones" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
+                                     </div>
+                                </div>
+                           </div>
 
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="escribirl1" Checked="false" GroupName="SabeEscribir" runat="server" />&nbsp Sí
-                                        </div>
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="escribir2" GroupName="SabeEscribir" runat="server" />&nbsp No
-                                        </div>
-                                   </div>
-                             </div>
-
-                            <div class="row mt-3">
-                                    <div class="col-sm-6 ps-5">
-                                        <label class="form-label fw-bold">3. ¿Sabe operaciones básicas?</label>
-                                         <br />
-
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="operaciones1" Checked="false" GroupName="SabeOperaciones" runat="server" />&nbsp Sí
-                                        </div>
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="operaciones2" GroupName="SabeOperaciones" runat="server" />&nbsp No
-                                        </div>
-                                    </div>
-
-                                   
-                             </div>
-
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
-                                        <label for="inputRol" class="form-label fw-bold">4. Último año escolar completado</label>
-
-                                        <div class="col-sm-7">
-
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputEscolar" class="form-label fw-bold">4. Último año escolar completado</label>
+                                    <div class="mb-3">
                                             <asp:DropDownList ID="inputEscolar" AutoPostBack="false"
                                                     CssClass="form-select" runat="server">
                                                     <asp:ListItem Selected="True">Año escolar</asp:ListItem>
@@ -234,76 +258,68 @@
                                                     <asp:ListItem Value="N">Ninguno</asp:ListItem>
                                                     <asp:ListItem Value="NA">Ninguno, pero es alfabeta</asp:ListItem>
                                             </asp:DropDownList>
-                                        </div>
-                                     <br />
+                                    </div>
                                 </div>
 
-                                <div class="col-sm-5 ps-5">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">4.1. ¿Rezago escolar?</label>
-                                    <br />
-
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="rezago1" Checked="false" GroupName="RezagoEscolar" runat="server" />&nbsp Sí
+                                     <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="rezago1" GroupName="RezagoEscolar" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="rezago2" GroupName="RezagoEscolar" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
                                     </div>
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="rezago2" GroupName="RezagoEscolar" runat="server" />&nbsp No
+                               </div>
+                           </div>
+
+                           <div class="row mt-3 mx-3">
+                               <div class="col-md-4 me-3 ms-1">
+                                    <label class="form-label fw-bold">5. ¿Asiste a una escuela o institución educativa?</label>
+                                    <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="escuela1" GroupName="AsistirEscuela" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="escuela2" GroupName="AsistirEscuela" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
                                     </div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="row mt-3">
-                                    <div class="col-sm-6 ps-5">
-                                        <label class="form-label fw-bold">5. ¿Asiste a una escuela o institución educativa?</label>
-                                         <br />
-
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="escuela1" Checked="false" GroupName="AsistirEscuela" runat="server" />&nbsp Sí
-                                        </div>
-                                        <div class="form-check form-check-inline mt-2">
-                                            <asp:RadioButton ID="escuela2" GroupName="AsistirEscuela" runat="server" />&nbsp No
-                                        </div>
-
-                                    </div>
+                                 </div>
                                     
-                                    <div class="col-sm-5 ps-5">
-                                        <label class="form-label fw-bold">5.1 En caso de no asistir, ¿cuál es la razón?</label>
-
-                                        <div class="col-sm-8">
-                                            <asp:TextBox ID="razonRegazo" runat="server" CssClass="form-control" ></asp:TextBox>
-                                        </div>
-                                   </div>
+                                 <div class="col-md-4 me-3 ms-1">
+                                    <label class="form-label fw-bold">5.1 En caso de no asistir, ¿cuál es la razón?</label>
+                                    <div class="mb-3">
+                                        <asp:TextBox ID="razonRegazo" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    </div>
+                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputEscuela" class="form-label fw-bold">6. Nombre de escuela o institución educativa a la que asiste</label>
-                                        
-                                    <div class="col-sm-7">
+                                    <div class="mb-3">
                                         <asp:TextBox ID="inputEscuela" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
 
-                                
-                                <div class="col-sm-5 ps-5">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputFrecuencia" class="form-label fw-bold">6.1 Clave del centro de trabajo (CCT) de la escuela o institución educativa</label>
-                                    <br />
-                                    
-                                    <div class="col-sm-5">
+                                    <div class="mb-3">
                                         <asp:TextBox ID="inputClaveE" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
-                            </div>
+                           </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
+                           <div class="row mt-3 mx-3">
+                                 <div class="col-md-4 me-3 ms-1">
                                     <label for="inputEscuela" class="form-label fw-bold">7. De los 5 días hábiles a la semana asiste</label>
-                                        
-                                    <div class="col-sm-7">
-
-                                        <asp:DropDownList ID="inputAsistencia" AutoPostBack="false"
-                                                    CssClass="form-select" runat="server">
+                                    <div class="mb-3">
+                                        <asp:DropDownList ID="inputAsistencia" AutoPostBack="false" CssClass="form-select" runat="server">
                                             <asp:ListItem Selected="True" Value="1">0/5</asp:ListItem>
                                             <asp:ListItem Value="2">1/5</asp:ListItem>
                                             <asp:ListItem Value="3">2/5</asp:ListItem>
@@ -313,102 +329,98 @@
                                         </asp:DropDownList>
                                     </div>
                                 </div>
-                            </div>
+                           </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
-                                   <label for="inputPromedio" class="form-label fw-bold">8. Último promedio obtenido</label>
-                                        
-                                    <div class="col-sm-5">
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label for="inputPromedio" class="form-label fw-bold">8. Último promedio obtenido</label>
+                                    <div class="mb-3">
                                         <asp:TextBox ID="inputPromedio" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
-
                                 
-                                <div class="col-sm-5 ps-5">
-
-                                    <label for="inputPromedio" class="form-label fw-bold">8.1. El promedio es</label>
-                                        
-                                    <div class="col-sm-7">
-                                        <asp:DropDownList ID="inputTipo" AutoPostBack="false"
-                                                    CssClass="form-select" runat="server">
+                               <div class="col-md-4 me-3 ms-1">
+                                   <label for="inputPromedio" class="form-label fw-bold">8.1. El promedio es</label>
+                                   <div class="mb-3">
+                                        <asp:DropDownList ID="inputTipo" AutoPostBack="false" CssClass="form-select" runat="server">
                                             <asp:ListItem Selected="True">Tipo de promedio</asp:ListItem>
                                             <asp:ListItem Value="1">Semestral</asp:ListItem>
                                             <asp:ListItem Value="2">Anual</asp:ListItem>
                                         </asp:DropDownList>
-                                    </div>
+                                   </div>
                                 </div>
                             </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputPromedio" class="form-label fw-bold">9. Última boleta de calificación o kardex está disponible</label>
-                                    <div class="col-sm-7 mt-2">
+                                    <div class="mb-3">
                                         <asp:FileUpload  ID="documentoBoleta" runat="server" CssClass="form-control"/>
                                     </div>
                                 </div>
-                            </div>
+                           </div>
 
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
                                    <label for="inputPromedio" class="form-label fw-bold">10. ¿Cuenta con algun tipo de beca por/para sus estudios?</label> 
-                                    <br />
-
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="beca1" Checked="false" GroupName="TenerBeca" runat="server" />&nbsp Sí
-                                    </div>
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="beca2" GroupName="TenerBeca" runat="server" />&nbsp No
+                                   <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="beca1" GroupName="TenerBeca" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="beca2" GroupName="TenerBeca" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
                                     </div>
                                 </div>
 
                                 
-                                <div class="col-sm-5 ps-5">
+                                <div class="col-md-4 me-3 ms-1">
                                     <label for="inputPromedio" class="form-label fw-bold">10.1. ¿Cómo se llama la beca?</label>
-                                        
-                                    <div class="col-sm-7">
+                                    <div class="mb-3">
                                         <asp:TextBox ID="nombreBeca" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
                                 </div>
-                            </div>
-
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
-                                   <label for="inputPromedio" class="form-label fw-bold">11. Además de asistir a la escuela(o no), ¿aprende algún oficio o habilidad útil para tener una vida sostenible?</label>
-                                    <br />
-
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="aprender1" Checked="false" GroupName="AprenderOficio" runat="server" />&nbsp Sí
-                                    </div>
-                                    <div class="form-check form-check-inline mt-2">
-                                        <asp:RadioButton ID="aprender2" GroupName="AprenderOficio" runat="server" />&nbsp No
-                                    </div>
-                                </div>
-                            </div>
-
-                            
-                            <div class="row mt-3">
-                                <div class="col-sm-6 ps-5">
-                                    <label class="form-label fw-bold">12.  Observaciones</label>
-                                    <br />
-
-                                    <div class="col-sm-10">
-                                        <textarea class="form-control" rows="8" cols="15"></textarea>
-                                    </div>
-                                </div>
-                            </div>
-
-                           
-                            <br /><br />
-
-                            <div class="row">
-                                <div class="col ps-5 d-inline-block">
-                                    <button type="submit" class="btn btn-primary">Guardar </button>
-                                    <button type="submit" class="btn btn-primary ms-1">Regresar </button>
-                                </div>
                            </div>
 
-                     </div>
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                   <label for="inputPromedio" class="form-label fw-bold">11. Además de asistir a la escuela(o no), ¿aprende algún oficio o habilidad útil para tener una vida sostenible?</label>
+                                   <div class="mb-3 position-relative">
+                                        <label class="form-check-inline">
+                                            <asp:RadioButton ID="aprender1" GroupName="AprenderOficio" runat="server" />
+                                             <span class="form-check-label">Sí</span>
+                                        </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="aprender2" GroupName="AprenderOficio" runat="server" />
+                                             <span class="form-check-label">No</span>
+                                        </label>
+                                   </div>
+                                </div>
+                            </div>
+
+                           <div class="row mt-3 mx-3">
+                                <div class="col-md-4 me-3 ms-1">
+                                    <label class="form-label fw-bold">12.  Observaciones</label>
+                                    <div class="mb-3">
+                                        <textarea id="inputObservaciones" class="form-control" rows="8" cols="15"></textarea>
+                                    </div>
+                                </div>
+                            </div>
+
+                           <div class="row align-items-center mt-2 mx-3 ps-2">
+                                <div class="col-md-5 d-flex align-items-center">
+                                      <button type="submit" class="btn btn-primary me-2 mt-3">
+                                        <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar
+                                      </button>
+                                      <button type="submit" class="btn btn-primary mt-3">
+                                        <i class="fa-solid fa-backward-fast" aria-hidden="true"></i> Regresar
+                                      </button>
+                                </div>
+                            </div>
+
+                       </div>
                       </div>
                     </div>
 

@@ -319,9 +319,8 @@
                                    <div class="col-md-4 me-3 ms-1">
                                        <label class="form-label fw-bold">8. Observaciones </label>
                                        <div class="mb-3">
-                                         <br />
                                          <textarea id="inputObservaciones" class="form-control" rows="5" cols="10"></textarea>
-                                      </div>  
+                                       </div>  
                                    </div>
                                 </div>
 
