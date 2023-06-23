@@ -229,7 +229,7 @@
                                 </div>                
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                    <label class="form-label fw-bold">3. ¿Tiene número de seguridad social?</label>
                                    <div class="mb-3 position-relative">
@@ -272,7 +272,7 @@
                                 </div>
                           </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">5. ¿Tiene CENAPRED?</label>
                                     <div class="mb-3 position-relative">

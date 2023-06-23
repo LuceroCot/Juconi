@@ -218,7 +218,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                      <label class="form-label fw-bold">3. ¿Sabe operaciones básicas?</label>
                                      <div class="mb-3 position-relative">
@@ -234,7 +234,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label for="inputEscolar" class="form-label fw-bold">4. Último año escolar completado</label>
                                     <div class="mb-3">
@@ -276,7 +276,7 @@
                                </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">5. ¿Asiste a una escuela o institución educativa?</label>
                                     <div class="mb-3 position-relative">
@@ -299,7 +299,7 @@
                                  </div>
                             </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label for="inputEscuela" class="form-label fw-bold">6. Nombre de escuela o institución educativa a la que asiste</label>
                                     <div class="mb-3">
@@ -315,7 +315,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                  <div class="col-md-4 me-3 ms-1">
                                     <label for="inputEscuela" class="form-label fw-bold">7. De los 5 días hábiles a la semana asiste</label>
                                     <div class="mb-3">
@@ -331,7 +331,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label for="inputPromedio" class="form-label fw-bold">8. Último promedio obtenido</label>
                                     <div class="mb-3">
@@ -351,7 +351,7 @@
                                 </div>
                             </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label for="inputPromedio" class="form-label fw-bold">9. Última boleta de calificación o kardex está disponible</label>
                                     <div class="mb-3">
@@ -360,7 +360,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                    <label for="inputPromedio" class="form-label fw-bold">10. ¿Cuenta con algun tipo de beca por/para sus estudios?</label> 
                                    <div class="mb-3 position-relative">
@@ -384,7 +384,7 @@
                                 </div>
                            </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                    <label for="inputPromedio" class="form-label fw-bold">11. Además de asistir a la escuela(o no), ¿aprende algún oficio o habilidad útil para tener una vida sostenible?</label>
                                    <div class="mb-3 position-relative">
@@ -400,7 +400,7 @@
                                 </div>
                             </div>
 
-                           <div class="row mt-3 mx-3">
+                           <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">12.  Observaciones</label>
                                     <div class="mb-3">

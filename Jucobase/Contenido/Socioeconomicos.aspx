@@ -536,7 +536,7 @@
                                </div>
                              </div>
 
-                             <div class="row mt-3 mx-3">
+                             <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">9. ¿Le entrega el dinero que gana a alguien más?</label>
                                     <div class="mb-3 position-relative">
