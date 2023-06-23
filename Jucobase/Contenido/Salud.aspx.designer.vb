@@ -320,24 +320,6 @@ Partial Public Class Salud
     Protected WithEvents pentavalente1 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control hepatitis1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents hepatitis1 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control srp1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents srp1 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
     '''Control pentavalente2.
     '''</summary>
     '''<remarks>
@@ -345,24 +327,6 @@ Partial Public Class Salud
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents pentavalente2 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control hepatitis2.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents hepatitis2 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control srp2.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents srp2 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
     '''Control pentavalente3.
@@ -374,24 +338,6 @@ Partial Public Class Salud
     Protected WithEvents pentavalente3 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control hepatitis3.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents hepatitis3 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control bcg.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents bcg As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
     '''Control pentavalente4.
     '''</summary>
     '''<remarks>
@@ -399,24 +345,6 @@ Partial Public Class Salud
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents pentavalente4 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control rotavirus1.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents rotavirus1 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control dpt.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents dpt As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
     '''Control influenza1.
@@ -428,24 +356,6 @@ Partial Public Class Salud
     Protected WithEvents influenza1 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control rotavirus2.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents rotavirus2 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
-    '''Control covid.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents covid As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
     '''Control influenza2.
     '''</summary>
     '''<remarks>
@@ -455,6 +365,51 @@ Partial Public Class Salud
     Protected WithEvents influenza2 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
+    '''Control hepatitis1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents hepatitis1 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control hepatitis2.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents hepatitis2 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control hepatitis3.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents hepatitis3 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control rotavirus1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents rotavirus1 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control rotavirus2.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents rotavirus2 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
     '''Control rotavirus3.
     '''</summary>
     '''<remarks>
@@ -462,6 +417,51 @@ Partial Public Class Salud
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents rotavirus3 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control srp1.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents srp1 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control srp2.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents srp2 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control bcg.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents bcg As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control dpt.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents dpt As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control covid.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents covid As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
     '''Control completo1.
@@ -563,22 +563,22 @@ Partial Public Class Salud
     Protected WithEvents inputMenor As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
-    '''Control suplementos.
+    '''Control suplementos1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents suplementos As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents suplementos1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control no_suplementos.
+    '''Control suplementos2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents no_suplementos As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents suplementos2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control suplemento1.
@@ -653,13 +653,13 @@ Partial Public Class Salud
     Protected WithEvents suplemento8 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control inputOtrosS.
+    '''Control inputOtroSuplemento.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputOtrosS As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputOtroSuplemento As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control antecedentes1.
@@ -725,13 +725,13 @@ Partial Public Class Salud
     Protected WithEvents antecedentes7 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control inputOtrosE.
+    '''Control inputOtroAntecedente.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputOtrosE As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputOtroAntecedente As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control actual1.
@@ -797,13 +797,13 @@ Partial Public Class Salud
     Protected WithEvents actual7 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control inputOtrosA.
+    '''Control inputOtraEnfermedad.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputOtrosA As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputOtraEnfermedad As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
     '''Control medicacion1.

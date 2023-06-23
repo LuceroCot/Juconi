@@ -2413,15 +2413,6 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Demograficos._inputDelitos">
-<summary>
-Control inputDelitos.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Demograficos._delito1">
 <summary>
 Control delito1.
@@ -3160,9 +3151,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Documentos._ine">
+<member name="F:Jucobase.Documentos._ine1">
 <summary>
-Control ine.
+Control ine1.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -3241,18 +3232,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Documentos._cartillaM1">
+<member name="F:Jucobase.Documentos._cartillaMilitar1">
 <summary>
-Control cartillaM1.
+Control cartillaMilitar1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Documentos._cartillaM2">
+<member name="F:Jucobase.Documentos._cartillaMilitar2">
 <summary>
-Control cartillaM2.
+Control cartillaMilitar2.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -4636,36 +4627,36 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._RadioButton1">
+<member name="F:Jucobase.Estado._responsable1">
 <summary>
-Control RadioButton1.
+Control responsable1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._RadioButton2">
+<member name="F:Jucobase.Estado._responsable2">
 <summary>
-Control RadioButton2.
+Control responsable2.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._RadioButton3">
+<member name="F:Jucobase.Estado._tutoria1">
 <summary>
-Control RadioButton3.
+Control tutoria1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Estado._RadioButton4">
+<member name="F:Jucobase.Estado._tutoria2">
 <summary>
-Control RadioButton4.
+Control tutoria2.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15004,45 +14995,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._hepatitis1">
-<summary>
-Control hepatitis1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._srp1">
-<summary>
-Control srp1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Salud._pentavalente2">
 <summary>
 Control pentavalente2.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._hepatitis2">
-<summary>
-Control hepatitis2.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._srp2">
-<summary>
-Control srp2.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15058,45 +15013,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._hepatitis3">
-<summary>
-Control hepatitis3.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._bcg">
-<summary>
-Control bcg.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Salud._pentavalente4">
 <summary>
 Control pentavalente4.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._rotavirus1">
-<summary>
-Control rotavirus1.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._dpt">
-<summary>
-Control dpt.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15112,24 +15031,6 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._rotavirus2">
-<summary>
-Control rotavirus2.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Salud._covid">
-<summary>
-Control covid.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Salud._influenza2">
 <summary>
 Control influenza2.
@@ -15139,9 +15040,99 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Jucobase.Salud._hepatitis1">
+<summary>
+Control hepatitis1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._hepatitis2">
+<summary>
+Control hepatitis2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._hepatitis3">
+<summary>
+Control hepatitis3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._rotavirus1">
+<summary>
+Control rotavirus1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._rotavirus2">
+<summary>
+Control rotavirus2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Jucobase.Salud._rotavirus3">
 <summary>
 Control rotavirus3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._srp1">
+<summary>
+Control srp1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._srp2">
+<summary>
+Control srp2.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._bcg">
+<summary>
+Control bcg.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._dpt">
+<summary>
+Control dpt.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._covid">
+<summary>
+Control covid.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15247,18 +15238,18 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._suplementos">
+<member name="F:Jucobase.Salud._suplementos1">
 <summary>
-Control suplementos.
+Control suplementos1.
 </summary>
 <remarks>
 Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._no_suplementos">
+<member name="F:Jucobase.Salud._suplementos2">
 <summary>
-Control no_suplementos.
+Control suplementos2.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15337,9 +15328,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputOtrosS">
+<member name="F:Jucobase.Salud._inputOtroSuplemento">
 <summary>
-Control inputOtrosS.
+Control inputOtroSuplemento.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15409,9 +15400,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputOtrosE">
+<member name="F:Jucobase.Salud._inputOtroAntecedente">
 <summary>
-Control inputOtrosE.
+Control inputOtroAntecedente.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -15481,9 +15472,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Salud._inputOtrosA">
+<member name="F:Jucobase.Salud._inputOtraEnfermedad">
 <summary>
-Control inputOtrosA.
+Control inputOtraEnfermedad.
 </summary>
 <remarks>
 Campo generado automáticamente.

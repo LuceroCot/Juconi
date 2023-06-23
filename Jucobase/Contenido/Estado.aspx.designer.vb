@@ -131,40 +131,40 @@ Partial Public Class Estado
     Protected WithEvents inputRolFamilia As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control RadioButton1.
+    '''Control responsable1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton1 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents responsable1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control RadioButton2.
+    '''Control responsable2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents responsable2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control RadioButton3.
+    '''Control tutoria1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton3 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents tutoria1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control RadioButton4.
+    '''Control tutoria2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents RadioButton4 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents tutoria2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control ciclo1.

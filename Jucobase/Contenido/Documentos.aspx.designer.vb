@@ -293,13 +293,13 @@ Partial Public Class Documentos
     Protected WithEvents DocumentoCenapred As Global.System.Web.UI.WebControls.FileUpload
 
     '''<summary>
-    '''Control ine.
+    '''Control ine1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents ine As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents ine1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control ine2.
@@ -374,22 +374,22 @@ Partial Public Class Documentos
     Protected WithEvents DocumentoRfc As Global.System.Web.UI.WebControls.FileUpload
 
     '''<summary>
-    '''Control cartillaM1.
+    '''Control cartillaMilitar1.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents cartillaM1 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents cartillaMilitar1 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
-    '''Control cartillaM2.
+    '''Control cartillaMilitar2.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents cartillaM2 As Global.System.Web.UI.WebControls.RadioButton
+    Protected WithEvents cartillaMilitar2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
     '''Control DocumentoMilitar.
