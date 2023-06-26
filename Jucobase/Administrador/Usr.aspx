@@ -7,8 +7,8 @@
           <h1>Gestión de usuarios</h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Usuarios</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->
@@ -189,35 +189,37 @@
                                 </div>
                             </div>
 
-                            <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
-                                <br />
-                                <br />
-                                <div class="col-sm-11">
-                                    <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
-                                        <thead>
-                                            <tr class="text-dark">
-                                                <th scope="col"></th>
-                                                <th scope="col">ID</th>
-                                                <th scope="col">Nombre</th>
-                                                <th scope="col">Email</th>
-                                                <th scope="col">Organización</th>
-                                                <th scope="col">Grupo</th>
-                                                <th scope="col">Estado</th>
-                                            </tr>
-                                        </thead>
+                           <div class="mt-3 mx-3">
+                                <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
+                                    <br />
+                                    <br />
+                                    <div class="col-sm-11">
+                                        <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
+                                            <thead>
+                                                <tr class="text-dark">
+                                                    <th scope="col"></th>
+                                                    <th scope="col">ID</th>
+                                                    <th scope="col">Nombre</th>
+                                                    <th scope="col">Email</th>
+                                                    <th scope="col">Organización</th>
+                                                    <th scope="col">Grupo</th>
+                                                    <th scope="col">Estado</th>
+                                                </tr>
+                                            </thead>
 
-                                        <tbody>
-                                            <tr>
-                                                <td scope="row">>>></td>
-                                                <td>1</td>
-                                                <td>Admin</td>
-                                                <td>datos@juconi.org.mx</td>
-                                                <td>Ninguno</td>
-                                                <td>Ninguno</td>
-                                                <td>ACTIVO</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
+                                            <tbody>
+                                                <tr>
+                                                    <td scope="row">>>></td>
+                                                    <td>1</td>
+                                                    <td>Admin</td>
+                                                    <td>datos@juconi.org.mx</td>
+                                                    <td>Ninguno</td>
+                                                    <td>Ninguno</td>
+                                                    <td>ACTIVO</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>
