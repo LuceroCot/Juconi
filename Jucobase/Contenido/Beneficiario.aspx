@@ -26,8 +26,8 @@
           <h1>Gestión de beneficiarios</h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Beneficiario</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->
@@ -282,35 +282,37 @@
                                 </div>
                             </div>
 
-                            <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
-                                <br />
-                                <br />
-                                <div class="col-sm-11">
-                                    <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
-                                        <thead>
-                                            <tr class="text-dark">
-                                                <th scope="col"></th>
-                                                <th scope="col">NRU</th>
-                                                <th scope="col">Nombre</th>
-                                                <th scope="col">Clave familia</th>
-                                                <th scope="col">Nombre familia</th>
-                                                <th scope="col">Responsable</th>
-                                                <th scope="col">Subprograma</th>
-                                            </tr>
-                                        </thead>
+                            <div class="mt-3 mx-3">
+                                <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
+                                    <br />
+                                    <br />
+                                    <div class="col-sm-10">
+                                        <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
+                                            <thead>
+                                                <tr class="text-dark">
+                                                    <th scope="col"></th>
+                                                    <th scope="col">NRU</th>
+                                                    <th scope="col">Nombre</th>
+                                                    <th scope="col">Clave familia</th>
+                                                    <th scope="col">Nombre familia</th>
+                                                    <th scope="col">Responsable</th>
+                                                    <th scope="col">Subprograma</th>
+                                                </tr>
+                                            </thead>
 
-                                        <tbody>
-                                            <tr>
-                                                <td scope="row">>>></td>
-                                                <td>1</td>
-                                                <td>Gonzalo Perez Rodriguez</td>
-                                                <td>0000001</td>
-                                                <td>Perez Rodriguez.</td>
-                                                <td>Juan</td>
-                                                <td>Subprograma Uno</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
+                                            <tbody>
+                                                <tr>
+                                                    <td scope="row">>>></td>
+                                                    <td>1</td>
+                                                    <td>Gonzalo Perez Rodriguez</td>
+                                                    <td>0000001</td>
+                                                    <td>Perez Rodriguez.</td>
+                                                    <td>Juan</td>
+                                                    <td>Subprograma Uno</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>

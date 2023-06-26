@@ -65,8 +65,8 @@
           <h1>Expresión de Emociones </h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Expresión de emociones</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->
@@ -82,334 +82,354 @@
                                 Captura de Expresión de Emociones </h5>
 
                     
-                                <div class="row mt-3">
-                                  <div class="col-sm-4 ps-5">
-                                      <label for="inputNru" class="form-label fw-bold">NRU</label>
-                                      <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
-                                  </div>
-                                  <div class="col-md-4 mt-4 pt-2">
-                                      <button type="submit" class="btn btn-primary">
-                                          <i class="fa fa-search" aria-hidden="true"></i>
-                                          Buscar</button>
-                                  </div>
-
-                                </div>
-
-                                <div class="row mt-3">
-                                    <div class="col-sm-4 ps-5">
-                                        <label for="inputNombre" class="form-label fw-bold">Nombre</label>
-                                        <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
-                                        <asp:TextBox ID="inputClave" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                </div>
-
-                                <div class="row mt-3">
-                                    <div class="col-sm-4 ps-5">
-                                        <label for="inputAp" class="form-label fw-bold">Apellido Paterno</label>
-                                        <asp:TextBox ID="inputAp" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                    <div class="col-sm-4">
-                                        <label for="inputFam" class="form-label fw-bold">Familia</label>
-                                        <asp:TextBox ID="inputFam" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                </div>
-
-                                <div class="row mt-3">
-                                    <div class="col-sm-4 ps-5">
-                                        <label for="inputAm" class="form-label fw-bold">Apellido Materno</label>
-                                        <asp:TextBox ID="inputAm" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                    <div class="col-sm-2">
-                                        <label for="inputEdad" class="form-label fw-bold">Edad</label>
-                                        <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
-                                    </div>
-                                </div>
-
-                                <div class="row mt-3">
-   
-                                    <div class="col-sm-4 ps-5 input-date">
-                                        <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
-                                        <i class="fa-regular fa-calendar"></i>
-                                        <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
-                                    </div>
-                                </div>
-
-
-                                <div class="row mt-3">
-                                   <div class="col-sm-4 ps-5">
-                                        <label for="inputPrograma" class="form-label fw-bold">Programa</label>
-                                        <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <div class="row d-inline-flex mt-3 mx-3">
+                                        <div class="col">
+                                            <label for="inputNru" class="form-label fw-bold">NRU</label>
+                                            <asp:TextBox ID="inputNru" runat="server" CssClass="form-control" ></asp:TextBox>
+                                        </div>
+                                        <div class="col">
+                                            <br />
+                                            <button type="submit" class="btn btn-primary mt-2"> 
+                                                <i class="fa fa-search" aria-hidden="true"></i>
+                                                   Buscar
+                                            </button>
+                                        </div>  
                                     </div>
 
-                                    <div class="col-sm-4">
-                                        <label for="inputTera" class="form-label fw-bold">Terapeuta</label>
-                                        <asp:TextBox ID="inputTera" runat="server" CssClass="form-control"></asp:TextBox>
+                                    <div class="row mt-3 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                          <label for="inputNombre" class="form-label fw-bold">Nombre</label>
+                                          <div class="mb-3">
+                                            <asp:TextBox ID="inputNombre" runat="server" CssClass="form-control"></asp:TextBox>
+                                          </div>
+                                        </div>
+                                        <div class="col-md-4 me-3 ms-1">
+                                          <label for="inputClave" class="form-label fw-bold">Clave de familia</label>
+                                          <div class="mb-3">
+                                            <asp:TextBox ID="inputClave" runat="server" CssClass="form-control"></asp:TextBox>
+                                          </div>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="row mt-3" id="perfilA" style="display: ;">
-                                   <div class="col-sm-4 ps-5">
-                                        <label for="inputAtt" class="form-label fw-bold">Modelo de Atención Familiar</label>
-                                        <asp:DropDownList ID="inputAtt" AutoPostBack="false"
-                                                CssClass="form-select" runat="server">
-                                              <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
-                                              <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
-                                              <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
-                                        </asp:DropDownList>
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputApellidoPaterno" class="form-label fw-bold">Apellido Paterno</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputApellidoPaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputFamilia" class="form-label fw-bold">Familia</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="row mt-3">
-                                    <div class="col-sm-4 ps-5">
-                                        <label for="inputPrograma" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
-                                        <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputApellidoMaterno" class="form-label fw-bold">Apellido Materno</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputApellidoMaterno" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputEdad" class="form-label fw-bold">Edad</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputEdad" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <div class="row mt-3">
-                                    <div class="col-sm-4 ps-5">
-                                        <label for="inputRol" class="form-label fw-bold">Rol en la familia</label>
-                                        <asp:TextBox ID="inputRol" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputFechaReporte" class="form-label fw-bold">Fecha de reporte</label>
+                                            <div class="mb-3 position-relative">
+                                              <i class="fa-regular fa-calendar position-absolute top-50 start-0 translate-middle-y"></i>
+                                              <asp:TextBox ID="inputFechaReporte" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
+                                            </div>
+                                        </div>
                                     </div>
-                                    <div class="col-sm-4">
-                                        <label for="inputResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
-                                        <asp:TextBox ID="inputResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
 
-                                        <div class="row mt-3" id="tutoria" style="display:;">
-                                            <div class="col-sm-9">
-                                                <label class="form-label fw-bold">¿Tiene la tutoría legal?</label>
-                                                <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputPrograma" class="form-label fw-bold">Programa</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputPrograma" runat="server" CssClass="form-control" ></asp:TextBox>
                                             </div>
                                         </div>
 
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputTerapeuta" class="form-label fw-bold">Terapeuta</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputTerapeuta" runat="server" CssClass="form-control"></asp:TextBox>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
 
-                                <br />
-                                <br />
-                                <br />
-                                <br />
+                                    <div class="row mt-2 mx-3" id="perfilAtencionFamiliar">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputAtencionFamiliar" class="form-label fw-bold">Modelo de Atención Familiar</label>
+                                            <div class="mb-3">
+                                                <asp:DropDownList ID="inputAtencionFamiliar" AutoPostBack="false"
+                                                                CssClass="form-select" runat="server">
+                                                    <asp:ListItem Selected="True" Value="1a">Atención familiar E-T</asp:ListItem>
+                                                    <asp:ListItem Value="2a">Atención Familiar Híbrida</asp:ListItem>
+                                                    <asp:ListItem Value="3a">Acompañamiento Breve</asp:ListItem>
+                                                </asp:DropDownList>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                <div class="row mt-3">
-                                    <div class="col-sm-8 ps-5 mx-auto">
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="localAmbienteJuconi" class="form-label fw-bold">Localidad de Ambiente JUCONI</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="localAmbienteJuconi" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                        <table class="w-100 table table-borderless">
+                                    <div class="row mt-2 mx-3">
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputRolFamilia" class="form-label fw-bold">Rol en la familia</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputRolFamilia" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
+                                        </div>
+                               
+                                        <div class="col-md-4 me-3 ms-1">
+                                            <label for="inputAultoResponsable" class="form-label fw-bold">¿Es adulto responsable?</label>
+                                            <div class="mb-3">
+                                              <asp:TextBox ID="inputAdultoResponsable" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            </div>
 
-                                            <tbody class="align-middle">
-                                                <!-- Fila 1 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 1: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem1" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                            <div class="col-md-6">
+                                               <label for="tutoriaLegal" class="form-label fw-bold">¿Tiene la tutoría legal?</label>
+                                               <div class="mb-3">
+                                                 <asp:TextBox ID="tutoriaLegal" runat="server" CssClass="form-control" ></asp:TextBox>
+                                               </div>
+                                            </div>
+                                        </div>
+                                    </div>
 
-                                                <!-- Fila 2 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 2: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem2" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
 
-                                                <!-- Fila 3 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 3: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem3" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                               <div class="mt-3 mx-3">
+                                    <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
+                                        <div class="col-md-8">
+                                            <table class="table table-sm table-borderless">
+                                                <tbody>
+                                                    <!-- Fila 1 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 1: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem1" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 4 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 4: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem4" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 2 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 2: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem2" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 5 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 5: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem5" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 3 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 3: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem3" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 6 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 6: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem6" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 4 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 4: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem4" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 7 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 7: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem7" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 5 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 5: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem5" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 8 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 8: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem8" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 6 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 6: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem6" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 9 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 9: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem9" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 7 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 7: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem7" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 10 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 10: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem10" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 8 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 8: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem8" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 11 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 11: </td>
-                                                    <td class="table-secondary"><asp:TextBox ID="valorItem11" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 9 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 9: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem9" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 12 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 12: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem12" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 10 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 10: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem10" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 13 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 13: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem13" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 11 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 11: </td>
+                                                        <td class="table-secondary"><asp:TextBox ID="valorItem11" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 14 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 14: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem14" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 12 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 12: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem12" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 15 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2 table-secondary"> Item 15: </td>
-                                                    <td class="table-secondary col-sm-2"><asp:TextBox ID="TvalorItem15" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
+                                                    <!-- Fila 13 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 13: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="valorItem13" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                                <!-- Fila 16 -->
-                                                <tr>
-                                                    <td></td>
-                                                    <td class="fw-bold col-sm-2"> Item 16: </td>
-                                                    <td class="col-sm-2"><asp:TextBox ID="valorItem16" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                    <td></td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
+                                                    <!-- Fila 14 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 14: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem14" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                        <br /><br />
+                                                    <!-- Fila 15 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2 table-secondary"> Item 15: </td>
+                                                        <td class="table-secondary col-sm-2"><asp:TextBox ID="TvalorItem15" CssClass="form-control" onchange ="suma1()" oper-sum1="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
 
-                                        <table class="w-100 table table-borderless">
-                                            <tbody>
-                                                <tr>
-                                                    <td class="col-sm-5 table-secondary fw-bold align-middle">Total Conciencia Emocional:</td>
-                                                    <td class="col-sm-2 table-secondary"><asp:TextBox ID="TotalConciencia" CssClass="form-control" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                </tr>
-                                                <tr>
-                                                    <td class="col-sm-5 table-secondary fw-bold align-middle">Total Expresión Emocional:</td>
-                                                    <td class="col-sm-2 table-secondary"><asp:TextBox ID="TotalExpresion" CssClass="form-control" runat="server">0</asp:TextBox></td>
-                                                    <td></td>
-                                                </tr>
-                                            </tbody>
+                                                    <!-- Fila 16 -->
+                                                    <tr>
+                                                        <td></td>
+                                                        <td class="fw-bold col-sm-2"> Item 16: </td>
+                                                        <td class="col-sm-2"><asp:TextBox ID="valorItem16" CssClass="form-control" onchange ="suma2()" oper-sum2="true" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
+                                        </div>
+
+                                        <div class="col-md-8">
+                                            <table class="table table-sm table-borderless">
+                                                <tbody>
+                                                    <tr>
+                                                        <td class="col-sm-5 table-secondary fw-bold align-middle">Total Conciencia Emocional:</td>
+                                                        <td class="col-sm-2 table-secondary"><asp:TextBox ID="TotalConciencia" CssClass="form-control" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="col-sm-5 table-secondary fw-bold align-middle">Total Expresión Emocional:</td>
+                                                        <td class="col-sm-2 table-secondary"><asp:TextBox ID="TotalExpresion" CssClass="form-control" runat="server">0</asp:TextBox></td>
+                                                        <td></td>
+                                                    </tr>
+                                                </tbody>
                                             
-                                        </table>
+                                            </table>
+                                        </div>
                                            
                                     </div>
-                                </div>
+                               </div>
 
-                                <br />
-                                <br />
 
-                                <div class="row mt-3">
-                                    <div class="col ps-5 d-inline-block">
-                                        <button type="submit" class="btn btn-primary">Guardar</button>
-                                        <button type="submit" class="btn btn-primary ms-1">Regresar </button>
-                                    </div>
-                                </div>
-
-                                <br />
-                                <br />
+                               <div class="row align-items-center mt-2 mx-3 ps-2">
+                                    <div class="col-md-5 d-flex align-items-center">
+                                        <button type="submit" class="btn btn-primary me-2 mt-3">
+                                            <i class="fa-solid fa-floppy-disk" aria-hidden="true"></i> Guardar
+                                        </button>
+                                        <button type="submit" class="btn btn-primary mt-3">
+                                            <i class="fa-solid fa-backward-fast" aria-hidden="true"></i> Regresar
+                                        </button>
+                                     </div>
+                               </div>
                         </div>
                       </div>
                     </div>

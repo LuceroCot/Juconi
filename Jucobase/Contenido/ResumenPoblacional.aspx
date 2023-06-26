@@ -7,8 +7,8 @@
           <h1>Resumen poblacional</h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Resumen poblacional</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->

@@ -53,15 +53,6 @@
                 transform: translateY(-50%);
             }
 
-            .input-date {
-                position: relative;
-                width: 33.33333333%;
-            }
-
-            .ps-aux{
-                padding-left: 40px;
-            }
-
             .child-tab{
                 border-top: 1px solid #C0C0C0;
                 border-bottom: 1px solid #C0C0C0 !important;
@@ -69,10 +60,6 @@
                 border-left: 1px solid #C0C0C0;
                 max-width:max-content;
                 color: black;
-            }
-
-            .center{
-                align-self: center;
             }
 
          </style>
@@ -93,7 +80,7 @@
                   <i class="bi bi-list toggle-sidebar-btn"></i>
                 </div><!-- End Logo -->
 
-                <div class="search-bar">
+                <div class="search-bar" style="display: none">
                   <form class="search-form d-flex align-items-center" method="POST" action="#">
                     <input type="text" name="query" placeholder="Search" title="Enter search keyword">
                     <button type="submit" title="Search"><i class="bi bi-search"></i></button>
@@ -558,16 +545,24 @@
               <!-- ======= Footer ======= -->
               <footer id="footer" class="footer">
                 <div class="copyright">
-                  &copy; Copyright <strong><span>NiceAdmin</span></strong>. All Rights Reserved
+                 <strong><span id="añoActual"></span> <span>.- Fundación JUCONI México, A.C. </span></strong>
+                </div>
+                <div class="copyright">
+                  &copy;<strong><span>Todos los derechos reservados. </span></strong>
                 </div>
                 <div class="credits">
-                  <!-- All the links in the footer should remain intact. -->
-                  <!-- You can delete the links only if you purchased the pro version. -->
-                  <!-- Licensing information: https://bootstrapmade.com/license/ -->
-                  <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
-                  Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                  <strong><span>Todas las imágenes y contenido pertenecen a Fundación JUCONI México, A.C. </span></strong>
                 </div>
               </footer><!-- End Footer -->
+
+
+              <script>
+                var divAño = document.getElementById("añoActual");
+
+                var actual = new Date().getFullYear();
+
+                divAño.textContent = actual;
+              </script>
 
              <!-- Vendor JS Files -->
               <script src="../assets/vendor/apexcharts/apexcharts.min.js"></script>

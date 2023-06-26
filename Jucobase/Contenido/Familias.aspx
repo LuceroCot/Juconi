@@ -7,8 +7,8 @@
           <h1>Gestión de familias</h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Familias</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->
@@ -136,31 +136,33 @@
                                 </div>
                             </div>
 
-                            <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
-                                <br />
-                                <br />
-                                <div class="col-sm-11">
-                                    <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
-                                        <thead>
-                                            <tr class="text-dark">
-                                                <th scope="col"></th>
-                                                <th scope="col">Clave de familia</th>
-                                                <th scope="col">Nombre de familia</th>
-                                                <th scope="col">Subprograma</th>
-                                                <th scope="col">Responsable</th>
-                                            </tr>
-                                        </thead>
+                           <div class="mt-3 mx-3">
+                                <div class="row mt-4 table-responsive justify-content-center" style="width: 100%">
+                                    <br />
+                                    <br />
+                                    <div class="col-sm-11">
+                                        <table class="table table-sm table-hover table-bordered table-striped text-center align-middle">
+                                            <thead>
+                                                <tr class="text-dark">
+                                                    <th scope="col"></th>
+                                                    <th scope="col">Clave de familia</th>
+                                                    <th scope="col">Nombre de familia</th>
+                                                    <th scope="col">Subprograma</th>
+                                                    <th scope="col">Responsable</th>
+                                                </tr>
+                                            </thead>
 
-                                        <tbody>
-                                            <tr>
-                                                <td scope="row">>>></td>
-                                                <td>0000001</td>
-                                                <td>Perez Rodriguez.</td>
-                                                <td>Subprograma Dos</td>
-                                                <td>Ninguno</td>
-                                            </tr>
-                                        </tbody>
-                                    </table>
+                                            <tbody>
+                                                <tr>
+                                                    <td scope="row">>>></td>
+                                                    <td>0000001</td>
+                                                    <td>Perez Rodriguez.</td>
+                                                    <td>Subprograma Dos</td>
+                                                    <td>Ninguno</td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
                                 </div>
                             </div>
                         </div>

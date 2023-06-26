@@ -26,15 +26,15 @@
           <h1>Captura adicciones de beneficiario</h1>
           <nav>
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-              <li class="breadcrumb-item active">Dashboard</li>
+              <li class="breadcrumb-item"><a href="Default.aspx">Inicio</a></li>
+              <li class="breadcrumb-item active">Adicciones</li>
             </ol>
           </nav>
         </div><!-- End Page Title -->
 
         <form class="form-card row g-3 form-inline" runat="server">
             <section class="section dashboard">
-                <!-- Customers Card -->
+                <!-- Card -->
                  <div class="col-xxl-4 col-xl-12 px-4">
 
                       <div class="card info-card customers-card">
@@ -177,7 +177,7 @@
                         </div>
                       </div>
                     </div>
-                <!-- End Customers Card -->
+                <!-- End Card -->
 
                 <!-- Adicciones -->
                  <div class="col-xxl-4 col-xl-12 px-4">
