@@ -470,7 +470,7 @@ Partial Public Class Socioeconomicos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputRazonTrabajo As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputRazonTrabajo As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control problema1.
@@ -578,5 +578,5 @@ Partial Public Class Socioeconomicos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputPersona As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputPersona As Global.System.Web.UI.WebControls.DropDownList
 End Class

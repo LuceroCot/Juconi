@@ -220,7 +220,7 @@
 
                               <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">¿Participó en el semestre actual?</label>
+                                    <label class="form-label fw-bold">1. ¿Participó en el semestre actual?</label>
                                     <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="ciclo1" GroupName="CicloActual" runat="server" />
@@ -234,7 +234,7 @@
                                 </div>
 
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">¿Participó en el mes actual?</label>
+                                    <label class="form-label fw-bold">2. ¿Participó en el mes actual?</label>
                                     <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="mes1" GroupName="MesActual" runat="server" />
@@ -250,7 +250,7 @@
 
                               <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputEtapa" class="form-label fw-bold">Etapa</label>
+                                    <label for="inputEtapa" class="form-label fw-bold">3. Etapa</label>
                                     <div class="mb-3">
                                         <asp:DropDownList ID="inputEtapa" AutoPostBack="false"
                                                 CssClass="form-select" runat="server">
@@ -262,7 +262,7 @@
                                 </div>
 
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputFechaEntradaEtapa" class="form-label fw-bold">Fecha de entrada a etapa</label>
+                                    <label for="inputFechaEntradaEtapa" class="form-label fw-bold">4. Fecha de entrada a etapa</label>
                                     <div class="mb-3 position-relative">
                                       <i class="fa-regular fa-calendar position-absolute top-50 start-0 translate-middle-y"></i>
                                       <asp:TextBox ID="inputFechaEntradaEtapa" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
@@ -272,7 +272,7 @@
 
                               <div class="row mt-2 mx-3">
                                  <div class="col-md-4 me-3 ms-1">
-                                     <label class="form-label fw-bold">¿Actualmente en programa?</label>
+                                     <label class="form-label fw-bold">5. ¿Actualmente en programa?</label>
                                      <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="programActual1" GroupName="ProgramaActual" runat="server" />
@@ -286,7 +286,7 @@
                                  </div>
 
                                  <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">¿Regularidad?</label>
+                                    <label class="form-label fw-bold">5.1 ¿Regularidad?</label>
                                      <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="regularidad1" GroupName="RegularidadGroup" runat="server" />
@@ -302,7 +302,7 @@
 
                               <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputFechaSalidaEtapa" class="form-label fw-bold">Fecha de salida de etapa</label>
+                                    <label for="inputFechaSalidaEtapa" class="form-label fw-bold">5.1 Fecha de salida de etapa</label>
                                     <div class="mb-3 position-relative">
                                       <i class="fa-regular fa-calendar position-absolute top-50 start-0 translate-middle-y"></i>
                                       <asp:TextBox ID="inputFechaSalidaEtapa" runat="server" CssClass="form-control ps-aux" ></asp:TextBox>
@@ -310,7 +310,7 @@
                                 </div>
 
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputRazon" class="form-label fw-bold">Razón de salida</label>
+                                    <label for="inputRazon" class="form-label fw-bold">5.2 Razón de salida</label>
                                     <div class="mb-3">
                                         <asp:DropDownList ID="inputRazon" AutoPostBack="false"
                                                 CssClass="form-select" runat="server">

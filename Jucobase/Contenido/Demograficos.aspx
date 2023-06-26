@@ -193,12 +193,15 @@
 
                            <div class="row mt-3 mx-3">
                               <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputLeng" class="form-label fw-bold">1. Lengua indígena</label>
+                                   <label for="inputLenguaIndigena" class="form-label fw-bold">1. Lengua indígena</label>
                                    <div class="mb-3">
-                                        <asp:TextBox ID="inputLeng" runat="server" CssClass="form-control" ></asp:TextBox>
+                                        <asp:DropDownList ID="inputLenguaIndigena" AutoPostBack="false"
+                                                CssClass="form-select" runat="server">
+                                              <asp:ListItem Selected="True" Value="1L">Lengua 1</asp:ListItem>
+                                              <asp:ListItem Value="2L">Lengua 2</asp:ListItem>
+                                              <asp:ListItem Value="3L">Lengua 3</asp:ListItem>
+                                        </asp:DropDownList>
                                    </div>
-
-                                   <p class="mt-2"><small class="form-text text-success">Este campo es obligatorio</small></p>
                                </div>
                            </div>
 
@@ -206,35 +209,72 @@
                                <div class="col-md-4 me-3 ms-1">
                                   <label class="form-label fw-bold">2. Lugar de nacimiento</label>
                                   <div class="mb-3">
-                                       <asp:TextBox ID="inputPaisNacimiento" runat="server" CssClass="form-control mt-2" placeholder="País" ></asp:TextBox>
-                                       <asp:TextBox ID="inputEstadoNacimiento" runat="server" CssClass="form-control mt-2" placeholder="Estado" ></asp:TextBox>
-                                       <asp:TextBox ID="inputMunicipioNacimiento" runat="server" CssClass="form-control mt-2" placeholder="Municipio"></asp:TextBox>
-                                       <asp:TextBox ID="inputLocalidadNacimiento" runat="server" CssClass="form-control mt-2" placeholder="Localidad"></asp:TextBox>
-                                   </div>
+                                       <asp:DropDownList ID="inputPaisNacimiento" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1P">País 1</asp:ListItem>
+                                              <asp:ListItem Value="2P">País 2</asp:ListItem>
+                                              <asp:ListItem Value="3P">País 3</asp:ListItem>
+                                       </asp:DropDownList>
+                                       <asp:DropDownList ID="inputEstadoNacimiento" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1E">Estado 1</asp:ListItem>
+                                              <asp:ListItem Value="2E">Estado 2</asp:ListItem>
+                                              <asp:ListItem Value="3E">Estado 3</asp:ListItem>
+                                       </asp:DropDownList>
+                                       <asp:DropDownList ID="inputMunicipioNacimiento" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1M">Municipio 1</asp:ListItem>
+                                              <asp:ListItem Value="2M">Municipio 2</asp:ListItem>
+                                              <asp:ListItem Value="3M">Municipio 3</asp:ListItem>
+                                       </asp:DropDownList>
 
-                                   <p class="mt-2"><small class="form-text text-success">Campos obligatorios</small></p>
+                                       <asp:TextBox ID="inputLocalidadNacimiento" runat="server" CssClass="form-control mt-2" placeholder="Localidad"></asp:TextBox>
+                                       <p class="mt-2"><small class="form-text text-success">Campos obligatorios</small></p>
+                                   </div>
                                </div>
 
                                <div class="col-md-4 me-3 ms-1">
                                    <label class="form-label fw-bold">3. Residencia actual</label>
                                     <div class="mb-3">
-                                       <asp:TextBox ID="inputPaisActual" runat="server" CssClass="form-control mt-2" placeholder="País" ></asp:TextBox>
-                                       <asp:TextBox ID="inputEstadoActual" runat="server" CssClass="form-control mt-2" placeholder="Estado" ></asp:TextBox>
-                                       <asp:TextBox ID="inputMunicipioActual" runat="server" CssClass="form-control mt-2" placeholder="Municipio"></asp:TextBox>
+                                       <asp:DropDownList ID="inputPaisActual" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1PA">País 1</asp:ListItem>
+                                              <asp:ListItem Value="2PA">País 2</asp:ListItem>
+                                              <asp:ListItem Value="3PA">País 3</asp:ListItem>
+                                       </asp:DropDownList>
+                                       <asp:DropDownList ID="inputEstadoActual" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1EA">Estado 1</asp:ListItem>
+                                              <asp:ListItem Value="2EA">Estado 2</asp:ListItem>
+                                              <asp:ListItem Value="3EA">Estado 3</asp:ListItem>
+                                       </asp:DropDownList>
+                                       <asp:DropDownList ID="inputMunicipioActual" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1MA">Municipio 1</asp:ListItem>
+                                              <asp:ListItem Value="2MA">Municipio 2</asp:ListItem>
+                                              <asp:ListItem Value="3MA">Municipio 3</asp:ListItem>
+                                       </asp:DropDownList>
+
                                        <asp:TextBox ID="inputCalleNumActual" runat="server" CssClass="form-control mt-2" placeholder="Calle y Número"></asp:TextBox>
                                        <asp:TextBox ID="inputCodigoPostalActual" runat="server" CssClass="form-control mt-2" placeholder="Código Postal"></asp:TextBox>
-                                       <asp:TextBox ID="inputColoniaActua" runat="server" CssClass="form-control mt-2" placeholder="Colonia"></asp:TextBox>
+
+                                       <asp:DropDownList ID="inputColoniaActual" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                              <asp:ListItem Selected="True" Value="1CA">Colonia 1</asp:ListItem>
+                                              <asp:ListItem Value="2CA">Colonia 2</asp:ListItem>
+                                              <asp:ListItem Value="3CA">Colonia 3</asp:ListItem>
+                                       </asp:DropDownList>
 
                                        <asp:DropDownList ID="inputTipoResidencia" AutoPostBack="false"
                                                 CssClass="form-select mt-2" runat="server">
-                                              <asp:ListItem Selected="True" Value="0t">Tipo de residencia</asp:ListItem>
-                                              <asp:ListItem Value="1t">Casa de jóvenes</asp:ListItem>
-                                              <asp:ListItem Value="2t">Casa familiar - propia</asp:ListItem>
-                                              <asp:ListItem Value="3t">Casa familiar - renta</asp:ListItem>
-                                              <asp:ListItem Value="4t">Vida independiente</asp:ListItem>
-                                              <asp:ListItem Value="5t">Calle</asp:ListItem>
-                                              <asp:ListItem Value="6t">Otra institución</asp:ListItem>
-                                              <asp:ListItem Value="7t">Desconocido</asp:ListItem>
+                                              <asp:ListItem Selected="True" Value="0R">Tipo de residencia</asp:ListItem>
+                                              <asp:ListItem Value="1R">Casa de jóvenes</asp:ListItem>
+                                              <asp:ListItem Value="2R">Casa familiar - propia</asp:ListItem>
+                                              <asp:ListItem Value="3R">Casa familiar - renta</asp:ListItem>
+                                              <asp:ListItem Value="4R">Vida independiente</asp:ListItem>
+                                              <asp:ListItem Value="5R">Calle</asp:ListItem>
+                                              <asp:ListItem Value="6R">Otra institución</asp:ListItem>
+                                              <asp:ListItem Value="7R">Desconocido</asp:ListItem>
                                         </asp:DropDownList>
 
                                        <p class="mt-2"><small class="form-text text-success">Campos obligatorios</small></p>
@@ -261,7 +301,12 @@
                                     <div class="col-md-4 me-3 ms-1">
                                        <label for="inputRazonCalle" class="form-label fw-bold">4. Razón de situación de calle</label>
                                        <div class="mb-3">
-                                           <asp:TextBox ID="inputRazonCalle" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            <asp:DropDownList ID="inputRazonCalle" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                                <asp:ListItem Selected="True" Value="1RC">Razón 1</asp:ListItem>
+                                                <asp:ListItem Value="2RC">Razón 2</asp:ListItem>
+                                                <asp:ListItem Value="3RC">Razón 3</asp:ListItem>
+                                            </asp:DropDownList>
                                        </div>
                                    </div>
                               </div>
@@ -327,16 +372,13 @@
                                                <tr class="d-flex">
                                                    <td> <asp:CheckBox ID="delito14" runat="server" />&nbsp Homicidio &nbsp </td>
                                                </tr>
-
-                                               <tr class="d-flex">
-                                                   <td> <asp:CheckBox ID="delito15" runat="server" />&nbsp Otro &nbsp </td>
-                                               </tr>
                                            </table>
 
                                            <div class="col-md-6">
                                                <label for="inputOtroDelito" class="form-label fw-bold mt-2">Otro</label>
                                                <div class="mb-3">
                                                    <asp:TextBox ID="inputOtroDelito" runat="server" CssClass="form-control"></asp:TextBox>
+
                                                </div>
                                            </div>
                                        </div>
@@ -347,7 +389,7 @@
                                    <div class="col-md-4 me-3 ms-1">
                                        <label for="inputRazonDelito" class="form-label fw-bold">6. Razón de delitos</label>
                                        <div class="mb-3">
-                                            <asp:TextBox ID="inputRazonDelito" runat="server" CssClass="form-control" ></asp:TextBox>
+                                            <textarea id="inputRazonDelito" class="form-control" rows="4" cols="15"></textarea>
                                         </div>
                                    </div>
                               </div>
@@ -356,7 +398,12 @@
                                    <div class="col-md-4 me-3 ms-1">
                                        <label for="inputNoches" class="form-label fw-bold">7. Noches fuera de su residencia actual sin permiso</label>
                                        <div class="mb-3">
-                                           <asp:TextBox ID="inputNoches" runat="server" CssClass="form-control" ></asp:TextBox>
+                                           <asp:DropDownList ID="inputNoches" AutoPostBack="false"
+                                                CssClass="form-select mt-2" runat="server">
+                                                <asp:ListItem Selected="True" Value="1N">1</asp:ListItem>
+                                                <asp:ListItem Value="2N">2</asp:ListItem>
+                                                <asp:ListItem Value="3N">3</asp:ListItem>
+                                            </asp:DropDownList>
                                         </div>
                                    </div>
                               </div>

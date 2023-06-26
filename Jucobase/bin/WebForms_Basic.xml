@@ -2278,9 +2278,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Demograficos._inputLeng">
+<member name="F:Jucobase.Demograficos._inputLenguaIndigena">
 <summary>
-Control inputLeng.
+Control inputLenguaIndigena.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -2368,9 +2368,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Demograficos._inputColoniaActua">
+<member name="F:Jucobase.Demograficos._inputColoniaActual">
 <summary>
-Control inputColoniaActua.
+Control inputColoniaActual.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -2539,27 +2539,9 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
-<member name="F:Jucobase.Demograficos._delito15">
-<summary>
-Control delito15.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
 <member name="F:Jucobase.Demograficos._inputOtroDelito">
 <summary>
 Control inputOtroDelito.
-</summary>
-<remarks>
-Campo generado automáticamente.
-Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-</remarks>
-</member>
-<member name="F:Jucobase.Demograficos._inputRazonDelito">
-<summary>
-Control inputRazonDelito.
 </summary>
 <remarks>
 Campo generado automáticamente.
@@ -14986,6 +14968,15 @@ Campo generado automáticamente.
 Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
 </remarks>
 </member>
+<member name="F:Jucobase.Salud._recibido3">
+<summary>
+Control recibido3.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
 <member name="F:Jucobase.Salud._pentavalente1">
 <summary>
 Control pentavalente1.
@@ -15646,6 +15637,15 @@ Para modificarlo, mueva la declaración del campo del archivo del diseñador al 
 <member name="F:Jucobase.Salud._infeccioso17">
 <summary>
 Control infeccioso17.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:Jucobase.Salud._infeccioso18">
+<summary>
+Control infeccioso18.
 </summary>
 <remarks>
 Campo generado automáticamente.

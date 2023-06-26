@@ -149,13 +149,13 @@ Partial Public Class Demograficos
     Protected WithEvents tutoriaLegal As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputLeng.
+    '''Control inputLenguaIndigena.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputLeng As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputLenguaIndigena As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputPaisNacimiento.
@@ -164,7 +164,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputPaisNacimiento As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputPaisNacimiento As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputEstadoNacimiento.
@@ -173,7 +173,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputEstadoNacimiento As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputEstadoNacimiento As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputMunicipioNacimiento.
@@ -182,7 +182,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputMunicipioNacimiento As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputMunicipioNacimiento As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputLocalidadNacimiento.
@@ -200,7 +200,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputPaisActual As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputPaisActual As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputEstadoActual.
@@ -209,7 +209,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputEstadoActual As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputEstadoActual As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputMunicipioActual.
@@ -218,7 +218,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputMunicipioActual As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputMunicipioActual As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputCalleNumActual.
@@ -239,13 +239,13 @@ Partial Public Class Demograficos
     Protected WithEvents inputCodigoPostalActual As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputColoniaActua.
+    '''Control inputColoniaActual.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputColoniaActua As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputColoniaActual As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control inputTipoResidencia.
@@ -263,7 +263,7 @@ Partial Public Class Demograficos
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputRazonCalle As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputRazonCalle As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control cometerDelito1.
@@ -410,15 +410,6 @@ Partial Public Class Demograficos
     Protected WithEvents delito14 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
-    '''Control delito15.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents delito15 As Global.System.Web.UI.WebControls.CheckBox
-
-    '''<summary>
     '''Control inputOtroDelito.
     '''</summary>
     '''<remarks>
@@ -428,22 +419,13 @@ Partial Public Class Demograficos
     Protected WithEvents inputOtroDelito As Global.System.Web.UI.WebControls.TextBox
 
     '''<summary>
-    '''Control inputRazonDelito.
-    '''</summary>
-    '''<remarks>
-    '''Campo generado automáticamente.
-    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
-    '''</remarks>
-    Protected WithEvents inputRazonDelito As Global.System.Web.UI.WebControls.TextBox
-
-    '''<summary>
     '''Control inputNoches.
     '''</summary>
     '''<remarks>
     '''Campo generado automáticamente.
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
-    Protected WithEvents inputNoches As Global.System.Web.UI.WebControls.TextBox
+    Protected WithEvents inputNoches As Global.System.Web.UI.WebControls.DropDownList
 
     '''<summary>
     '''Control TextBox1.

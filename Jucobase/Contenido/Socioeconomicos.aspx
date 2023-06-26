@@ -491,7 +491,13 @@
                                <div class="col-md-4 me-3 ms-1">
                                    <label for="inputRazonTrabajo" class="form-label fw-bold">7. Razón de trabajo</label>
                                    <div class="mb-3">
-                                       <asp:TextBox ID="inputRazonTrabajo" runat="server" CssClass="form-control" ></asp:TextBox>
+                                       <asp:DropDownList ID="inputRazonTrabajo" AutoPostBack="false"
+                                                CssClass="form-select" runat="server">
+                                              <asp:ListItem Selected="True" Value="1">Razón 1</asp:ListItem>
+                                              <asp:ListItem Value="2">Razón 2</asp:ListItem>
+                                              <asp:ListItem Value="3">Razón 3</asp:ListItem>
+                                              <asp:ListItem Value="4">Razón 4</asp:ListItem>
+                                        </asp:DropDownList>
                                     </div>
                                </div>
                           
@@ -554,7 +560,13 @@
                                 <div class="col-md-4 me-3 ms-1">
                                    <label for="inputPersona" class="form-label fw-bold">10. Persona a la que se le entrega la mayor parte del dinero que se gana</label>
                                    <div class="mb-3">
-                                        <asp:TextBox ID="inputPersona" runat="server" CssClass="form-control" ></asp:TextBox>
+                                        <asp:DropDownList ID="inputPersona" AutoPostBack="false"
+                                                CssClass="form-select" runat="server">
+                                              <asp:ListItem Selected="True" Value="1">Persona 1</asp:ListItem>
+                                              <asp:ListItem Value="2">Persona 2</asp:ListItem>
+                                              <asp:ListItem Value="3">Persona 3</asp:ListItem>
+                                              <asp:ListItem Value="4">Persona 4</asp:ListItem>
+                                        </asp:DropDownList>
                                    </div>
                                 </div>
                              </div>

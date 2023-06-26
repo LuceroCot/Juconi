@@ -362,6 +362,10 @@
                                              <asp:RadioButton ID="recibido2" GroupName="RecibirVacunas" runat="server" />
                                              <span class="form-check-label">No</span>
                                         </label>
+                                        <label class="form-check-inline ml-2">
+                                             <asp:RadioButton ID="recibido3" GroupName="RecibirVacunas" runat="server" />
+                                             <span class="form-check-label">No sabe</span>
+                                        </label>
                                     </div>
                                 </div>
                             </div>
@@ -691,6 +695,15 @@
 
                             <div class="row mt-2 mx-3">
                                <div class="col-md-4 me-3 ms-1">
+                                   <label for="inputAlergias" class="form-label fw-bold">20.1  Alergias (especifique)</label>
+                                   <div class="mb-3 ">
+                                      <textarea id="inputAlergias" class="form-control" rows="4" cols="15"></textarea>
+                                   </div>
+                               </div>
+                            </div>
+
+                            <div class="row mt-2 mx-3">
+                               <div class="col-md-4 me-3 ms-1">
                                    <label class="form-label fw-bold">21. ¿Requiere medicación para enfermedad crónica?</label>
                                    <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
@@ -705,7 +718,7 @@
                                </div>
 
                                <div class="col-md-4 me-3 ms-1">
-                                    <label for="medicacionEnfermedad" class="form-label fw-bold">21.1 ¿Cuál es la medicación?</label>
+                                    <label for="medicacionEnfermedad" class="form-label fw-bold">21.1 ¿Cuál o cuáles son las medicaciones?</label>
                                     <div class="mb-3 ">
                                         <textarea id="medicacionEnfermedad" class="form-control" rows="4" cols="15"></textarea>
                                     </div>
@@ -713,17 +726,8 @@
                             </div>
 
                             <div class="row mt-2 mx-3">
-                               <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputAlergias" class="form-label fw-bold">22.  Alergias (especifique)</label>
-                                   <div class="mb-3 ">
-                                      <textarea id="inputAlergias" class="form-control" rows="4" cols="15"></textarea>
-                                   </div>
-                               </div>
-                            </div>
-
-                            <div class="row mt-2 mx-3">
                                <div class="col-md-8 me-3 ms-1">
-                                   <label class="form-label fw-bold">23. Enfermedades infecciosas durante los últimos 6 meses</label>
+                                   <label class="form-label fw-bold">22. Enfermedades infecciosas durante los últimos 6 meses</label>
                                    <div class="mb-3 ">
                                        <table>
                                            <tr>
@@ -754,6 +758,7 @@
                                            <tr>
                                                <td> <asp:CheckBox ID="infeccioso16" runat="server" />&nbsp Taquicardia &nbsp &nbsp </td>
                                                <td> <asp:CheckBox ID="infeccioso17" runat="server" />&nbsp Tos &nbsp &nbsp </td>
+                                               <td> <asp:CheckBox ID="infeccioso18" runat="server" />&nbsp Fiebre &nbsp &nbsp </td>
                                            </tr>
                                        </table>
                                    </div>
@@ -768,8 +773,8 @@
                             </div>
 
                             <div class="row mt-2 mx-3">
-                               <div class="col-md-8 me-3 ms-1">
-                                   <label class="form-label fw-bold">24. En los últimos 6 meses, ¿fue llevado al médico en caso de enfermedad?</label>
+                               <div class="col-md-6 me-3 ms-1">
+                                   <label class="form-label fw-bold">23. En los últimos 6 meses, ¿fue llevado al médico en caso de enfermedad/accidente?</label>
                                    <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="llevar1" GroupName="LLevadoMedico" runat="server" />
@@ -783,7 +788,7 @@
                                </div>
 
                                <div class="col-md-8 me-3 ms-1">
-                                   <label class="form-label fw-bold">25. Razón por la cual no recibió atención médica</label>
+                                   <label class="form-label fw-bold">23.1 Razón por la cual no recibió atención médica</label>
                                    <div class="mb-3">
                                        <table>
                                            <tr>
@@ -815,7 +820,7 @@
  
                             <div class="row mt-2 mx-3">
                                <div class="col-md-4 me-3 ms-1">
-                                  <label class="form-label fw-bold">26. En los últimos 6 meses, ¿fue llevado a un centro de salud para atención preventiva?</label>
+                                  <label class="form-label fw-bold">24. En los últimos 6 meses, ¿fue llevado a un centro de salud para atención preventiva?</label>
                                   <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="atencion1" GroupName="LLevadoPreventiva" runat="server" />
@@ -829,7 +834,7 @@
                                </div>
 
                                <div class="col-md-4 me-3 ms-1">
-                                   <label class="form-label fw-bold">26.1 ¿A que centro de salud fue llevado?</label>
+                                   <label class="form-label fw-bold">24.1 ¿A que centro de salud fue llevado?</label>
                                    <div class="mb-3">
                                        <asp:DropDownList ID="inputCentroDeSalud" AutoPostBack="false"
                                                     CssClass="form-select" runat="server">
@@ -848,7 +853,7 @@
  
                             <div class="row mt-2 mx-3">
                                 <div class="col-md-8 me-3 ms-1">
-                                   <label class="form-label fw-bold">26.2 ¿Que tipo de atención preventiva recibió?</label>
+                                   <label class="form-label fw-bold">24.2 ¿Que tipo de atención preventiva recibió?</label>
                                    <div class="mb-3">
                                         <table>
                                            <tr>
@@ -876,19 +881,10 @@
                                    </div>
                                </div>
                             </div>
-                        </div>
-                      </div>
-                </div><!----------------->
-
-
-                <!-- Final-->
-                 <div class="col-xxl-4 col-xl-12 px-4">
-                      <div class="card info-card customers-card">
-                        <div class="card-body">
-                            <br />
-                            <div class="row mt-3 mx-3">
+                       
+                            <div class="row mt-2 mx-3">
                                 <div class="col-md-8 me-3 ms-1">
-                                   <label class="form-label fw-bold">27.  Accidentes en el hogar en los últimos 6 meses</label>
+                                   <label class="form-label fw-bold">25.  Accidentes en el hogar en los últimos 6 meses</label>
                                     <div class="mb-3">
                                         <table>
                                            <tr>
@@ -940,7 +936,7 @@
                 
                             <div class="row mt-2 mx-3">
                                <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputObservacionesGenerales" class="form-label fw-bold">28.  Observaciones</label>
+                                   <label for="inputObservacionesGenerales" class="form-label fw-bold">26.  Observaciones</label>
                                    <div class="mb-3 ">
                                       <textarea id="inputObservacionesGenerales" class="form-control" rows="4" cols="15"></textarea>
                                    </div>

@@ -241,18 +241,21 @@
                                             <asp:DropDownList ID="inputEscolar" AutoPostBack="false"
                                                     CssClass="form-select" runat="server">
                                                     <asp:ListItem Selected="True">Año escolar</asp:ListItem>
-                                                    <asp:ListItem Value="1P">1° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="2P">2° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="3P">3° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="4P">4° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="5P">5° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="6P">6° Primaria</asp:ListItem>
-                                                    <asp:ListItem Value="1S">1° Secundaria</asp:ListItem>
-                                                    <asp:ListItem Value="2S">2° Secundaria</asp:ListItem>
-                                                    <asp:ListItem Value="3S">3° Secundaria</asp:ListItem>
-                                                    <asp:ListItem Value="1Pr">1° Preparatoria</asp:ListItem>
-                                                    <asp:ListItem Value="2Pr">2° Preparatoria</asp:ListItem>
-                                                    <asp:ListItem Value="3Pr">3° Preparatoria</asp:ListItem>
+                                                    <asp:ListItem Value="1Pre">1° Preescolar</asp:ListItem>
+                                                    <asp:ListItem Value="2Pre">2° Preescolar</asp:ListItem>
+                                                    <asp:ListItem Value="3Pre">3° Preescolar</asp:ListItem>
+                                                    <asp:ListItem Value="1Prim">1° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="2Prim">2° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="3Prim">3° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="4Prim">4° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="5Prim">5° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="6Prim">6° Primaria</asp:ListItem>
+                                                    <asp:ListItem Value="1Sec">1° Secundaria</asp:ListItem>
+                                                    <asp:ListItem Value="2Sec">2° Secundaria</asp:ListItem>
+                                                    <asp:ListItem Value="3Sec">3° Secundaria</asp:ListItem>
+                                                    <asp:ListItem Value="1Prep">1° Preparatoria</asp:ListItem>
+                                                    <asp:ListItem Value="2Prep">2° Preparatoria</asp:ListItem>
+                                                    <asp:ListItem Value="3Prep">3° Preparatoria</asp:ListItem>
                                                     <asp:ListItem Value="Tec">Técnica</asp:ListItem>
                                                     <asp:ListItem Value="Lic">Licenciatura</asp:ListItem>
                                                     <asp:ListItem Value="N">Ninguno</asp:ListItem>
@@ -294,7 +297,12 @@
                                  <div class="col-md-4 me-3 ms-1">
                                     <label class="form-label fw-bold">5.1 En caso de no asistir, ¿cuál es la razón?</label>
                                     <div class="mb-3">
-                                        <asp:TextBox ID="razonRegazo" runat="server" CssClass="form-control" ></asp:TextBox>
+                                         <asp:DropDownList ID="razonRegazo" AutoPostBack="false"
+                                                    CssClass="form-select" runat="server">
+                                           <asp:ListItem Value="1r" Selected="True">Razón 1</asp:ListItem>
+                                           <asp:ListItem Value="2r">Razón 2</asp:ListItem>
+                                           <asp:ListItem Value="3r">Razón 3</asp:ListItem>
+                                       </asp:DropDownList>
                                     </div>
                                  </div>
                             </div>
@@ -353,7 +361,7 @@
 
                            <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputPromedio" class="form-label fw-bold">9. Última boleta de calificación o kardex está disponible</label>
+                                    <label for="inputPromedio" class="form-label fw-bold">8.2 Última boleta de calificación o kardex está disponible</label>
                                     <div class="mb-3">
                                         <asp:FileUpload  ID="documentoBoleta" runat="server" CssClass="form-control"/>
                                     </div>
@@ -362,7 +370,7 @@
 
                            <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputPromedio" class="form-label fw-bold">10. ¿Cuenta con algun tipo de beca por/para sus estudios?</label> 
+                                   <label for="inputPromedio" class="form-label fw-bold">9. ¿Cuenta con algun tipo de beca por/para sus estudios?</label> 
                                    <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="beca1" GroupName="TenerBeca" runat="server" />
@@ -377,7 +385,7 @@
 
                                 
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label for="inputPromedio" class="form-label fw-bold">10.1. ¿Cómo se llama la beca?</label>
+                                    <label for="inputPromedio" class="form-label fw-bold">9.1. ¿Cómo se llama la beca?</label>
                                     <div class="mb-3">
                                         <asp:TextBox ID="nombreBeca" runat="server" CssClass="form-control" ></asp:TextBox>
                                     </div>
@@ -386,7 +394,7 @@
 
                            <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                   <label for="inputPromedio" class="form-label fw-bold">11. Además de asistir a la escuela(o no), ¿aprende algún oficio o habilidad útil para tener una vida sostenible?</label>
+                                   <label for="inputPromedio" class="form-label fw-bold">10. Además de asistir a la escuela(o no), ¿aprende algún oficio o habilidad útil para tener una vida sostenible?</label>
                                    <div class="mb-3 position-relative">
                                         <label class="form-check-inline">
                                             <asp:RadioButton ID="aprender1" GroupName="AprenderOficio" runat="server" />
@@ -402,7 +410,7 @@
 
                            <div class="row mt-2 mx-3">
                                 <div class="col-md-4 me-3 ms-1">
-                                    <label class="form-label fw-bold">12.  Observaciones</label>
+                                    <label class="form-label fw-bold">11.  Observaciones</label>
                                     <div class="mb-3">
                                         <textarea id="inputObservaciones" class="form-control" rows="8" cols="15"></textarea>
                                     </div>

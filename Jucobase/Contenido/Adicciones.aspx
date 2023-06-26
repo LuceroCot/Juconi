@@ -263,7 +263,6 @@
                                              <span class="form-check-label">No</span>
                                            </label>
                                         </div>
-                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
                                     </div>
 
                                     <div class="col-md-4 me-3 ms-1">
@@ -278,7 +277,6 @@
                                              <span class="form-check-label">No</span>
                                            </label>
                                         </div>
-                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>
                                     </div>
                               </div>
 
@@ -302,7 +300,6 @@
                                              <span class="form-check-label">No</span>
                                            </label>
                                         </div>
-                                        <p class="mt-2"><small class="form-text text-success">Si respuesta es "No", no llenar los demás campos</small></p>                                   
                                     </div>
                                </div>
 

@@ -311,6 +311,15 @@ Partial Public Class Salud
     Protected WithEvents recibido2 As Global.System.Web.UI.WebControls.RadioButton
 
     '''<summary>
+    '''Control recibido3.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents recibido3 As Global.System.Web.UI.WebControls.RadioButton
+
+    '''<summary>
     '''Control pentavalente1.
     '''</summary>
     '''<remarks>
@@ -975,6 +984,15 @@ Partial Public Class Salud
     '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
     '''</remarks>
     Protected WithEvents infeccioso17 As Global.System.Web.UI.WebControls.CheckBox
+
+    '''<summary>
+    '''Control infeccioso18.
+    '''</summary>
+    '''<remarks>
+    '''Campo generado automáticamente.
+    '''Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+    '''</remarks>
+    Protected WithEvents infeccioso18 As Global.System.Web.UI.WebControls.CheckBox
 
     '''<summary>
     '''Control otrasEnfermedadesInfecciosas.
