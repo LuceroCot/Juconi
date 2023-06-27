@@ -28,11 +28,11 @@
                           <img src="assets/img/user.png"/>
                         </div>
                         <div class="form-group">
-                          <input type="email" name="email" class="form-control _ge_de_ol" type="text" placeholder="Enter Email" required="" aria-required="true"/>
+                          <input type="email" name="email" class="form-control _ge_de_ol" placeholder="Enter Email" required="" aria-required="true"/>
                         </div>
 
                         <div class="form-group">
-                          <input type="password" name="password" class="form-control _ge_de_ol" type="text" placeholder="Enter Password" required="" aria-required="true"/>
+                          <input type="password" name="password" class="form-control _ge_de_ol" placeholder="Enter Password" required="" aria-required="true"/>
                         </div>
 
                         <div class="checkbox form-group">
