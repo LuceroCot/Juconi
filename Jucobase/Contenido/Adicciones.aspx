@@ -35,7 +35,7 @@
         <form class="form-card row g-3 form-inline" runat="server">
             <section class="section dashboard">
                 <!-- Card -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
 
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
@@ -180,7 +180,7 @@
                 <!-- End Card -->
 
                 <!-- Adicciones -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
 
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">

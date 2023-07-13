@@ -36,7 +36,7 @@
         <section class="section dashboard">
 
                 <!-- Customers Card -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
 
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
@@ -231,7 +231,7 @@
                 <!-- End Customers Card -->
 
                 <!-- Examen físico -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
                            <h5 class="card-title fw-bold ps-4">&nbsp
@@ -343,7 +343,7 @@
                 <!------------------->
 
                 <!-- Vacunación -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
                            <h5 class="card-title fw-bold ps-4">&nbsp
@@ -500,7 +500,7 @@
                 <!---------------->
 
                 <!-- Nutrición -->
-                <div class="col-xxl-4 col-xl-12 px-4">
+                <div class="col-xxl-12 col-xl-12 px-12">
                      <div class="card info-card customers-card">
                         <div class="card-body mt-3">
                           <h5 class="card-title fw-bold ps-4">&nbsp
@@ -621,7 +621,7 @@
 
 
                 <!-- Enfermedades-->
-                <div class="col-xxl-4 col-xl-12 px-4">
+                <div class="col-xxl-12 col-xl-12 px-12">
                       <div class="card info-card customers-card">
                         <div class="card-body">
                          <br />

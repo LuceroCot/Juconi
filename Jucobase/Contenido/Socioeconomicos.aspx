@@ -35,7 +35,7 @@
             <section class="section dashboard">
 
                 <!-- Card -->
-                 <div class="col-xxl-4 col-xl-12 px-4">
+                 <div class="col-xxl-12 col-xl-12 px-12">
 
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
@@ -202,7 +202,7 @@
                 <!-- End Customers Card -->
 
                 <!-- Población en general -->
-                <div class="col-xxl-4 col-xl-12 px-4">
+                <div class="col-xxl-12 col-xl-12 px-12">
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
                            <h5 class="card-title fw-bold ps-4">&nbsp
@@ -480,7 +480,7 @@
 
 
                 <!-- Niños, niñas ya dolescentes -->
-                <div class="col-xxl-4 col-xl-12 px-4">
+                <div class="col-xxl-12 col-xl-12 px-12">
                       <div class="card info-card customers-card">
                         <div class="card-body mt-3">
                            <h5 class="card-title fw-bold ps-4">&nbsp
